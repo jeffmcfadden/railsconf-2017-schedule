@@ -16,7 +16,7 @@ events.each do |event|
   end
 end
 
-File.open( 'calendars/all_events.ics', 'w') {|f| f.write(cal.to_ical) }
+File.open( 'calendars/RC2017_all_events.ics', 'w') {|f| f.write(cal.to_ical) }
 
 events.group_by{ |e| e[:track] }.each do |track_name, events|
   cal = Icalendar::Calendar.new
@@ -32,5 +32,5 @@ events.group_by{ |e| e[:track] }.each do |track_name, events|
     end
   end
   
-  File.open( "calendars/#{track_name.gsub( ' ', '_' ).downcase}.ics", 'w') {|f| f.write(cal.to_ical) }
+  File.open( "calendars/RC2017_#{track_name.gsub( ' ', '_' ).downcase}.ics", 'w') {|f| f.write(cal.to_ical) }
 end
