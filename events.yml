@@ -1,728 +1,1917 @@
 ---
 - :title: 'Welcome & Opening Keynote: David Heinemeier Hansson'
-  :track: 'Main Events'
-  :speaker: 'David Heinemeier Hansson'
-  :room: 'South Ballroom'
+  :track: Main Events
+  :speaker: David Heinemeier Hansson
+  :room: South Ballroom
   :start_time: 2017-04-25 09:30:00 -07:00
-  :end_time:   2017-04-25 10:30:00 -07:00
-  :description: ""
+  :end_time: 2017-04-25 10:30:00 -07:00
+  :description: ''
+
 
 - :title: AM BREAK
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'South Ballroom Lobby'
+  :room: South Ballroom Lobby
   :start_time: 2017-04-25 10:30:00 -07:00
-  :end_time:   2017-04-25 10:50:00 -07:00
+  :end_time: 2017-04-25 10:50:00 -07:00
 
 - :title: 'The Art & Craft of Secrets: Using the Cryptographic Toolbox'
   :track: Security
   :speaker: Michael Swieton
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-25 10:50:00 -07:00
-  :end_time:   2017-04-25 11:30:00 -07:00
-  :description: "Picking an encryption algorithm is like choosing a lock for your door. Some are better than others - but there's more to keeping burglars out of your house (or web site) than just the door lock. This talk will review what the crypto tools are and how they fit together with our frameworks to provide trust and privacy for our applications. We'll look under the hood of websites like Facebook, at game-changing exploits like Firesheep, and at how tools from our application layer (Rails,) our protocol layer (HTTP,) and our transport layer (TLS) combine build user-visible features like single sign-on.
-MICHAEL SWIETON
-I am a software developer at Atomic Object. For more than decade I've crafted code into software of all sorts. I enjoy peeking under the hood of everything, be it math, or software, or board games, or cake."
+  :end_time: 2017-04-25 11:30:00 -07:00
+  :description: "Picking an encryption algorithm is like choosing a lock for your
+    door. Some are better than others - but there's more to keeping burglars out of
+    your house (or web site) than just the door lock. This talk will review what the
+    crypto tools are and how they fit together with our frameworks to provide trust
+    and privacy for our applications. We'll look under the hood of websites like Facebook,
+    at game-changing exploits like Firesheep, and at how tools from our application
+    layer (Rails,) our protocol layer (HTTP,) and our transport layer (TLS) combine
+    build user-visible features like single sign-on.\n\n            \n                  I
+    am a software developer at Atomic Object. For more than decade I've crafted code
+    into software of all sorts. I enjoy peeking under the hood of everything, be it
+    math, or software, or board games, or cake.\n\nMichael Swieton\n                \n
+    \               \n                  I am a software developer at Atomic Object.
+    For more than decade I've crafted code into software of all sorts. I enjoy peeking
+    under the hood of everything, be it math, or software, or board games, or cake."
 
 - :title: 'The Good Bad Bug: Learning to Embrace Mistakes'
   :track: Developer Happiness
   :speaker: Jess Rudder
   :room: '164'
   :start_time: 2017-04-25 10:50:00 -07:00
-  :end_time:   2017-04-25 11:30:00 -07:00
+  :end_time: 2017-04-25 11:30:00 -07:00
+  :description: "The history of programming is filled with examples of bugs that actually
+    turned out to be features and limitations that pushed developers to make an even
+    more interesting product. Weâ\x80\x99ll journey through code that was so â\x80\x98badâ\x80\x99
+    it was actually good. Then weâ\x80\x99ll learn to tame our inner perfectionists
+    so our code will be even better than it is today.\n\n            \n                  Jessica
+    Rudder is a recovering perfectionist that learns to code through a combination
+    of reading, asking colleagues and banging her head against a wall. When she's
+    not helping to build Flatiron School's Learn platform, she can be found training
+    for ultra marathons on the streets of NYC or creating code-related videos on YouTube
+    for CompChomp. She is an avid squirrel photographer and loves the color green.\n\nJess
+    Rudder\n                \n                \n                  Jessica Rudder is
+    a recovering perfectionist that learns to code through a combination of reading,
+    asking colleagues and banging her head against a wall. When she's not helping
+    to build Flatiron School's Learn platform, she can be found training for ultra
+    marathons on the streets of NYC or creating code-related videos on YouTube for
+    CompChomp. She is an avid squirrel photographer and loves the color green."
 
 - :title: Portable Sessions with JSON Web Tokens
   :track: General
   :speaker: Lance Ivy
   :room: '162'
   :start_time: 2017-04-25 10:50:00 -07:00
-  :end_time:   2017-04-25 11:30:00 -07:00
+  :end_time: 2017-04-25 11:30:00 -07:00
+  :description: "Ever wonder why applications use sessions and APIs use tokens? Must
+    there really be a difference? JSON Web Tokens are an emerging standard for portable
+    secure messages. We'll talk briefly about how they're built and how they earn
+    your trust, then dig into some practical examples you can take back and apply
+    to your own majestic monolith or serious services.\n\n            \n                  Lance
+    is a Ruby-focused developer with experience across the full stack but an emphasis
+    in backend and platform engineering. His idea of a productive week is cleaning
+    out the darkest corners in a codebase or puzzling out how to make the right solution
+    simple. Currently he's distilling 8 years of Kickstarter experience into Keratin
+    AuthN, an open source authentication server for any application. He'd love to
+    hear about your favorite tabletop game.\n\nLance Ivy\n                \n                \n
+    \                 Lance is a Ruby-focused developer with experience across the
+    full stack but an emphasis in backend and platform engineering. His idea of a
+    productive week is cleaning out the darkest corners in a codebase or puzzling
+    out how to make the right solution simple. Currently he's distilling 8 years of
+    Kickstarter experience into Keratin AuthN, an open source authentication server
+    for any application. He'd love to hear about your favorite tabletop game."
 
 - :title: In Relentless Pursuit of REST
   :track: General
   :speaker: Derek Prior
   :room: '160'
   :start_time: 2017-04-25 10:50:00 -07:00
-  :end_time:   2017-04-25 11:30:00 -07:00
+  :end_time: 2017-04-25 11:30:00 -07:00
+  :description: "\"That's not very RESTful.\" As a Rails developer you've probably
+    heard or even\nspoken that proclamation before, but what does it really mean?
+    What's so great\nabout being RESTful anyway?\n\nRESTful architecture can narrow
+    the responsibilities of your Rails controllers\nand make follow-on refactorings
+    more natural. In this talk, you'll learn to\nrefactor code to follow RESTful principles
+    and to identify the positive\nimpact those changes have throughout your application
+    stack.\n\n            \n                  Derek's been writing software for the
+    web for nearly 20 years. In those years he's grown less dogmatic about specific
+    technology and more passionate about the processes that build successful teams
+    and products. You can hear his thoughts on interesting technology problems, exciting
+    new languages and libraries, and industry trends on The Bike Shed.\n\nDerek Prior\n
+    \               \n                \n                  Derek's been writing software
+    for the web for nearly 20 years. In those years he's grown less dogmatic about
+    specific technology and more passionate about the processes that build successful
+    teams and products. You can hear his thoughts on interesting technology problems,
+    exciting new languages and libraries, and industry trends on The Bike Shed."
 
 - :title: Accessibility (when you don't have time to read the manual)
   :track: General
   :speaker: Katie Walsh
   :room: '156'
   :start_time: 2017-04-25 10:50:00 -07:00
-  :end_time:   2017-04-25 11:30:00 -07:00
+  :end_time: 2017-04-25 11:30:00 -07:00
+  :description: "For some, making web applications accessible is a must; Government
+    websites fall under Section 508 and retail sites need to reduce legal risk.\n\nBut
+    for others it seems like a luxury; Consultants are expensive, and so are the developer
+    hours spent trying to parse the notoriously hard-to-read WCAG 2.0 docs.\n\nThere
+    is an easier way to start!\n\nIn this session, we will demystify the WCAG 2.0
+    basics. Weâ\x80\x99ll use Chrome Accessibility Dev Tools to discover and fix common
+    issues. You will leave with a set of free and easy-to-use resources to start improving
+    the accessibility of your application today. \n\n            \n                  Katie
+    is a full-stack developer at First Data, where she builds an e-commerce application
+    using Rails & React. She is obsessed with languages, both spoken and computer
+    ones. In her free time, she loves to travel, hike, and explore.\n\nKatie Walsh\n
+    \               \n                \n                  Katie is a full-stack developer
+    at First Data, where she builds an e-commerce application using Rails & React.
+    She is obsessed with languages, both spoken and computer ones. In her free time,
+    she loves to travel, hike, and explore."
 
 - :title: Building better teams through communication
   :track: Workshop
   :speaker: Justin Herrick
   :room: '152'
   :start_time: 2017-04-25 10:50:00 -07:00
-  :end_time:   2017-04-25 12:20:00 -07:00
+  :end_time: 2017-04-25 12:20:00 -07:00
 
 - :title: 'DIY: Home monitoring with Rails & RaspberryPi'
   :track: Workshop
   :speaker: Helio Cola
   :room: '150'
   :start_time: 2017-04-25 10:50:00 -07:00
-  :end_time:   2017-04-25 12:20:00 -07:00
+  :end_time: 2017-04-25 12:20:00 -07:00
 
 - :title: 'Uncertain Times: Securing Rails Apps and User Data'
   :track: Security
   :speaker: Krista Nelson
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-25 11:40:00 -07:00
-  :end_time:   2017-04-25 12:20:00 -07:00
+  :end_time: 2017-04-25 12:20:00 -07:00
+  :description: "Itâ\x80\x99s what everyone is talking about: cyber security, hacking
+    and the safety of our data. Many of us are anxiously asking what can do we do?
+    We can implement security best practices to protect our userâ\x80\x99s personal
+    identifiable information from harm.  We each have the power and duty to be a force
+    for good.\n\nSecurity is a moving target and a full team effort, so whether you
+    are a beginner or senior level Rails developer, this talk will cover important
+    measures and resources to make sure your Rails app is best secured.\n\n            \n
+    \                 Krista Nelson is a Software Engineer at Glassbreakers, an Enterprise
+    SaaS product company focused on diversity and inclusion.  After her eight year
+    tenure at Oracle, Krista changed careers through attending the Turing School of
+    Software and Design.  In her spare time, Krista enjoys snowboarding, urban hiking,
+    and rocking on the ukulele.\n\nKrista Nelson\n                \n                \n
+    \                 Krista Nelson is a Software Engineer at Glassbreakers, an Enterprise
+    SaaS product company focused on diversity and inclusion.  After her eight year
+    tenure at Oracle, Krista changed careers through attending the Turing School of
+    Software and Design.  In her spare time, Krista enjoys snowboarding, urban hiking,
+    and rocking on the ukulele."
 
 - :title: 'Panel: Developer Happiness through Getting Involved'
   :track: Developer Happiness
   :speaker: Polly Schandorf, Terian Koscik, Sean Marcia, Sarah Mei
   :room: '164'
   :start_time: 2017-04-25 11:40:00 -07:00
-  :end_time:   2017-04-25 12:20:00 -07:00
+  :end_time: 2017-04-25 12:20:00 -07:00
+  :description: "We have amazing skills and abilities, but for a lot of us the missing
+    piece is finding a way to give back. We have an amazing panel of people who have
+    used their skills and talents from both previous careers and current to make the
+    world a better place. Learn how they got involved, and in turn what you can do
+    to get involved in areas youâ\x80\x99re passionate about to fill this missing
+    piece that will keep you happy throughout your career.\n\n            \n                  In
+    her previous life, Polly was a teacher of elementary through high school students.
+    \ After being introduced to coding using a Raspberry Pi in a teacher workshop
+    - she was hooked, and never looked back.  During the day she is a software developer
+    at STAQ and by night she's working to make the world better.\n\n                \n
+    \                 Software Engineer, GitHub\n\n                \n                  Happiness
+    Maker, Ruby for Good\n\n                \n                  Chief Consultant,
+    DevMynd\n\nPolly Schandorf\n                \n                \n                  In
+    her previous life, Polly was a teacher of elementary through high school students.
+    \ After being introduced to coding using a Raspberry Pi in a teacher workshop
+    - she was hooked, and never looked back.  During the day she is a software developer
+    at STAQ and by night she's working to make the world better.\n\n                \n
+    \             \n                \n                  Terian Koscik\n                \n
+    \               \n                  Software Engineer, GitHub\n\n                \n
+    \             \n                \n                  Sean Marcia\n                \n
+    \               \n                  Happiness Maker, Ruby for Good\n\n                \n
+    \             \n                \n                  Sarah Mei\n                \n
+    \               \n                  Chief Consultant, DevMynd"
 
 - :title: 'Observing Change: A Gold Master Test in Practice'
   :track: General
   :speaker: Jake Worth
   :room: '162'
   :start_time: 2017-04-25 11:40:00 -07:00
-  :end_time:   2017-04-25 12:20:00 -07:00
+  :end_time: 2017-04-25 12:20:00 -07:00
+  :description: "Tests try to observe change. But are some systems too big to observe
+    them all? What if we need to test a function with a very complex output?\n\nIn
+    this talk, we'll explore a Gold Master testâ\x80\x93 a special test for evaluating
+    complicated legacy systems. We'll look at how this test takes an input, such as
+    a production database, runs it through a transformative function, and then compares
+    the output to an approved version of the output.\n\nTesters of every experience
+    level will leave this talk with a new technique for evaluating complex environments,
+    and a broader conception of what a test can be.\n\n            \n                  Jake
+    is a developer at Hashrocket. He loves his job because he gets to solve tough
+    problems with smart people. In the past he led soldiers in Iraq as an Army officer.
+    When not building Web apps, Jake enjoys spending time with his wife and black
+    cat and playing the bagpipes.\n\nJake Worth\n                \n                \n
+    \                 Jake is a developer at Hashrocket. He loves his job because
+    he gets to solve tough problems with smart people. In the past he led soldiers
+    in Iraq as an Army officer. When not building Web apps, Jake enjoys spending time
+    with his wife and black cat and playing the bagpipes."
 
 - :title: A Deep Dive Into Sessions
   :track: General
   :speaker: Justin Weiss
   :room: '160'
   :start_time: 2017-04-25 11:40:00 -07:00
-  :end_time:   2017-04-25 12:20:00 -07:00
+  :end_time: 2017-04-25 12:20:00 -07:00
+  :description: "What if your Rails app couldnâ\x80\x99t tell who was visiting it?
+    If you had no idea that the same person requested two different pages? If all
+    the data you stored vanished as soon as you returned a response? The session is
+    the perfect place to put this kind of data.\n\nBut sessions can be a little magical.
+    What is a session? How does Rails know to show the right data to the right person?
+    And how do you decide where you keep your session data?\n\n            \n                  Justin
+    Weiss leads the development team at Avvo.com, the best place to find legal help
+    on the web. He's the author of Practicing Rails, a book about learning Rails without
+    being overwhelmed. On his website, http://www.justinweiss.com, Justin writes clear,
+    simple tutorials to help Rails developers write fast, clean, well-tested apps.\n\nJustin
+    Weiss\n                \n                \n                  Justin Weiss leads
+    the development team at Avvo.com, the best place to find legal help on the web.
+    He's the author of Practicing Rails, a book about learning Rails without being
+    overwhelmed. On his website, http://www.justinweiss.com, Justin writes clear,
+    simple tutorials to help Rails developers write fast, clean, well-tested apps."
 
 - :title: Goldilocks And The Three Code Reviews
   :track: General
   :speaker: Vaidehi Joshi
   :room: '156'
   :start_time: 2017-04-25 11:40:00 -07:00
-  :end_time:   2017-04-25 12:20:00 -07:00
+  :end_time: 2017-04-25 12:20:00 -07:00
+  :description: "Once upon a time, Goldilocks had a few minutes to spare before morning
+    standup. She logged into Github and saw that there were three pull requests waiting
+    for her to review.\n\nWe've probably all heard that peer code reviews can do wonders
+    to a codebase. But not all types of code reviews are effective. Some of them seem
+    to go on and on forever, while others pick at syntax and formatting but miss bugs.
+    This talk explores what makes a strong code review and what makes a painful one.
+    Join Goldilocks as she seeks to find a code review process that's neither too
+    long nor too short, but just right!\n\n            \n                  Vaidehi
+    is an engineer at Tilde, where she works on Skylight. She enjoys building and
+    breaking code, but loves creating empathetic engineering teams a whole lot more.
+    In her spare time, she runs basecs, a weekly writing series that explores the
+    fundamentals of computer science.\n\nVaidehi Joshi\n                \n                \n
+    \                 Vaidehi is an engineer at Tilde, where she works on Skylight.
+    She enjoys building and breaking code, but loves creating empathetic engineering
+    teams a whole lot more. In her spare time, she runs basecs, a weekly writing series
+    that explores the fundamentals of computer science."
 
 - :title: Lunch
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'Exhibit Hall F&G'
+  :room: Exhibit Hall F&G
   :start_time: 2017-04-25 12:20:00 -07:00
-  :end_time:   2017-04-25 13:40:00 -07:00
+  :end_time: 2017-04-25 13:40:00 -07:00
 
 - :title: Why Software Engineers Disagree About Everything
   :track: General
   :speaker: Haseeb Qureshi
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-25 13:40:00 -07:00
-  :end_time:   2017-04-25 14:20:00 -07:00
+  :end_time: 2017-04-25 14:20:00 -07:00
+  :description: "Why are there are so many disagreements in software? Why donâ\x80\x99t
+    we all converge on the same beliefs or technologies? It might sound obvious that
+    people shouldn't agree, but I want to convince you itâ\x80\x99s weird that we
+    don't. This talk will be a philosophical exploration of how knowledge converges
+    within subcultures, as I explore this question through the worlds of software,
+    online fraud, and poker.\n\n            \n                  Haseeb is a software
+    engineer at Airbnb and ardent Rubyist. Before Airbnb, he was a lead instructor
+    at App Academy, a top Rails bootcamp. He blogs actively on his website, haseebq.com.\n\nBefore
+    moving to California to break into the tech industry, Haseeb was a professional
+    poker player and author. He spends way too much time choreographing impromptu
+    fight scenes in his head.\n\nHaseeb Qureshi\n                \n                \n
+    \                 Haseeb is a software engineer at Airbnb and ardent Rubyist.
+    Before Airbnb, he was a lead instructor at App Academy, a top Rails bootcamp.
+    He blogs actively on his website, haseebq.com.\n\nBefore moving to California
+    to break into the tech industry, Haseeb was a professional poker player and author.
+    He spends way too much time choreographing impromptu fight scenes in his head."
 
-- :title: "Understanding \"Spoon Theory\" and Preventing Burnout"
+- :title: Understanding "Spoon Theory" and Preventing Burnout
   :track: Developer Happiness
   :speaker: Jameson Hampton
   :room: '164'
   :start_time: 2017-04-25 13:40:00 -07:00
-  :end_time:   2017-04-25 14:20:00 -07:00
+  :end_time: 2017-04-25 14:20:00 -07:00
 
 - :title: Exploring the History of a 12-year-old Rails Application
   :track: General
   :speaker: Nathan L. Walls
   :room: '162'
   :start_time: 2017-04-25 13:40:00 -07:00
-  :end_time:   2017-04-25 14:20:00 -07:00
+  :end_time: 2017-04-25 14:20:00 -07:00
+  :description: "Come on a journey backward through time from the present all the
+    way to August 2005 to see how a living and evolving Rails application started,
+    changed, and continues.\n\nFind out some of the challenges and temptations in
+    maintaining this application. See how different influences have coursed through
+    the application as the team changed, the business grew and as Rails and Ruby evolved.\n\nWe'll
+    explore history through code and learn from some of the developers involved in
+    the application over its lifecycle to build an understanding of where the application
+    is now and how it became what it is.\n\n            \n                  Nathan
+    L. Walls is a developer who works with and trains up software teams to\ntest well,
+    refactor to clarify intent and improve understanding, separate\nconcerns, and
+    stay adaptive with an emphasis on learning, respect and empathy.\n\nNathan's also
+    a photographer, kung fu student, qigong practitioner, day hiker\nand cat herder.
+    He writes at http://wallscorp.us.\n\nNathan L. Walls\n                \n                \n
+    \                 Nathan L. Walls is a developer who works with and trains up
+    software teams to\ntest well, refactor to clarify intent and improve understanding,
+    separate\nconcerns, and stay adaptive with an emphasis on learning, respect and
+    empathy.\n\nNathan's also a photographer, kung fu student, qigong practitioner,
+    day hiker\nand cat herder. He writes at http://wallscorp.us."
 
 - :title: Sorting Rubyists
   :track: General
   :speaker: Caleb Thompson
   :room: '160'
   :start_time: 2017-04-25 13:40:00 -07:00
-  :end_time:   2017-04-25 14:20:00 -07:00
+  :end_time: 2017-04-25 14:20:00 -07:00
+  :description: "Let's take a peek under the hood of the magical \"sort\" method,
+    learning algorithms... by sorting audience members wearing numbers! Intimidated
+    by the word \"algorithm? Not sure what performance means? Confused by \"Big O
+    Notation\"? Haven't even heard of best-, worst-, and average-case time complexities?
+    No problem: we'll learn together! You can expect to come out knowing new things
+    and with Benny Hill stuck in your head.\n\n            \n                  I entered
+    the world: translucent skin, eight pounds ten ounces, and a full head of hair.
+    Then there was Iceland and the other eight places I lived before Austin. First
+    international trip as an adult. My future best friend saw me the first time walking
+    out of an elevator; I had theme music in his head. Made those fantastic chicken
+    thighs. Thatâ\x80\x99s just the beginning.\n\nClimber, developer, painter, gamer:
+    an eccentric eclectic. Caleb is currently coding mostly in Ruby and Go.\n\nCaleb
+    Thompson\n                \n                \n                  I entered the
+    world: translucent skin, eight pounds ten ounces, and a full head of hair. Then
+    there was Iceland and the other eight places I lived before Austin. First international
+    trip as an adult. My future best friend saw me the first time walking out of an
+    elevator; I had theme music in his head. Made those fantastic chicken thighs.
+    Thatâ\x80\x99s just the beginning.\n\nClimber, developer, painter, gamer: an eccentric
+    eclectic. Caleb is currently coding mostly in Ruby and Go."
 
 - :title: Whose turn is it anyway? Augmented reality board games.
   :track: Unconventional Rails
   :speaker: Dave Tapley
   :room: '156'
   :start_time: 2017-04-25 13:40:00 -07:00
-  :end_time:   2017-04-25 14:20:00 -07:00
+  :end_time: 2017-04-25 14:20:00 -07:00
+  :description: "Board games are great, but who has time to keep track of what's going
+    on when you just want to have fun?\nIn the spirit of over-engineering we'll look
+    at PitchCar -- probably one of the simplest games in the world -- and see how
+    far we can go with web tech, image processing, and a bunch of math.\nExpect to
+    see plenty of code, some surprising problems and solutions, and of course: A live
+    demo.\n\n            \n                  Dave loves to play games, he also loves
+    engineering solutions to problems which may or may not actually exist.\nHe's a
+    graduate of computer science and robotics who has been programming professionally
+    for a decade.\n\nDave Tapley\n                \n                \n                  Dave
+    loves to play games, he also loves engineering solutions to problems which may
+    or may not actually exist.\nHe's a graduate of computer science and robotics who
+    has been programming professionally for a decade."
 
 - :title: RubyMotion for Rails Developers
   :track: Workshop
   :speaker: Lori M Olson
   :room: '152'
   :start_time: 2017-04-25 13:40:00 -07:00
-  :end_time:   2017-04-25 15:10:00 -07:00
+  :end_time: 2017-04-25 15:10:00 -07:00
 
 - :title: 'Cool Stuff on Kubernetes: a How To for Rails Developers'
   :track: Workshop
   :speaker: Jacob Burkhart, Christopher Rigor
   :room: '150'
   :start_time: 2017-04-25 13:40:00 -07:00
-  :end_time:   2017-04-25 15:10:00 -07:00
+  :end_time: 2017-04-25 15:10:00 -07:00
 
 - :title: 'Building Rails ActionDispatch:: SystemTestCase Framework'
   :track: Open Source Deep Dive
   :speaker: Eileen M. Uchitelle
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-25 14:30:00 -07:00
-  :end_time:   2017-04-25 15:10:00 -07:00
+  :end_time: 2017-04-25 15:10:00 -07:00
+  :description: "At the 2014 RailsConf DHH declared system testing would be added
+    to Rails. Three years later, Rails 5.1 makes good on that promise by introducing
+    a new testing framework: ActionDispatch::SystemTestCase. The feature brings system
+    testing to Rails with zero application configuration by adding Capybara integration.
+    After a demonstration of the new framework, we'll walk through what's uniquely
+    involved with building OSS features & how the architecture follows the Rails Doctrine.
+    We'll take a rare look at what it takes to build a major feature for Rails, including
+    goals, design decisions, & roadblocks.\n\n            \n                  Eileen
+    M. Uchitelle is an avid contributor to open source, focusing most of her time
+    on the Rails framework. She works on performance and open source software on GitHub's
+    Platform Systems team and is a member of the Rails Core team. Eileen spent the
+    last few months building the new ActionSystemTest gem for adding Capybara integration
+    to Ruby on Rails.\n\nEileen M. Uchitelle\n                \n                \n
+    \                 Eileen M. Uchitelle is an avid contributor to open source, focusing
+    most of her time on the Rails framework. She works on performance and open source
+    software on GitHub's Platform Systems team and is a member of the Rails Core team.
+    Eileen spent the last few months building the new ActionSystemTest gem for adding
+    Capybara integration to Ruby on Rails."
 
 - :title: To Code Is Human
   :track: Developer Happiness
   :speaker: Don Werve
   :room: '164'
   :start_time: 2017-04-25 14:30:00 -07:00
-  :end_time:   2017-04-25 15:10:00 -07:00
+  :end_time: 2017-04-25 15:10:00 -07:00
+  :description: "Programming is a deeply mental art. As programmers, we invest large
+    amounts of time in mastering new languages, new techniques, and new tools. But
+    all too often, we neglect our understanding of the most important tool in the
+    developer's toolbox: the programmer's brain itself.\n\nIn this talk, we will combine
+    the art of programming with the science of cognitive psychology, and emerge with
+    a deeper understanding of how to leverage the limits of the human mind to sustainably
+    craft software that is less buggy, easier to understand, and more adaptive in
+    the face of change.\n\n            \n                  Originally designed by
+    Apple in California as a laptop-durability testing device, Don has spent the past
+    seven years working around the world as a software engineer and back-pocket CTO,
+    helping companies solve tough team management and scaling issues.\n\nDon lives
+    in Tokyo, and spends his spare time shoehorning Western cooking into a kitchen
+    the size of a postage stamp, hiking through the stunning beauty of the Japanese
+    mountains, and training to survive the impending zombie apocalypse.\n\nDon Werve\n
+    \               \n                \n                  Originally designed by Apple
+    in California as a laptop-durability testing device, Don has spent the past seven
+    years working around the world as a software engineer and back-pocket CTO, helping
+    companies solve tough team management and scaling issues.\n\nDon lives in Tokyo,
+    and spends his spare time shoehorning Western cooking into a kitchen the size
+    of a postage stamp, hiking through the stunning beauty of the Japanese mountains,
+    and training to survive the impending zombie apocalypse."
 
 - :title: What Comes After SOLID? Seeking Holistic Software Quality
   :track: General
   :speaker: Ariel Caplan
   :room: '162'
   :start_time: 2017-04-25 14:30:00 -07:00
-  :end_time:   2017-04-25 15:10:00 -07:00
+  :end_time: 2017-04-25 15:10:00 -07:00
+  :description: "You care deeply about code quality and constantly strive to learn
+    more. You devour books and blogs, watch conference talks, and practice code katas.\n\nThat's
+    excellent! But immaculately factored code and clean architecture alone won't guarantee
+    quality software.\n\nAs a developer, your job isn't to write Good Code. It's to
+    deliver value for people. In that light, we'll examine the effects of a host of
+    popular coding practices. What do they accomplish? Where do they fall short?\n\nWe'll
+    set meaningful goals for well-rounded, high-quality software that solves important
+    problems for real people.\n\n            \n                  Among many personality
+    traits, Ariel is an obsessive blog and book reader, podcast listener, and conference
+    talk watcher. These unfortunate habits have led Ariel to question a great many
+    things about software development as an art, craft, and vocation.\n\nAriel has
+    also worked as a software engineer on several teams at Vitals, learning from the
+    perspectives of an array of mentors, and trying to synthesize that learning into
+    a Grand Unified Theory of Software.\n\nAriel Caplan\n                \n                \n
+    \                 Among many personality traits, Ariel is an obsessive blog and
+    book reader, podcast listener, and conference talk watcher. These unfortunate
+    habits have led Ariel to question a great many things about software development
+    as an art, craft, and vocation.\n\nAriel has also worked as a software engineer
+    on several teams at Vitals, learning from the perspectives of an array of mentors,
+    and trying to synthesize that learning into a Grand Unified Theory of Software."
 
 - :title: Tricks and treats for new developers
   :track: General
   :speaker: David Padilla
   :room: '160'
   :start_time: 2017-04-25 14:30:00 -07:00
-  :end_time:   2017-04-25 15:10:00 -07:00
+  :end_time: 2017-04-25 15:10:00 -07:00
+  :description: "Are you ready to begin building applications with Ruby on Rails?
+    It's very easy to follow a tutorial and learn how to build a blog in 15 minutes,
+    but there's a lot more to it in real life when you try to code a big web app.\n\nDuring
+    this talk I will give you a bunch of tips and tricks for Rails development that
+    almost everyone follows but rarely anyone talks about.\n\nIf you are about to
+    join this fantastic community, this talk is for you.\n\n            \n                  I
+    have been writing software for almost 16 years now. My current weapon of choice
+    is Ruby, Rails and everything related to it.\n\nI run michelada.io, an amazing
+    Software Development Team based in Colima, Mexico.\n\nI've sent a fair share of
+    Ruby on Rails websites to production and have helped keeping them operational
+    even when traffic really picks up. \n\nI enjoy sharing the word by organizing
+    local community events and speaking at conferences all around the world.\n\nDavid
+    Padilla\n                \n                \n                  I have been writing
+    software for almost 16 years now. My current weapon of choice is Ruby, Rails and
+    everything related to it.\n\nI run michelada.io, an amazing Software Development
+    Team based in Colima, Mexico.\n\nI've sent a fair share of Ruby on Rails websites
+    to production and have helped keeping them operational even when traffic really
+    picks up. \n\nI enjoy sharing the word by organizing local community events and
+    speaking at conferences all around the world."
 
 - :title: 'Inventing Friends: ActionCable + AVS = <3'
   :track: Unconventional Rails
   :speaker: Julian Cheal, Jonan Scheffler
   :room: '156'
   :start_time: 2017-04-25 14:30:00 -07:00
-  :end_time:   2017-04-25 15:10:00 -07:00
+  :end_time: 2017-04-25 15:10:00 -07:00
+  :description: "Chatbots, ActionCable, A.I. and you. And many more buzzwords will
+    enthral you in this talk.\n\nWe'll learn how to create a simple chatroom in Rails
+    using ActionCable, then how to talk to your colleagues in the office or remote
+    locations using text to speech and Amazon Voice Service.\n\nUsing the power of
+    ActionCable we will explore how its possible to create an MMMOC: massively multiplayer
+    online chatroom, that you can use TODAY to see your; Travis Build status, or deploy
+    code to your favourite PAAS, let you know when the latest release of Rails is
+    out. Using nothing but your voice and ActionCable.\n\n            \n                  Julian
+    is a British Ruby/Rails developer at Red Hat, with a penchant for tweed, fine
+    coffee, and homebrewing.\n\n                \n                  Jonan is a developer
+    at Heroku and an aspiring astronaut. He believes in you and your potential and
+    wants to help you build beautiful things. He loves robots, games, LEGOs and Magic:
+    The Gathering. If you like any of those things or are willing to pretend you should
+    go and introduce yourself. Other good conversation starters: anything youâ\x80\x99re
+    passionate about, your life story, what you want to be when you grow up and how
+    you became so fabulous.\n\nJulian Cheal\n                \n                \n
+    \                 Julian is a British Ruby/Rails developer at Red Hat, with a
+    penchant for tweed, fine coffee, and homebrewing.\n\n                \n              \n
+    \               \n                  Jonan Scheffler\n                \n                \n
+    \                 Jonan is a developer at Heroku and an aspiring astronaut. He
+    believes in you and your potential and wants to help you build beautiful things.
+    He loves robots, games, LEGOs and Magic: The Gathering. If you like any of those
+    things or are willing to pretend you should go and introduce yourself. Other good
+    conversation starters: anything youâ\x80\x99re passionate about, your life story,
+    what you want to be when you grow up and how you became so fabulous."
 
 - :title: PM BREAK
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'South Lobby'
+  :room: South Lobby
   :start_time: 2017-04-25 15:10:00 -07:00
   :end_time: 2017-04-25 15:40:00 -07:00
 
 - :title: Perusing the Rails Source Code - A Beginners Guide
   :track: Open Source Deep Dive
   :speaker: Alex Kitchens
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-25 15:40:00 -07:00
-  :end_time:   2017-04-25 16:20:00 -07:00
+  :end_time: 2017-04-25 16:20:00 -07:00
+  :description: "Open source projects like Rails are intimidating, especially as a
+    beginner. Itâ\x80\x99s hard to look at the code and know what it does. But Ruby
+    on Rails is more than just code. Written into it are years of research, discussions,
+    and motivations. Also written into it are bugs, typos, and all of the pieces that
+    make the code human. This talk outlines steps you can take to explore the inner
+    workings of Rails and gain context on its design. Understanding how Rails works
+    will allow you to write better Rails applications and better Ruby code. You will
+    leave with many resources and tips on perusing Rails.\n\n            \n                  I
+    am a full time Rails developer, part time college student, and a full time dad
+    with too much time on my hands. Professionally, I maintain Rails applications
+    used by colleges, and I bug my coworkers about things I learn in Ruby, Linux,
+    and Vim. I'm also a big fan of coffee, and Iâ\x80\x99ve happily used it as inspiration
+    for several(most(pretty much all))Â of my personal programming projects.\n\nAlex
+    Kitchens\n                \n                \n                  I am a full time
+    Rails developer, part time college student, and a full time dad with too much
+    time on my hands. Professionally, I maintain Rails applications used by colleges,
+    and I bug my coworkers about things I learn in Ruby, Linux, and Vim. I'm also
+    a big fan of coffee, and Iâ\x80\x99ve happily used it as inspiration for several(most(pretty
+    much all))Â of my personal programming projects."
 
 - :title: 'Panel: Better Hiring Practices for Fun and Profit'
   :track: General
   :speaker: Cecy Correa, Heather Corallo, Justin Herrick, Pamela Vickers
   :room: '164'
   :start_time: 2017-04-25 15:40:00 -07:00
-  :end_time:   2017-04-25 16:20:00 -07:00
+  :end_time: 2017-04-25 16:20:00 -07:00
+  :description: "The average American worker will have 10 jobs before the age of 40.
+    There's a great deal of opportunity and mobility in our industry, and yet, our
+    hiring process is anything but pleasant or streamlined. The hiring process is
+    time consuming for both candidates and employers, but we can do better! Let's
+    explore the ways we can improve the hiring process by writing better job descriptions,
+    utilizing systems that free us from unconscious biases, focusing beyond culture
+    fit, and using better (more fun) technical interviewing methods.\n\n            \n
+    \                 Cecy is a developer, designer, educator, and karaoke aficionado
+    living in Austin, TX, where she teaches for Girl Develop It, and helps organize
+    the Austin on Rails meetup. She is passionate about bringing underrepresented
+    voices into the tech industry.\n\n                \n                  Co-Founder
+    / COO, CTO2\n\n                \n                  Founder, Lunar Collective\n\n
+    \               \n                  Software Engineering Manager, MailChimp\n\nCecy
+    Correa\n                \n                \n                  Cecy is a developer,
+    designer, educator, and karaoke aficionado living in Austin, TX, where she teaches
+    for Girl Develop It, and helps organize the Austin on Rails meetup. She is passionate
+    about bringing underrepresented voices into the tech industry.\n\n                \n
+    \             \n                \n                  Heather Corallo\n                \n
+    \               \n                  Co-Founder / COO, CTO2\n\n                \n
+    \             \n                \n                  Justin Herrick\n                \n
+    \               \n                  Founder, Lunar Collective\n\n                \n
+    \             \n                \n                  Pamela Vickers\n                \n
+    \               \n                  Software Engineering Manager, MailChimp"
 
 - :title: Decouple your models with form objects
   :track: General
   :speaker: Andrew Markle
   :room: '162'
   :start_time: 2017-04-25 15:40:00 -07:00
-  :end_time:   2017-04-25 16:20:00 -07:00
+  :end_time: 2017-04-25 16:20:00 -07:00
+  :description: "Forms are a crucial part of every app and Rails has good defaults
+    for building themâ\x80\x94unless you need something complicated. Maybe you want
+    a multi-step wizard? Or maybe you'd like to pluck attributes from any model? Validation
+    becomes a pain point. So you introduce a state machine, or nest your models, or
+    do some other calisthenic to get everything working. Thankfully there's a better
+    way! This talk takes a complicated wizard and converts it into a few simple form
+    objectsâ\x80\x94it's a deep dive on decoupling models and how you can leverage
+    Trailblazer's Reform gem to make it even easier.\n\n            \n                  Andrew
+    Markle was a filmmaker, turned dog-walker, turned engineer. He loves Ruby and
+    is passionate about making small things with clear responsibilities.\n\nAndrew
+    Markle\n                \n                \n                  Andrew Markle was
+    a filmmaker, turned dog-walker, turned engineer. He loves Ruby and is passionate
+    about making small things with clear responsibilities."
 
-- :title: "Rack 'em, Stack 'em Web Apps"
+- :title: Rack 'em, Stack 'em Web Apps
   :track: General
   :speaker: Jason R. Clark
   :room: '160'
   :start_time: 2017-04-25 15:40:00 -07:00
-  :end_time:   2017-04-25 16:20:00 -07:00
+  :end_time: 2017-04-25 16:20:00 -07:00
 
 - :title: 'Outside the (Web) Box: Using Ruby for Other Protocols'
   :track: Unconventional Rails
   :speaker: Danielle Adams
   :room: '156'
   :start_time: 2017-04-25 15:40:00 -07:00
-  :end_time:   2017-04-25 16:20:00 -07:00
+  :end_time: 2017-04-25 16:20:00 -07:00
+  :description: "Ruby on Rails is a widely used web framework, using HTTP to serve
+    users web pages and store data to databases. But what about serving different
+    types of clients? Is it possible to integrate Rails with other protocol types
+    to talk to other machines? Is it efficient? How would it work? I'm going to share
+    my team's approach integrating a Ruby on Rails application with automation and
+    warehouse hardware, such as barcode scanners and Zebra printers.\n\n            \n
+    \                 Danielle is a full-stack software engineer working at Blue Apron
+    in New York City on their warehouse software. Her expertise stretches between
+    front-end heavy web applications, mostly with Ember.js, and a variety of back-ends,
+    built in Ruby. She has been coding since age 12. In her free time, she enjoys
+    live music, food, teaching others to code, and hanging out with her cat.\n\nDanielle
+    Adams\n                \n                \n                  Danielle is a full-stack
+    software engineer working at Blue Apron in New York City on their warehouse software.
+    Her expertise stretches between front-end heavy web applications, mostly with
+    Ember.js, and a variety of back-ends, built in Ruby. She has been coding since
+    age 12. In her free time, she enjoys live music, food, teaching others to code,
+    and hanging out with her cat."
 
 - :title: Your First API Integration
   :track: Workshop
   :speaker: Terian Koscik
   :room: '152'
   :start_time: 2017-04-25 15:40:00 -07:00
-  :end_time:   2017-04-25 17:10:00 -07:00
+  :end_time: 2017-04-25 17:10:00 -07:00
 
 - :title: Front-End Performance for Full-Stack Developers
   :track: Workshop
   :speaker: Nate Berkopec
   :room: '150'
   :start_time: 2017-04-25 15:40:00 -07:00
-  :end_time:   2017-04-25 17:10:00 -07:00
+  :end_time: 2017-04-25 17:10:00 -07:00
 
 - :title: Teaching RSpec to Play nice with Rails
   :track: Open Source Deep Dive
   :speaker: Sam Phippen
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-25 16:30:00 -07:00
-  :end_time:   2017-04-25 17:10:00 -07:00
+  :end_time: 2017-04-25 17:10:00 -07:00
+  :description: "RSpec gives you many ways to test your Rails app. Controller, view,
+    model, and so on. Often, it's not clear which to use. In this talk, you'll get
+    some practical advice to improve your testing by understanding how RSpec integrates
+    with Rails. To do this we'll look through some real world RSpec bugs, and with
+    each one, clarify our understanding of the boundaries between RSpec and Rails.\n\nIf
+    you're looking to level up your testing, understand RSpec's internals a little
+    better, or improve your Rails knowledge, this talk will have something for you.
+    Some knowledge of RSpec's test types will be assumed.\n\n            \n                  Sam
+    Phippen is an Engineer at DigitalOcean. He comes to the table with enthusiasm,
+    and a great deal of love for the Ruby community. He fights for the forces of justice
+    as a member of the RSpec core team. He's sad that he can't hug every cat.\n\nSam
+    Phippen\n                \n                \n                  Sam Phippen is
+    an Engineer at DigitalOcean. He comes to the table with enthusiasm, and a great
+    deal of love for the Ruby community. He fights for the forces of justice as a
+    member of the RSpec core team. He's sad that he can't hug every cat."
 
 - :title: 'We''ve always been here: Women changemakers in tech'
   :track: General
   :speaker: Hilary Stohs-Krause
   :room: '164'
   :start_time: 2017-04-25 16:30:00 -07:00
-  :end_time:   2017-04-25 17:10:00 -07:00
+  :end_time: 2017-04-25 17:10:00 -07:00
+  :description: "Steve Jobs. Linus Torvalds. Alan Turing.\n\nBeen there, done that.\n\nThe
+    interesting stories often arenâ\x80\x99t the ones we grew up with; theyâ\x80\x99re
+    the ones weâ\x80\x99ve left behind. When it comes to tech, that means its women,
+    and especially its women of color. And while thereâ\x80\x99s been a greater emphasis
+    lately on rediscovering womenâ\x80\x99s contributions to technology, we need to
+    expand our focus beyond just Grace Hopper and Ada Lovelace.\n\nFrom Radia Perlman
+    to Sophie Wilson to Erica Baker, let's explore both techâ\x80\x99s forgotten heroes
+    and its modern-day pioneers, and help end the silent erasure of women in technology.\n\n
+    \           \n                  Hilary Stohs-Krause is currently based in Madison,
+    WI, working as a full-stack software developer at Ten Forward Consulting. She
+    came to tech by way of childhood website-building (a \"Buffy the Vampire Slayer\"
+    fansite, to be exact). \n\nShe volunteers regularly with several tech and community
+    organizations, and co-runs Madison Women in Tech, a local group with more than
+    800 members. She tweets at @hilarysk.\n\nHilary Stohs-Krause\n                \n
+    \               \n                  Hilary Stohs-Krause is currently based in
+    Madison, WI, working as a full-stack software developer at Ten Forward Consulting.
+    She came to tech by way of childhood website-building (a \"Buffy the Vampire Slayer\"
+    fansite, to be exact). \n\nShe volunteers regularly with several tech and community
+    organizations, and co-runs Madison Women in Tech, a local group with more than
+    800 members. She tweets at @hilarysk."
 
 - :title: Deep Dive Into Docker Containers for Rails Developers
   :track: Sponsored
   :speaker: Christopher Rigor
   :room: '162'
   :start_time: 2017-04-25 16:30:00 -07:00
-  :end_time:   2017-04-25 17:10:00 -07:00
+  :end_time: 2017-04-25 17:10:00 -07:00
+  :description: "Containers have gained popularity the past few years but they have
+    been around much longer than that. In this talk, we'll dive into the internals
+    of a container. If you have used or heard about Docker containers but are unsure
+    how they work, this talk is for you.\n\nâ\x80¨Youâ\x80\x99ll also learn how to
+    run Rails in production-ready container environments like Kubernetes.\n\n            \n
+    \                 Christopher is the Support Manager for Asia Pacific at Engine
+    Yard. He is one of the \"far more experienced and intelligent human beings who
+    can actually support and monitor your app in production\" according to Jacob Burkhart.
+    He is also the organizer of RubyConf Philippines, which has run annually since
+    2014.\n\nChristopher Rigor\n                \n                \n                  Christopher
+    is the Support Manager for Asia Pacific at Engine Yard. He is one of the \"far
+    more experienced and intelligent human beings who can actually support and monitor
+    your app in production\" according to Jacob Burkhart. He is also the organizer
+    of RubyConf Philippines, which has run annually since 2014."
 
 - :title: Practical Debugging
   :track: General
   :speaker: Kevin Deisz
   :room: '160'
   :start_time: 2017-04-25 16:30:00 -07:00
-  :end_time:   2017-04-25 17:10:00 -07:00
+  :end_time: 2017-04-25 17:10:00 -07:00
+  :description: "People give ruby a bad reputation for speed, efficiency, weak typing,
+    etc. But one of the biggest benefits of an interpreted language is the ability
+    to debug and introspect quickly without compilation. Oftentimes developers reach
+    for heavy-handed libraries to debug their application when they could just as
+    easily get the information they need by using tools they already have.\n\nIn this
+    talk you will learn practical techniques to make debugging easier. You will see
+    how simple techniques from the ruby standard library can greatly increase your
+    ability to keep your codebase clean and bug-free.\n\n            \n                  I'm
+    a software developer at Localytics in Boston. I'm passionate about object-oriented
+    programming, working well with ruby, and craft beer. I've been working with ruby
+    and the accompanying eco-system for 8 years. I'm a fan of simple code, good books,
+    and great music.\n\nKevin Deisz\n                \n                \n                  I'm
+    a software developer at Localytics in Boston. I'm passionate about object-oriented
+    programming, working well with ruby, and craft beer. I've been working with ruby
+    and the accompanying eco-system for 8 years. I'm a fan of simple code, good books,
+    and great music."
 
 - :title: Implementing the Web Speech API for Voice Data Entry
   :track: Unconventional Rails
   :speaker: Cameron Jacoby
   :room: '156'
   :start_time: 2017-04-25 16:30:00 -07:00
-  :end_time:   2017-04-25 17:10:00 -07:00
+  :end_time: 2017-04-25 17:10:00 -07:00
+  :description: "We live in a world where you can schedule a meeting by talking to
+    your watch or turn off your lights by asking Alexa as if she were your roommate.
+    But would voice dictation work for something more intensive, like a web app used
+    for hours of data entry?\n\nIn this talk, Iâ\x80\x99ll show you how to implement
+    the Web Speech API in a few simple steps. Iâ\x80\x99ll also walk through a case
+    study of using the API in a production Rails app. Youâ\x80\x99ll leave with an
+    understanding of how to implement voice dictation on the web as well as criteria
+    to evaluate if voice is a viable solution to a given problem.\n\n            \n
+    \                 Cameron is a Software Engineer at Stitch Fix, where she builds
+    internal tools in Ruby on Rails. She found coding by way of Merchandising, while
+    working at Stitch Fix on the Jewelry & Accessories team in 2014. After attending
+    General Assemblyâ\x80\x99s web development immersive program, Cameron is now working
+    on the tools that once made her job on the Merchandising team easier. In her free
+    time, she loves traveling, teaching others to code, and daydreaming about becoming
+    a dog owner.\n\nCameron Jacoby\n                \n                \n                  Cameron
+    is a Software Engineer at Stitch Fix, where she builds internal tools in Ruby
+    on Rails. She found coding by way of Merchandising, while working at Stitch Fix
+    on the Jewelry & Accessories team in 2014. After attending General Assemblyâ\x80\x99s
+    web development immersive program, Cameron is now working on the tools that once
+    made her job on the Merchandising team easier. In her free time, she loves traveling,
+    teaching others to code, and daydreaming about becoming a dog owner."
 
 - :title: 'Keynote: Pamela Pavliscak'
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-25 17:20:00 -07:00
   :end_time: 2017-04-25 18:10:00 -07:00
 
 - :title: 'Keynote: Justin Searls'
-  :track: 'Main Events'
-  :speaker: 'Justin Searls'
-  :room: 'South Ballroom'
+  :track: Main Events
+  :speaker: Justin Searls
+  :room: South Ballroom
   :start_time: 2017-04-26 09:00:00 -07:00
-  :end_time:   2017-04-26 10:00:00 -07:00
+  :end_time: 2017-04-26 10:00:00 -07:00
 
 - :title: AM BREAK
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'Exhibit Hall F&G'
+  :room: Exhibit Hall F&G
   :start_time: 2017-04-26 10:00:00 -07:00
-  :end_time:   2017-04-26 10:50:00 -07:00
+  :end_time: 2017-04-26 10:50:00 -07:00
 
 - :title: 'Rough to Fine: Programming Lessons from Woodworking'
   :track: Productivity
   :speaker: Mark Simoneau
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-26 10:50:00 -07:00
-  :end_time:   2017-04-26 11:30:00 -07:00
+  :end_time: 2017-04-26 11:30:00 -07:00
+  :description: "Woodworking has experienced quite a renaissance as of late, and a
+    very popular style involves using power tools for rough work and hand tools for
+    detail and precision work. Using both defines each woodworker's speed and ability
+    to produce beautiful/functional pieces. The same can be true of developers. What
+    can we as developers learn from this mix of modern and ancient craft? Come find
+    out.\n\n            \n                  Based in Austin, TX, Mark has 15 years
+    of full time development experience, 9 of which have been in Ruby and Rails.   He's
+    been at Upworthy and Stitch Fix in recent years, as a lead in both engineering
+    organizations.  Mark has a passion for connecting with people, BBQ, board games,
+    woodworking and simple solutions to problems.\n\nMark Simoneau\n                \n
+    \               \n                  Based in Austin, TX, Mark has 15 years of
+    full time development experience, 9 of which have been in Ruby and Rails.   He's
+    been at Upworthy and Stitch Fix in recent years, as a lead in both engineering
+    organizations.  Mark has a passion for connecting with people, BBQ, board games,
+    woodworking and simple solutions to problems."
 
 - :title: Leading When You're Not in Charge
   :track: Leading at all Levels
   :speaker: Scott Lesser
   :room: '164'
   :start_time: 2017-04-26 10:50:00 -07:00
-  :end_time:   2017-04-26 11:30:00 -07:00
+  :end_time: 2017-04-26 11:30:00 -07:00
+  :description: "Just because you don't have lead / senior / manager / owner in your
+    title, doesn't mean there isn't plenty of opportunity to lead. No matter where
+    you are in your career, come discover how to communicate more effectively, embrace
+    self-awareness, and influence those leading you. Don't wait for a title to tell
+    you to lead. Take responsibility where you are, and let the titles come to you.\n\n
+    \           \n                  Scott has been developing professionally for 10+
+    years. Currently he is the senior developer on the Open Network team at Life.Church.
+    When he's not building software for churches, he's begging for laughs as an amateur
+    stand-up comedian and dadding so hard he sees Legos in his sleep.\n\nScott Lesser\n
+    \               \n                \n                  Scott has been developing
+    professionally for 10+ years. Currently he is the senior developer on the Open
+    Network team at Life.Church. When he's not building software for churches, he's
+    begging for laughs as an amateur stand-up comedian and dadding so hard he sees
+    Legos in his sleep."
 
 - :title: Google Cloud <3 Ruby
   :track: Sponsored
   :speaker: Remi Taylor
   :room: '162'
   :start_time: 2017-04-26 10:50:00 -07:00
-  :end_time:   2017-04-26 11:30:00 -07:00
+  :end_time: 2017-04-26 11:30:00 -07:00
+  :description: "This is a sponsored talk by Google Cloud Platform.\n\nRuby developers
+    welcome! Our dedicated Google Cloud Platform Ruby team has built a great experience
+    for Ruby developers using GCP. In this session, we'll walk through the steps to
+    deploy, debug and scale a Ruby on Rails application on Google App Engine. You'll
+    also learn about some of the exciting Ruby libraries available today for adding
+    features to your app with GCP services like BigQuery and Cloud Vision API.\n\n
+    \           \n                  Remi works on the Ruby Cloud team, crafting elegant
+    code to help Ruby developers use Google Cloud Platform.Â  Now in Seattle, she
+    started her career in Phoenix where she was an active member of the local developer
+    community.Â  Her passions include developer experience, domain specific languages,
+    and dogs.Â  If you canâ\x80\x99t find her after the conference, she is undoubtedly
+    at Oreganoâ\x80\x99s.\n\nRemi Taylor\n                \n                \n                  Remi
+    works on the Ruby Cloud team, crafting elegant code to help Ruby developers use
+    Google Cloud Platform.Â  Now in Seattle, she started her career in Phoenix where
+    she was an active member of the local developer community.Â  Her passions include
+    developer experience, domain specific languages, and dogs.Â  If you canâ\x80\x99t
+    find her after the conference, she is undoubtedly at Oreganoâ\x80\x99s."
 
 - :title: Developer Happiness on the Front End with Elm
   :track: General
   :speaker: Kevin Yank
   :room: '160'
   :start_time: 2017-04-26 10:50:00 -07:00
-  :end_time:   2017-04-26 11:30:00 -07:00
+  :end_time: 2017-04-26 11:30:00 -07:00
+  :description: "Ruby and Rails famously prioritised developer happiness, and took
+    the world by storm. Elm, a new language that compiles to JavaScript, proves that
+    putting developer happiness first can produce very different results on the front
+    end! Born out of Haskell, Elm is as unlike Ruby as programming languages get,
+    but in this session weâ\x80\x99ll see how its particular blend of design decisions
+    tackles everything thatâ\x80\x99s painful about front-end development, making
+    it an excellent choice for the curious Rubyistâ\x80\x99s next favorite language.\n\n
+    \           \n                  Before joining Culture Amp as an Engineering Lead
+    in 2015, Kevin taught a generation of web developers during his time at SitePoint,
+    and helped to launch success stories like 99designs and Flippa. More recently,
+    he quizzed web developers on HTML, CSS and JavaScript by leading the team behind
+    Sit the Test. On weekends he performs improvised theatre with Impro Melbourne,
+    which is a lot more like building web apps than you might expect.\n\nKevin Yank\n
+    \               \n                \n                  Before joining Culture Amp
+    as an Engineering Lead in 2015, Kevin taught a generation of web developers during
+    his time at SitePoint, and helped to launch success stories like 99designs and
+    Flippa. More recently, he quizzed web developers on HTML, CSS and JavaScript by
+    leading the team behind Sit the Test. On weekends he performs improvised theatre
+    with Impro Melbourne, which is a lot more like building web apps than you might
+    expect."
 
 - :title: Is it Food? An Introduction to Machine Learning
   :track: Machine Learning
   :speaker: Matthew Mongeau
   :room: '156'
   :start_time: 2017-04-26 10:50:00 -07:00
-  :end_time:   2017-04-26 11:30:00 -07:00
+  :end_time: 2017-04-26 11:30:00 -07:00
+  :description: "Machine Learning is no longer just an academic study. Tools like
+    Tensorflow have opened new doorways in the world of application development. Learn
+    about the current tools available and how easy it is to integrate them into your
+    rails application. We'll start by looking at a real-world example currently being
+    used in the wild and then delve into creating a sample application that utilizes
+    machine learning. \n\n            \n                  A passion for cooking, programming,
+    and Japanese brought Matt to work at Cookpad, an international recipe sharing
+    website. As a member of the web team he works to bring together all the technologies
+    they use into the international rails application. Recent adventures has brought
+    about an interest in Machine Learning and figuring out how to use it in order
+    to change the ways we create and share recipes.\n\nMatthew Mongeau\n                \n
+    \               \n                  A passion for cooking, programming, and Japanese
+    brought Matt to work at Cookpad, an international recipe sharing website. As a
+    member of the web team he works to bring together all the technologies they use
+    into the international rails application. Recent adventures has brought about
+    an interest in Machine Learning and figuring out how to use it in order to change
+    the ways we create and share recipes."
 
 - :title: Making Moves With React
   :track: Workshop
   :speaker: Rushaine McBean
   :room: '152'
   :start_time: 2017-04-26 10:50:00 -07:00
-  :end_time:   2017-04-26 12:20:00 -07:00
+  :end_time: 2017-04-26 12:20:00 -07:00
 
 - :title: Refactoring for Machine Dignity
   :track: Workshop
   :speaker: Evan Burchard
   :room: '150'
   :start_time: 2017-04-26 10:50:00 -07:00
-  :end_time:   2017-04-26 12:20:00 -07:00
+  :end_time: 2017-04-26 12:20:00 -07:00
 
 - :title: 'Warning: May Be Habit Forming'
   :track: Productivity
   :speaker: Nickolas Means
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-26 11:40:00 -07:00
-  :end_time:   2017-04-26 12:20:00 -07:00
+  :end_time: 2017-04-26 12:20:00 -07:00
+  :description: "Over the past year, Iâ\x80\x99ve spoken at several conferences, lost
+    30 pounds, and worked up to running my first 5K, all while leading an engineering
+    team and spending significant time with my family. I also have less willpower
+    than just about everyone I know. So howâ\x80\x99d I accomplish those things?\n\nLetâ\x80\x99s
+    talk about how to build goals the right way so that youâ\x80\x99ll be all but
+    guaranteed to hit them. Weâ\x80\x99ll work through the process of creating systems
+    and nurturing habits to turn your brain into your biggest ally, no matter what
+    you want to accomplish!\n\n            \n                  In addition to being
+    a breakfast taco connoisseur, Nickolas Means is also a connoisseur of disaster
+    stories. He loves seeing how sometimes the absolute worst thing that could possibly
+    happen sometimes brings out the absolute best in the people it happens to. When
+    he's not studying the macabre, Nick is VP of Engineering at Muve Health, working
+    to change how healthcare gets paid for in the US.\n\nNickolas Means\n                \n
+    \               \n                  In addition to being a breakfast taco connoisseur,
+    Nickolas Means is also a connoisseur of disaster stories. He loves seeing how
+    sometimes the absolute worst thing that could possibly happen sometimes brings
+    out the absolute best in the people it happens to. When he's not studying the
+    macabre, Nick is VP of Engineering at Muve Health, working to change how healthcare
+    gets paid for in the US."
 
 - :title: Bebop to the Top - The Jazz Band As A Guide To Leadership
   :track: Leading at all Levels
   :speaker: Michael Cain
   :room: '164'
   :start_time: 2017-04-26 11:40:00 -07:00
-  :end_time:   2017-04-26 12:20:00 -07:00
+  :end_time: 2017-04-26 12:20:00 -07:00
+  :description: "The ideal workplace, with motivated employees, supportive managers
+    and a clear vision in the \"C-suite\", is where we'd all like to work, isn't it?
+    The question then, is, how do we create it? How do managers walk the fine line
+    of \"micromanaging\" and \"anarchy\"? How can we, as employees, maximize our contribution
+    to our company and love what we do at the same time?\n\nThe secret is in the big
+    band.\n\nInspired by Max Dupree's Leadership Jazz, this talk will show you how
+    to apply the principles of improvisation to your company/team and make your workplace
+    more efficient, effective and fun!\n\n            \n                  Minnesota-raised,
+    Philadephia-made.\n\nMichael is a creative guy who likes to make things, especially
+    music and apps. He's spent the last 15 years performing as a professional musician,
+    from the Minnesota Opera to clubs of all kinds up and down the East coast. Prior
+    to joining the Ruby community in 2014, Michael taught an assortment of music courses
+    for Camden County College and the University of Phoenix at Center City.\n\nMichael
+    Cain\n                \n                \n                  Minnesota-raised,
+    Philadephia-made.\n\nMichael is a creative guy who likes to make things, especially
+    music and apps. He's spent the last 15 years performing as a professional musician,
+    from the Minnesota Opera to clubs of all kinds up and down the East coast. Prior
+    to joining the Ruby community in 2014, Michael taught an assortment of music courses
+    for Camden County College and the University of Phoenix at Center City."
 
-- :title: "Tailoring Mentorship: Achieving the Best Fit"
+- :title: 'Tailoring Mentorship: Achieving the Best Fit'
   :track: Sponsored
   :speaker: Jonathan Wallace
   :room: '162'
   :start_time: 2017-04-26 11:40:00 -07:00
-  :end_time:   2017-04-26 12:20:00 -07:00
+  :end_time: 2017-04-26 12:20:00 -07:00
 
 - :title: 'Rails to Phoenix: How Elixir can level-you-up in Rails'
   :track: General
   :speaker: Christian Koch
   :room: '160'
   :start_time: 2017-04-26 11:40:00 -07:00
-  :end_time:   2017-04-26 12:20:00 -07:00
+  :end_time: 2017-04-26 12:20:00 -07:00
+  :description: "Elixir has rapidly developed into a mature language with an ever-growing
+    library of packages that excels at running web apps. And because both Elixir and
+    Phoenix were developed by Ruby / Rails programmers, the ease with which you can
+    learn Elixir as a Ruby developer, is much greater than many other  languages.
+    With numerous code examples, this talk will discuss how learning a functional
+    approach to handling web requests can improve what we do every day with Rails.
+    This talk is aimed at people who have some familiarity with Rails but no experience
+    with Elixir is necessary.\n\n            \n                  As a senior developer
+    at NCSA, a primarily Rails shop in Chicago, IL, Christian works on both new and
+    legacy Rails apps, and has brought a smattering of Elixir/Phoenix into the shop.
+    Professionally his interests include operational security including implementation
+    of cryptographic libraries, Ruby, Rails, Elixir, Phoenix, Docker, and Elastic
+    Search. Christian tries to gain experience in every frame of the dev stack, from
+    servers and dev-ops all the way through to the javascript in the browser.\n\nChristian
+    Koch\n                \n                \n                  As a senior developer
+    at NCSA, a primarily Rails shop in Chicago, IL, Christian works on both new and
+    legacy Rails apps, and has brought a smattering of Elixir/Phoenix into the shop.
+    Professionally his interests include operational security including implementation
+    of cryptographic libraries, Ruby, Rails, Elixir, Phoenix, Docker, and Elastic
+    Search. Christian tries to gain experience in every frame of the dev stack, from
+    servers and dev-ops all the way through to the javascript in the browser."
 
 - :title: Predicting Titanic Survivors with Machine Learning
   :track: Machine Learning
   :speaker: Ju Liu
   :room: '156'
   :start_time: 2017-04-26 11:40:00 -07:00
-  :end_time:   2017-04-26 12:20:00 -07:00
+  :end_time: 2017-04-26 12:20:00 -07:00
+  :description: "What's a better way to understand machine learning than a practical
+    example? And who hasn't watched the 1997 classic with Jack and Rose? In this talk
+    we will first take a look at some real historical data of the event. Then we will
+    use amazing Python libraries to live code several of the most well known algorithms.
+    This will help us understand some fundamental concepts of how machine learning
+    works. When we're done, you should have a good mental framework to make sense
+    of it in the modern world.\n\n            \n                  Ju was born in China,
+    then as a kid moved to Italy. He grew up and cofounded a consulting company in
+    Turin. After some time, he decided to start a new adventure and moved to London,
+    where he works at Erlang Solutions as an Elixir Engineer. He loves to solve hard
+    problems and build amazing products. When heâ\x80\x99s not doing that, heâ\x80\x99s
+    probably rock climbing.\n\nJu Liu\n                \n                \n                  Ju
+    was born in China, then as a kid moved to Italy. He grew up and cofounded a consulting
+    company in Turin. After some time, he decided to start a new adventure and moved
+    to London, where he works at Erlang Solutions as an Elixir Engineer. He loves
+    to solve hard problems and build amazing products. When heâ\x80\x99s not doing
+    that, heâ\x80\x99s probably rock climbing."
 
 - :title: Lunch
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'Exhibit Hall F&G'
+  :room: Exhibit Hall F&G
   :start_time: 2017-04-26 12:20:00 -07:00
-  :end_time:   2017-04-26 13:50:00 -07:00
+  :end_time: 2017-04-26 13:50:00 -07:00
 
 - :title: 'Rails 5.1: awesome features and breaking changes'
   :track: General
   :speaker: Claudio B.
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-26 13:50:00 -07:00
-  :end_time:   2017-04-26 14:30:00 -07:00
+  :end_time: 2017-04-26 14:30:00 -07:00
+  :description: "Each minor release of Rails brings shiny new features and mild headaches
+    for developers required to upgrade their applications and gems.\n\nRails 5.1 will
+    support Yarn and modern Javascript transpilers, remove jQuery from the default
+    stack, integrate system testing and a concurrent test runner, introduce a new
+    helper to create forms, provide encrypted secrets and more.\n\nIn this talk, I
+    will cover the improvements brought by Rails 5.1, explain the Core teamâ\x80\x99s
+    motivations behind each feature, and illustrate the upgrade process to smoothly
+    transition gems and apps from Rails 5.0 to Rails 5.1.\n\n            \n                  Claudio
+    is a member of the Rails Issues team, a frequent contributor to the Rails source
+    code (over 200 commits), the organizer of the L.A. Ruby/Rails meetup and one of
+    the authors of the weekly newsletter \"This week in Rails\".\n\nClaudio B.\n                \n
+    \               \n                  Claudio is a member of the Rails Issues team,
+    a frequent contributor to the Rails source code (over 200 commits), the organizer
+    of the L.A. Ruby/Rails meetup and one of the authors of the weekly newsletter
+    \"This week in Rails\"."
 
 - :title: Supporting Mental Health as an Effective Leader
   :track: Leading at all Levels
   :speaker: Jesse James
   :room: '164'
   :start_time: 2017-04-26 13:50:00 -07:00
-  :end_time:   2017-04-26 14:30:00 -07:00
+  :end_time: 2017-04-26 14:30:00 -07:00
+  :description: "As the stigma of speaking out about mental health conditions declines,
+    leaders in the programming community are are being given many new opportunities
+    to support their teams.  In this session you will learn about the issues some
+    of your team may face both in dealing with their own potential mental health difficulties
+    and that of other team members.  We will go over ways to support both the individual
+    and team, how to advocate for team members with mental health conditions, and
+    resources for further information and outreach for you and your team.\n\n            \n
+    \                 A Ruby on Rails lover, Elixir dabbler, and all around beginner
+    at much of life.  Born and raised in rural Missouri but now firmly entrenched
+    on the West Coast.  Lover of corgis and cats alike.  Currently working as a Developer
+    Advocate for SparkPost, formerly at Raygun, TripGrid, and Marketo.  I also lift
+    things up and put them back down. Email:  jrjames.pdx@gmail.com Twitter:  @jjamespdx\n\nJesse
+    James\n                \n                \n                  A Ruby on Rails lover,
+    Elixir dabbler, and all around beginner at much of life.  Born and raised in rural
+    Missouri but now firmly entrenched on the West Coast.  Lover of corgis and cats
+    alike.  Currently working as a Developer Advocate for SparkPost, formerly at Raygun,
+    TripGrid, and Marketo.  I also lift things up and put them back down. Email:  jrjames.pdx@gmail.com
+    Twitter:  @jjamespdx"
 
-- :title: "Postgres at Any Scale"
+- :title: Postgres at Any Scale
   :track: Sponsored
   :speaker: Will Leinweber
   :room: '162'
   :start_time: 2017-04-26 13:50:00 -07:00
-  :end_time:   2017-04-26 14:30:00 -07:00
+  :end_time: 2017-04-26 14:30:00 -07:00
 
 - :title: React on Rails
   :track: General
   :speaker: Jo Cranford
   :room: '160'
   :start_time: 2017-04-26 13:50:00 -07:00
-  :end_time:   2017-04-26 14:30:00 -07:00
+  :end_time: 2017-04-26 14:30:00 -07:00
+  :description: "Eighteen months ago, our fairly typical Ruby on Rails app had some
+    mundane client side interactions managed by a tangle of untested JQuery spaghetti.
+    \n\nToday, new features are built with React, CSS modules, and a far better UX.
+    With ES6 front end code, processed with Babel, compiled (and hot-reloaded in development)
+    with Webpack, and tested with Jest â\x80\x93 all within the same Rails application.
+    \n\nCome along to this talk to hear how we migrated our app a piece at a time
+    to use technologies that donâ\x80\x99t always sit naturally alongside Rails. I
+    will cover technical implementations and lessons learned. \n\n            \n                  Jo
+    is a Lead Developer based in Melbourne, Australia at Culture Amp, an all-in-one
+    people feedback and analytics platform. Although Jo has been a Senior Business
+    Analyst and Product Planner, coding is her real passion. She's worked with Lonely
+    Planet, Atlassian, ThoughtWorks and Expedia and was CTO of a startup accepted
+    into Telstra's Muru-D program. When not coding her happy place is under the sea
+    - she's a qualified scuba diving instructor.\n\nJo Cranford\n                \n
+    \               \n                  Jo is a Lead Developer based in Melbourne,
+    Australia at Culture Amp, an all-in-one people feedback and analytics platform.
+    Although Jo has been a Senior Business Analyst and Product Planner, coding is
+    her real passion. She's worked with Lonely Planet, Atlassian, ThoughtWorks and
+    Expedia and was CTO of a startup accepted into Telstra's Muru-D program. When
+    not coding her happy place is under the sea - she's a qualified scuba diving instructor."
 
 - :title: Bayes is BAE
   :track: Machine Learning
   :speaker: Richard Schneeman
   :room: '156'
   :start_time: 2017-04-26 13:50:00 -07:00
-  :end_time:   2017-04-26 14:30:00 -07:00
+  :end_time: 2017-04-26 14:30:00 -07:00
+  :description: "Before programming, before formal probability there was Bayes. He
+    introduced the notion that multiple uncertain estimates which are related could
+    be combined to form a more certain estimate. It turns out that this extremely
+    simple idea has a profound impact on how we write programs and how we can think
+    about life. The applications range from machine learning and robotics to determining
+    cancer treatments. In this talk we'll take an in depth look at Bayses rule and
+    how it can be applied to solve problems in programming and beyond.\n\n            \n
+    \                 Schneems writes Ruby at Heroku, maintains CodeTriage.com, and
+    co-organizes Keep Ruby Weird. He is in the top 50 Rails contributors and is an
+    accidental maintainer of Sprockets. He writes such gems as Wicked, and derailed_benchmarks.\n\nRichard
+    Schneeman\n                \n                \n                  Schneems writes
+    Ruby at Heroku, maintains CodeTriage.com, and co-organizes Keep Ruby Weird. He
+    is in the top 50 Rails contributors and is an accidental maintainer of Sprockets.
+    He writes such gems as Wicked, and derailed_benchmarks."
 
 - :title: Elm For Rails Developers
   :track: Workshop
   :speaker: Brad Grzesiak
   :room: '152'
   :start_time: 2017-04-26 13:50:00 -07:00
-  :end_time:   2017-04-26 16:10:00 -07:00
+  :end_time: 2017-04-26 16:10:00 -07:00
 
 - :title: 'TDD: From feature to tests to implementation'
   :track: Workshop
   :speaker: Jay Hayes
   :room: '150'
   :start_time: 2017-04-26 13:50:00 -07:00
-  :end_time:   2017-04-26 16:10:00 -07:00
+  :end_time: 2017-04-26 16:10:00 -07:00
 
 - :title: Upgrading a big application to Rails 5
   :track: General
   :speaker: Rafael França
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-26 14:40:00 -07:00
-  :end_time:   2017-04-26 15:20:00 -07:00
+  :end_time: 2017-04-26 15:20:00 -07:00
+  :description: "In this talk we would take a look in different strategies to upgrade
+    Rails application to the newest version taking as example a huge monolithic Rails
+    application. We will learn what were the biggest challenges and how they could
+    be avoided. We will also learn why the changes were made in Rails and how they
+    work.\n\n            \n                  Member of the Rails Core Team. Production
+    engineer at Shopify.\n\nRafael FranÃ§a\n                \n                \n                  Member
+    of the Rails Core Team. Production engineer at Shopify."
 
 - :title: 'It''s dangerous to go alone: Building teams like an organizer'
   :track: Leading at all Levels
   :speaker: Colin Fleming
   :room: '164'
   :start_time: 2017-04-26 14:40:00 -07:00
-  :end_time:   2017-04-26 15:20:00 -07:00
+  :end_time: 2017-04-26 15:20:00 -07:00
+  :description: "Leading an open source or community project means dealing with people
+    challenges in addition to technical challenges -- how do we take a scattering
+    of interested people and build a team with them? Turns out, we can adapt a bunch
+    of practices we already use! Using a collaboration between a nonprofit and a civic
+    group as a case study, we'll talk about ways to apply best practices from community
+    organizers to our work. In particular, we'll talk about similarities between contemporary
+    organizing and agile models, ways to build relationships with other team members,
+    and making our work more sustainable.\n\n            \n                  Colin
+    is a community organizer (and now, a Rails and SQL developer) from southwest Michigan
+    currently living in DC. For the past year, he's led an open source overhaul of
+    the DC Abortion Fund's intake system. During the days he works for BlueLabs, an
+    analytics company working on health care and progressive causes. He serves on
+    the board of the DC Abortion Fund, hangs out at his local Code for America brigade,
+    and loves cats.\n\nColin Fleming\n                \n                \n                  Colin
+    is a community organizer (and now, a Rails and SQL developer) from southwest Michigan
+    currently living in DC. For the past year, he's led an open source overhaul of
+    the DC Abortion Fund's intake system. During the days he works for BlueLabs, an
+    analytics company working on health care and progressive causes. He serves on
+    the board of the DC Abortion Fund, hangs out at his local Code for America brigade,
+    and loves cats."
 
-- :title: "Introducing Helix: High-Performance Ruby Made Easy"
+- :title: 'Introducing Helix: High-Performance Ruby Made Easy'
   :track: Sponsored
   :speaker: Godfrey Chan, Yehuda Katz
   :room: '162'
   :start_time: 2017-04-26 14:40:00 -07:00
-  :end_time:   2017-04-26 15:20:00 -07:00
+  :end_time: 2017-04-26 15:20:00 -07:00
 
 - :title: React Native & Rails, a single codebase for Web & Mobile
   :track: General
   :speaker: Ben Dixon
   :room: '160'
   :start_time: 2017-04-26 14:40:00 -07:00
-  :end_time:   2017-04-26 15:20:00 -07:00
+  :end_time: 2017-04-26 15:20:00 -07:00
+  :description: "Rails made building CRUD apps efficient and fun. React Native, for
+    the first time, does this for mobile Apps. Learn how to create a single React
+    codebase for Android, iOS and Mobile Web, backed by a common Rails API. \n\n            \n
+    \                 Ben is the co-founder and CTO of venture backed on-demand staffing
+    platform Catapult. Along with the Catapult development team he's spent the last
+    10 months engineering a cross platform web + native mobile stack based around
+    React. He's also the author of Reliably Deploying Rails Applications, an avid
+    climber, travel addict and (very amateur) photographer.\n\nBen Dixon\n                \n
+    \               \n                  Ben is the co-founder and CTO of venture backed
+    on-demand staffing platform Catapult. Along with the Catapult development team
+    he's spent the last 10 months engineering a cross platform web + native mobile
+    stack based around React. He's also the author of Reliably Deploying Rails Applications,
+    an avid climber, travel addict and (very amateur) photographer."
 
 - :title: 'Syntax Isn''t Everything: NLP for Rubyists'
   :track: Machine Learning
   :speaker: Aja Hammerly
   :room: '156'
   :start_time: 2017-04-26 14:40:00 -07:00
-  :end_time:   2017-04-26 15:20:00 -07:00
+  :end_time: 2017-04-26 15:20:00 -07:00
+  :description: "Natural Language Processing is an interesting field of computing.
+    The way humans use language is nuanced and deeply context sensitive. For example,
+    the word work can be both a noun and a verb. This talk will give an introduction
+    to the field of NLP using Ruby.  There will be demonstrations of how computers
+    fail and succeed at human language. You'll leave the presentation with an understanding
+    of both the challenges and the possibilities of NLP and some tools for getting
+    started with it. \n\n            \n                  Aja lives in Seattle where
+    she is a Developer Advocate at Google and a member of the Seattle Ruby Brigade.
+    Her favorite languages are Ruby and Prolog. She also loves working with large
+    piles of data. In her free time she enjoys skiing, cooking, knitting, and long
+    coding sessions on the beach.\n\nAja Hammerly\n                \n                \n
+    \                 Aja lives in Seattle where she is a Developer Advocate at Google
+    and a member of the Seattle Ruby Brigade. Her favorite languages are Ruby and
+    Prolog. She also loves working with large piles of data. In her free time she
+    enjoys skiing, cooking, knitting, and long coding sessions on the beach."
 
 - :title: The Arcane Art of Error Handling
   :track: General
   :speaker: Brad Urani
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-26 15:30:00 -07:00
-  :end_time:   2017-04-26 16:10:00 -07:00
+  :end_time: 2017-04-26 16:10:00 -07:00
+  :description: "With complexity comes errors, and unexpected errors lead to unexpected
+    unhappiness. Join us and learn how to add contextual data to errors, design error
+    hierarchies, take charge of control flow, create re-usable error handlers, and
+    integrate with error reporting solutions. We'll talk about recoverable versus
+    irrecoverable errors and discuss how and how not to use exceptions. From internationalization
+    to background jobs, we'll cover the gamut. Regardless of your Rail proficiency,
+    you'll learn why expecting the unexpected makes for happier developers, happier
+    businesses and happier users.\n\n            \n                  Brad Urani is
+    a coder, karaoke singer and barbecue evangelist. He believes happiness is directly
+    correlated with the size of your .vimrc and refuses to buy into YAGNI. When not
+    hiking or hacking, he preaches the wonders of Rails and relational databases as
+    Principal Engineer at Procore in Santa Barbara, CA\n\nBrad Urani\n                \n
+    \               \n                  Brad Urani is a coder, karaoke singer and
+    barbecue evangelist. He believes happiness is directly correlated with the size
+    of your .vimrc and refuses to buy into YAGNI. When not hiking or hacking, he preaches
+    the wonders of Rails and relational databases as Principal Engineer at Procore
+    in Santa Barbara, CA"
 
 - :title: 'Panel: Becoming an engineering leader'
   :track: Leading at all Levels
   :speaker: Rebecca Miller-Webster, Neha Batra, Shay Howe, Abel Martin
   :room: '164'
   :start_time: 2017-04-26 15:30:00 -07:00
-  :end_time:   2017-04-26 16:10:00 -07:00
+  :end_time: 2017-04-26 16:10:00 -07:00
+  :description: "Are you a new manager? Have you been asked to lead a project? Do
+    you want to see change in your company but don't feel you have the position to
+    enact it? Are you terrified or nervous or unsure where to start? Has a recent
+    situation left you questioning what you did wrong and how to be a better leader?
+    \n\nSoftware development doesn't prepare us for taking on everyday or official
+    leadership and yet, leadership is what every team and company desperately need.\n\nLet
+    talk with a group of folks at various stages of the leadership hierarchy about
+    what they have and want to learn.\n\n            \n                  Rebecca Miller-Webster
+    is a software engineer, conference organizer, and educator. She is the founder
+    of Write/Speak/Code and Practice Lead at\nDevMynd. Rebecca has been developing
+    software professionally for over a dozen years &  previously organized GORUCO.
+    Rebecca's hobbies include drinking Diet Coke, wearing trousers, telling computers
+    what to do, pugs, & swearing.\n\n                \n                  Pivotal\n\n
+    \               \n                  VP of Product, Yello\n\n                \n
+    \                 Lead Software Engineer, Optoro\n\nRebecca Miller-Webster\n                \n
+    \               \n                  Rebecca Miller-Webster is a software engineer,
+    conference organizer, and educator. She is the founder of Write/Speak/Code and
+    Practice Lead at\nDevMynd. Rebecca has been developing software professionally
+    for over a dozen years &  previously organized GORUCO. Rebecca's hobbies include
+    drinking Diet Coke, wearing trousers, telling computers what to do, pugs, & swearing.\n\n
+    \               \n              \n                \n                  Neha Batra\n
+    \               \n                \n                  Pivotal\n\n                \n
+    \             \n                \n                  Shay Howe\n                \n
+    \               \n                  VP of Product, Yello\n\n                \n
+    \             \n                \n                  Abel Martin\n                \n
+    \               \n                  Lead Software Engineer, Optoro"
 
-- :title: "Your App Server Config is Wrong"
+- :title: Your App Server Config is Wrong
   :track: Sponsored
   :speaker: Nate Berkopec
   :room: '162'
   :start_time: 2017-04-26 15:30:00 -07:00
-  :end_time:   2017-04-26 16:10:00 -07:00
+  :end_time: 2017-04-26 16:10:00 -07:00
 
 - :title: A Survey of Surprisingly Difficult Things
   :track: General
   :speaker: Alex Boster
   :room: '160'
   :start_time: 2017-04-26 15:30:00 -07:00
-  :end_time:   2017-04-26 16:10:00 -07:00
+  :end_time: 2017-04-26 16:10:00 -07:00
+  :description: "Many seemingly simple \"real-world\" things end up being much more
+    complicated than anticipated, especially if it's a developer's first time dealing
+    with that particular thing. Classic examples include money and currency, time,
+    addresses, human names, and so on. We will survey a number of these common areas
+    and the state of best practices, or lack thereof, for handling them in Rails.\n\n
+    \           \n                  Software developer since 1997, doing Rails since
+    2006. Experience includes work at for a number of startups, including a Pivotal
+    Labs client. Currently at Appfolio, a large Rails shop that is sponsoring Ruby
+    3x3. Certified craft beer judge.\n\nI've organized & taught RailsBridge workshops,
+    given talks for my local Ruby group, and been heavily involved in on boarding,
+    training, and mentoring for new interns and employees, including for example \"Rails
+    101\" and \"iCalendar standard\" classes.\n\nAlex Boster\n                \n                \n
+    \                 Software developer since 1997, doing Rails since 2006. Experience
+    includes work at for a number of startups, including a Pivotal Labs client. Currently
+    at Appfolio, a large Rails shop that is sponsoring Ruby 3x3. Certified craft beer
+    judge.\n\nI've organized & taught RailsBridge workshops, given talks for my local
+    Ruby group, and been heavily involved in on boarding, training, and mentoring
+    for new interns and employees, including for example \"Rails 101\" and \"iCalendar
+    standard\" classes."
 
 - :title: How to write better code using mutation testing
   :track: General
   :speaker: John Backus
   :room: '156'
   :start_time: 2017-04-26 15:30:00 -07:00
-  :end_time:   2017-04-26 16:10:00 -07:00
+  :end_time: 2017-04-26 16:10:00 -07:00
+  :description: "Mutation testing is a silver bullet for assessing test quality. Mutation
+    testing will help you: \n\n\nWrite better tests\nProduce more robust code that
+    better handles edge cases\nReveal what parts of your legacy application are most
+    likely to break before you dive in to make new changes\nLearn about features in
+    Ruby and your dependencies that you didnâ\x80\x99t previously know about\n\n\nThis
+    talk assumes a basic knowledge of Ruby and testing. The examples in this talk
+    will almost certainly teach you something new about Ruby!\n\n            \n                  John
+    Backus is the CTO at BlockScore where he leads an all Ruby development team. In
+    his free time he helps maintain mutest (a mutation testing tool for ruby), rubocop-rspec
+    (an RSpec linter and style checker), and yardcheck (a tool that checks YARD docs
+    by running your test suite).\n\nJohn Backus\n                \n                \n
+    \                 John Backus is the CTO at BlockScore where he leads an all Ruby
+    development team. In his free time he helps maintain mutest (a mutation testing
+    tool for ruby), rubocop-rspec (an RSpec linter and style checker), and yardcheck
+    (a tool that checks YARD docs by running your test suite)."
 
 - :title: PM Break
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'Exhibit Hall F&G'
+  :room: Exhibit Hall F&G
   :start_time: 2017-04-26 16:10:00 -07:00
   :end_time: 2017-04-26 17:30:00 -07:00
 
 - :title: Lightning Talks
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-26 17:30:00 -07:00
-  :end_time:   2017-04-26 19:00:00 -07:00
+  :end_time: 2017-04-26 19:00:00 -07:00
 
 - :title: 'Keynote: Marco Rogers'
-  :track: 'Main Events'
-  :speaker: 'Marco Rogers'
-  :room: 'South Ballroom'
+  :track: Main Events
+  :speaker: Marco Rogers
+  :room: South Ballroom
   :start_time: 2017-04-27 09:00:00 -07:00
-  :end_time:   2017-04-27 10:00:00 -07:00
+  :end_time: 2017-04-27 10:00:00 -07:00
 
 - :title: AM BREAK
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'Exhibit Hall F&G'
+  :room: Exhibit Hall F&G
   :start_time: 2017-04-27 10:00:00 -07:00
-  :end_time:   2017-04-27 10:50:00 -07:00
+  :end_time: 2017-04-27 10:50:00 -07:00
 
 - :title: An Optimistic Proposal for Making Horrible Code... Bearable.
   :track: Code Organization
   :speaker: Joseph Mastey
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-27 10:50:00 -07:00
-  :end_time:   2017-04-27 11:30:00 -07:00
+  :end_time: 2017-04-27 11:30:00 -07:00
+  :description: "The attempted rewrite is over, the dust has settled, and the monolith
+    isnâ\x80\x99t going away. After all, itâ\x80\x99s still the app that makes all
+    the money. On the other hand, nobody wants to work on it, every new feature takes
+    forever, and your entire team is afraid of making any change for fear of the whole
+    thing collapsing in on itself.\n\nIn this session, weâ\x80\x99ll walk through
+    some of the technical and social problems that arise from difficult codebases.
+    Weâ\x80\x99ll learn to stop making things worse, to measure what we need to change,
+    and start making progress.\n\nIn the thousand mile journey, here are the first
+    steps.\n\n            \n                  Joe Mastey is a software engineer of
+    over twelve years, and has worked on Rails codebases from 1.2 to 5.0. He's been
+    spending his time lately teaching organizations to build fantastic internal education
+    programs. He also digs rock climbing and kayaking, despite being based in Chicago.\n\nJoseph
+    Mastey\n                \n                \n                  Joe Mastey is a
+    software engineer of over twelve years, and has worked on Rails codebases from
+    1.2 to 5.0. He's been spending his time lately teaching organizations to build
+    fantastic internal education programs. He also digs rock climbing and kayaking,
+    despite being based in Chicago."
 
 - :title: 'Panel: Ruby''s Killer Feature: The Community'
   :track: General
   :speaker: Sean Marcia, Christopher Sexton, LaToya Allen, Zuri Hunter
   :room: '164'
   :start_time: 2017-04-27 10:50:00 -07:00
-  :end_time:   2017-04-27 11:30:00 -07:00
+  :end_time: 2017-04-27 11:30:00 -07:00
+  :description: "What makes Ruby so wonderful? The Community.\n\nThe community around
+    Ruby is really what sets it apart, and the cornerstone of it is the small local
+    meetups. Come learn how to get involved, help out, or step up and start a local
+    group of your own. We will discuss how to develop and nurture the group. Share
+    our experiences in expanding a small group to larger events like unconferences
+    or workshops. Find out how community leaders can help everyone build a solid network,
+    assist newbies in kick-starting their career, and most importantly ensure that
+    everyone feels welcome and safe.\n\n            \n                  Sean is a
+    tireless do-gooder. He created and organizes Ruby for Good and spends his day
+    job working to make government more sane. He loves the programming community and
+    can't believe he is paid to have this much fun. When not programming he loves
+    being outdoors (especially national parks), drinking coffee from Portland, eating
+    dried seaweed and playing with dogs.\n\n                \n                  Christopher
+    is the VP of Engineering at Radius Networks, where he builds mobile proximity
+    tools and services. He cofounded the Arlington Ruby group, and helps organize
+    both Ruby Retrocession and Ruby for Good events.\n\n                \n                  Founder,
+    SheNomads\n\n                \n                  Software Engineer, Digital Globe\n\nSean
+    Marcia\n                \n                \n                  Sean is a tireless
+    do-gooder. He created and organizes Ruby for Good and spends his day job working
+    to make government more sane. He loves the programming community and can't believe
+    he is paid to have this much fun. When not programming he loves being outdoors
+    (especially national parks), drinking coffee from Portland, eating dried seaweed
+    and playing with dogs.\n\n                \n              \n                \n
+    \                 Christopher Sexton\n                \n                \n                  Christopher
+    is the VP of Engineering at Radius Networks, where he builds mobile proximity
+    tools and services. He cofounded the Arlington Ruby group, and helps organize
+    both Ruby Retrocession and Ruby for Good events.\n\n                \n              \n
+    \               \n                  LaToya Allen\n                \n                \n
+    \                 Founder, SheNomads\n\n                \n              \n                \n
+    \                 Zuri Hunter\n                \n                \n                  Software
+    Engineer, Digital Globe"
 
 - :title: Cultivating a Culture of Continuous Learning
   :track: Sponsored
   :speaker: Dave Ott, Dennis Eusebio
   :room: '162'
   :start_time: 2017-04-27 10:50:00 -07:00
-  :end_time:   2017-04-27 11:30:00 -07:00
+  :end_time: 2017-04-27 11:30:00 -07:00
+  :description: "This is a sponsored talk by Tuft & Needle.\n\nTuft & Needle is a
+    bootstrapped, Phoenix-based company that pioneered the disruption of a the mattress
+    industry using a software startupâ\x80\x99s mindset when it was founded in 2012
+    and has grown to over $100 million in annual revenue. A commitment to skill acquisition
+    has led to a happier and more productive team, and is a core to the companyâ\x80\x99s
+    success. In this session, learn how to cultivate a culture of continuous learning
+    and skill acquisition through apprenticeships and group learning sessions.\n\n
+    \           \n                  Dave Ott and Dennis Eusebio work at Tuft & Needle,
+    a bootstrapped, Phoenix-based company that pioneered the disruption of the mattress
+    industry. Dave leads the software engineering team, utilizing his 10 years of
+    Rails experience on the custom build and continuous iteration of the T&Nâ\x80\x99s
+    software.\n\n                \n                  Dennis leads design, supporting
+    creative direction while maintaining and developing branding and UX. The two Jacksonville-based
+    team members met while at Hashrocket with T&N co-founder JT Marino.\n\nDave Ott\n
+    \               \n                \n                  Dave Ott and Dennis Eusebio
+    work at Tuft & Needle, a bootstrapped, Phoenix-based company that pioneered the
+    disruption of the mattress industry. Dave leads the software engineering team,
+    utilizing his 10 years of Rails experience on the custom build and continuous
+    iteration of the T&Nâ\x80\x99s software.\n\n                \n              \n
+    \               \n                  Dennis Eusebio\n                \n                \n
+    \                 Dennis leads design, supporting creative direction while maintaining
+    and developing branding and UX. The two Jacksonville-based team members met while
+    at Hashrocket with T&N co-founder JT Marino."
 
 - :title: Data Integrity in Living Systems
   :track: General
   :speaker: Betsy Haibel
   :room: '160'
   :start_time: 2017-04-27 10:50:00 -07:00
-  :end_time:   2017-04-27 11:30:00 -07:00
+  :end_time: 2017-04-27 11:30:00 -07:00
+  :description: "Ever had a production bug that you fixed by changing production data?
+    Ever felt like a bad developer for it? Don't. Bad data has countless causes: Weird
+    user input. Race conditions under load. Heck, even changing business needs. We
+    can't fully prevent data corruption, so what matters is how we recover. In this
+    talk, you'll learn how to prevent and fix bad data at every level of your system.
+    You'll learn UX techniques for incremental, mistake-reducing input. You'll learn
+    how to future-proof validations. And you'll learn auditing techniques to catch
+    bad data -- before your users do.\n\n            \n                  Betsy is
+    a DC-based web developer. She writes fiction and nonfiction in English, Ruby,
+    and Javascript, and is a co-organizer of Learn Ruby in DC.\n\nBetsy Haibel\n                \n
+    \               \n                  Betsy is a DC-based web developer. She writes
+    fiction and nonfiction in English, Ruby, and Javascript, and is a co-organizer
+    of Learn Ruby in DC."
 
 - :title: A clear-eyed look at distributed teams
   :track: Distributed Teams
   :speaker: Maria Gutierrez, Glenn Vanderburg
   :room: '156'
   :start_time: 2017-04-27 10:50:00 -07:00
-  :end_time:   2017-04-27 11:30:00 -07:00
+  :end_time: 2017-04-27 11:30:00 -07:00
+  :description: "Distributed teams can have big benefits for both employers and employees.
+    But there are many challenges. Being successful requires changes to work practices,
+    communication, and style â\x80\x94 and not just from the remote people.  Everyone
+    will experience changes. It helps to be prepared â\x80¦ and most of what we see
+    being written and discussed is focused on remote workers, not the organization
+    that supports them.\n\nIn this talk, we will look at the challenges and rewards
+    of working in a distributed team setting based on several years of experience
+    growing large distributed engineering teams.\n\n            \n                  Maria
+    Gutierrez is VP of Engineering at FreeAgent, one of the UK's most popular online
+    accounting software providers.\n\nGlenn and Maria recently worked together at
+    LivingSocial where they led large, globally distributed teams from Dallas and
+    Edinburgh, respectively.\n\n                \n                  Glenn Vanderburg
+    is VP of Engineering at First.io, a startup building software to amplify the effectiveness
+    of residential real estate agents.  He has worked on distributed teams at Relevance,
+    InfoEther, LivingSocial, and now First.\n\nMaria Gutierrez\n                \n
+    \               \n                  Maria Gutierrez is VP of Engineering at FreeAgent,
+    one of the UK's most popular online accounting software providers.\n\nGlenn and
+    Maria recently worked together at LivingSocial where they led large, globally
+    distributed teams from Dallas and Edinburgh, respectively.\n\n                \n
+    \             \n                \n                  Glenn Vanderburg\n                \n
+    \               \n                  Glenn Vanderburg is VP of Engineering at First.io,
+    a startup building software to amplify the effectiveness of residential real estate
+    agents.  He has worked on distributed teams at Relevance, InfoEther, LivingSocial,
+    and now First."
 
 - :title: Make your life easier with shell scripting and UNIX tools
   :track: Workshop
   :speaker: Devon Estes
   :room: '152'
   :start_time: 2017-04-27 10:50:00 -07:00
-  :end_time:   2017-04-27 12:20:00 -07:00
+  :end_time: 2017-04-27 12:20:00 -07:00
 
 - :title: Demystifying interface design
   :track: Workshop
   :speaker: Wes Oudshoorn
   :room: '150'
   :start_time: 2017-04-27 10:50:00 -07:00
-  :end_time:   2017-04-27 12:20:00 -07:00
+  :end_time: 2017-04-27 12:20:00 -07:00
 
 - :title: 'Built to last: A domain-driven approach to beautiful systems'
   :track: Code Organization
   :speaker: Andrew Hao
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-27 11:40:00 -07:00
-  :end_time:   2017-04-27 12:20:00 -07:00
+  :end_time: 2017-04-27 12:20:00 -07:00
+  :description: "Help! Despite following refactoring patterns by the book, your aging
+    codebase is messier than ever. If only you had a key architectural insight to
+    cut through the noise.\n\nToday, we'll move beyond prescriptive recipes and learn
+    how to run a Context Mapping exercise. This strategic design tool helps you discover
+    domain-specific system boundaries, leading to highly-cohesive and loosely-coupled
+    outcomes. With code samples from real production code, we'll look at a domain-oriented
+    approach to organizing code in a Rails codebase, applying incremental refactoring
+    steps to build stable, lasting systems!\n\n            \n                  Andrew
+    is a principal software engineer with Carbon Five, an agile product development
+    agency. Prior to that, he was at Blurb, where he thought a lot about large Rails
+    codebases and how to decompose them. He lives in Oakland and loves trail running
+    and any adventures he can have in the mountains.\n\nAndrew Hao\n                \n
+    \               \n                  Andrew is a principal software engineer with
+    Carbon Five, an agile product development agency. Prior to that, he was at Blurb,
+    where he thought a lot about large Rails codebases and how to decompose them.
+    He lives in Oakland and loves trail running and any adventures he can have in
+    the mountains."
 
 - :title: 5 Years of Rails Scaling to Support Massive Sales
   :track: High Volume
   :speaker: Simon Eskildsen
   :room: '164'
   :start_time: 2017-04-27 11:40:00 -07:00
-  :end_time:   2017-04-27 12:20:00 -07:00
+  :end_time: 2017-04-27 12:20:00 -07:00
+  :description: "Shopify has taken Rails through some of the world's largest sales:
+    Superbowl, Celebrity Launches, and Black Friday. In this talk, we will go through
+    the evolution of the Shopify infrastructure: from re-architecting and caching
+    in 2012, sharding in 2013, and reducing the blast radius of every point of failure
+    in 2014. To 2016, where we accomplished running our 325,000+ stores out of multiple
+    datacenters. It'll be whirlwind tour of the lessons learned scaling one of the
+    world's largest Rails deployments for half a decade.\n\n            \n                  When
+    Simon's not researching walruses or playing chaos monkey for the company's infrastructure,
+    he's hard at work taming the wildlife of production, protecting Shopify from flash
+    sales, scale, misbehaving resources and itself. Other than that, as a new resident
+    of Canada, fulfilling his obligation to call everyone out when they think they've
+    experienced \"cold weather\".\n\nSimon Eskildsen\n                \n                \n
+    \                 When Simon's not researching walruses or playing chaos monkey
+    for the company's infrastructure, he's hard at work taming the wildlife of production,
+    protecting Shopify from flash sales, scale, misbehaving resources and itself.
+    Other than that, as a new resident of Canada, fulfilling his obligation to call
+    everyone out when they think they've experienced \"cold weather\"."
 
 - :title: 'Open Sourcing: Real Talk'
   :track: Sponsored
   :speaker: Andrew Evans
   :room: '162'
   :start_time: 2017-04-27 11:40:00 -07:00
-  :end_time:   2017-04-27 12:20:00 -07:00
+  :end_time: 2017-04-27 12:20:00 -07:00
+  :description: "This is a sponsored talk by Hired.\n\nHired open-sources some useful
+    abstractions from our Majestic MonolithÂ® and we've learned a lot. Some tough
+    lessons, and some cool knowledge. We'll cover: When & where should you pull something
+    out of the code? Does it really help? What things are important to think about?
+    What if it never takes off? We'll also look at some design patterns from our open-source
+    work.\n\n            \n                  Andrew is a Software Engineer and Thing-Getter-Donerâ\x84¢
+    at Hired in San Francisco. Previously he's been product engineer, cofounder +
+    CTO of a 500 Startups company, and a nomadic consultant. Generalist & dabbler,
+    he's been in Ruby & Rails for ten years. Loves cats, plays video games.\n\nAndrew
+    Evans\n                \n                \n                  Andrew is a Software
+    Engineer and Thing-Getter-Donerâ\x84¢ at Hired in San Francisco. Previously he's
+    been product engineer, cofounder + CTO of a 500 Startups company, and a nomadic
+    consultant. Generalist & dabbler, he's been in Ruby & Rails for ten years. Loves
+    cats, plays video games."
 
 - :title: 'Beyond validates_presence_of: ensuring eventual consistency'
   :track: General
   :speaker: Amy Unger
   :room: '160'
   :start_time: 2017-04-27 11:40:00 -07:00
-  :end_time:   2017-04-27 12:20:00 -07:00
+  :end_time: 2017-04-27 12:20:00 -07:00
+  :description: "You've added background jobs. You have calls to external services
+    that perform actions asynchronously. Your data is no longer always in one perfect
+    state-- it's in one of tens or hundreds of acceptable states.\n\nHow can you confidently
+    ensure that your data is valid without validations?\n\nIn this talk, Iâ\x80\x99ll
+    introduce some data consistency issues you may see in your app when you begin
+    introducing background jobs and external services. Youâ\x80\x99ll learn some patterns
+    for handling failure so your data never gets out of sync and weâ\x80\x99ll talk
+    about strategies to detect when something is wrong.\n\n            \n                  The
+    granddaughter of a former MIT computer (yup, that was a job title), Amy was clearly
+    supposed to be a programmer, but just did not get the message. Her wanderings
+    have taken her through the land of libraries and archives and into software consulting.
+    Now a software engineer at Heroku, she is deeply grateful for every scarce day
+    she does not use vim commands in Google Docs.\n\nAmy Unger\n                \n
+    \               \n                  The granddaughter of a former MIT computer
+    (yup, that was a job title), Amy was clearly supposed to be a programmer, but
+    just did not get the message. Her wanderings have taken her through the land of
+    libraries and archives and into software consulting. Now a software engineer at
+    Heroku, she is deeply grateful for every scarce day she does not use vim commands
+    in Google Docs."
 
 - :title: 'Distributed & Local: Getting the Best of Both Worlds'
   :track: Distributed Teams
   :speaker: Ben Klang
   :room: '156'
   :start_time: 2017-04-27 11:40:00 -07:00
-  :end_time:   2017-04-27 12:20:00 -07:00
+  :end_time: 2017-04-27 12:20:00 -07:00
+  :description: "Our company is traditional in many ways, one of which being the need
+    to come into the office each day. Our team of software developers bucks that trend,
+    spreading across 6 states and 4 countries. Dev teams consider themselves \"Remote
+    First\", while DevOps and Application Support are \"Local First.\" Each has adopted
+    tools, habits, and practices to maximize their configuration. Each style has learned
+    valuable lessons from the other. This presentation is about how our teams have
+    evolved: the tools, the compromises, the wins and losses, and how we successfully
+    blend Distributed and Concentrated teams.\n\n            \n                  Ben
+    Klang has always been fascinated with technology. Disassembling clock radios,
+    breaking and fixing the family computer, eventually embarking on a career in software
+    development. More recently, he has taken leadership roles on technology teams,
+    and as a result had to start over, learning all new skills. Today he is proud
+    to work for a company named Fortune #1 Workplace for Camaraderie, but mostly is
+    happy thanks to the incredible team of humans he's privileged to work with each
+    day.\n\nBen Klang\n                \n                \n                  Ben Klang
+    has always been fascinated with technology. Disassembling clock radios, breaking
+    and fixing the family computer, eventually embarking on a career in software development.
+    More recently, he has taken leadership roles on technology teams, and as a result
+    had to start over, learning all new skills. Today he is proud to work for a company
+    named Fortune #1 Workplace for Camaraderie, but mostly is happy thanks to the
+    incredible team of humans he's privileged to work with each day."
 
 - :title: Lunch
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'Exhibit Hall F&G'
+  :room: Exhibit Hall F&G
   :start_time: 2017-04-27 12:20:00 -07:00
-  :end_time:   2017-04-27 13:50:00 -07:00
+  :end_time: 2017-04-27 13:50:00 -07:00
 
 - :title: 'Architecture: The Next Generation'
   :track: Code Organization
   :speaker: Taylor Jones
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-27 13:50:00 -07:00
-  :end_time:   2017-04-27 14:30:00 -07:00
+  :end_time: 2017-04-27 14:30:00 -07:00
+  :description: "As our applications grow, we start thinking of better ways to organize
+    and scale our growing codebases. We've recently seen Microservices start to emerge
+    as a prominent response to Monoliths, but is it all really worth it? What about
+    our other options? We often romanticize leaving our current architecture situation
+    because we believe it will cure what ails us. However, architecture certainly
+    has no silver bullet . Beam up with me as we explore the past, present, and future
+    of reconsidering architecture. \n\n            \n                  I'm a Florida-based
+    developer with a lovely wife and a bunch of animals. I program Ruby-based things
+    for IZEA, but I tend to write a lot in my spare time. I'm constantly looking for
+    the weirder, more abstract parts of programming that we often don't look at (process,
+    empathy, design).\n\nTaylor Jones\n                \n                \n                  I'm
+    a Florida-based developer with a lovely wife and a bunch of animals. I program
+    Ruby-based things for IZEA, but I tend to write a lot in my spare time. I'm constantly
+    looking for the weirder, more abstract parts of programming that we often don't
+    look at (process, empathy, design)."
 
 - :title: Processing streaming data at a large scale with Kafka
   :track: High Volume
   :speaker: Thijs Cadier
   :room: '164'
   :start_time: 2017-04-27 13:50:00 -07:00
-  :end_time:   2017-04-27 14:30:00 -07:00
+  :end_time: 2017-04-27 14:30:00 -07:00
+  :description: "Using a standard Rails stack is great, but when you want to process
+    streams of data at a large scale you'll hit the stack's limitations. What if you
+    want to build an analytics system on a global scale and want to stay within the
+    Ruby world you know and love?\n\nIn this talk we'll see how we can leverage Kafka
+    to build and painlessly scale an analytics pipeline. We'll talk about Kafka's
+    unique properties that make this possible, and we'll go through a full demo application
+    step by step. At the end of the talk you'll have a good idea of when and how to
+    get started with Kafka yourself.\n\n            \n                  Co-founder
+    of AppSignal from Amsterdam, the Netherlands. Been programming in Ruby since discovering
+    Rails when it was still in beta in 2005.\n\nThijs Cadier\n                \n                \n
+    \                 Co-founder of AppSignal from Amsterdam, the Netherlands. Been
+    programming in Ruby since discovering Rails when it was still in beta in 2005."
 
-- :title: "Rails APIs: The Next Generation"
+- :title: 'Rails APIs: The Next Generation'
   :track: Sponsored
   :speaker: Derek Carter
   :room: '162'
   :start_time: 2017-04-27 13:50:00 -07:00
-  :end_time:   2017-04-27 14:30:00 -07:00
+  :end_time: 2017-04-27 14:30:00 -07:00
 
 - :title: 'The Secret Life of SQL: How to optimize database performance'
   :track: General
   :speaker: Bryana Knight
   :room: '160'
   :start_time: 2017-04-27 13:50:00 -07:00
-  :end_time:   2017-04-27 14:30:00 -07:00
+  :end_time: 2017-04-27 14:30:00 -07:00
+  :description: "There are a lot of database index and query best practices that sometimes
+    aren't best practices at all. Need all users created this year? No problem! Slap
+    an index over created_at! What about this year's active OR pending users, sorted
+    by username? Are we still covered index-wise? Is the query as fast with 20 million
+    users? Common rules of thumb for indexing and query crafting arenâ\x80\x99t black
+    and white. We'll discuss how to track down these exceptional cases and walk through
+    some real examples. You'll leave so well equipped to improve performance, you
+    won't be able to optimize fast enough!          \n\n            \n                  Bryana
+    Knight is an engineer on the platform-data team at GitHub. Previously at WellMatch,
+    Bryana has lots of experience writing Ruby, SQL, Ember and pair programming. She
+    has lived in five different cities in the past eight years and enjoys traveling
+    for work and for fun.\n\nBryana Knight\n                \n                \n                  Bryana
+    Knight is an engineer on the platform-data team at GitHub. Previously at WellMatch,
+    Bryana has lots of experience writing Ruby, SQL, Ember and pair programming. She
+    has lived in five different cities in the past eight years and enjoys traveling
+    for work and for fun."
 
 - :title: The Effective Remote Developer
   :track: Distributed Teams
   :speaker: David Copeland
   :room: '156'
   :start_time: 2017-04-27 13:50:00 -07:00
-  :end_time:   2017-04-27 14:30:00 -07:00
+  :end_time: 2017-04-27 14:30:00 -07:00
+  :description: "Being on a distributed team, working from your home or coffee shop
+    isn't easy, but it can be incredibly rewarding.  Making it work requires constant
+    attention, as well as support from your team and organization.  It's more than
+    just setting up Slack and buying a webcam.\n\nWe'll learn what you can do to be
+    your best self as a remote team member, as well as what you need from your environment,
+    team, and company.  It's not about technical stuffâ\x80\x94it's the human stuff.
+    We'll learn how can you be present and effective when you aren't physically there.\n\n
+    \           \n                  David Copeland is a programmer and author.  He's
+    the author of â\x80\x9CRails, Angular, Postgres, and Bootstrapâ\x80\x9D, \"The
+    Senior Software Engineer\" and \"Build Awesome Command-Line Applications in Ruby\".
+    He has over 18 years of professional development experience from  managing high-performance,
+    high-traffic systems at LivingSocial or building the engineering team at Opower
+    to working consulting gigs large and small.  Currently, he's Director of Engineering
+    at fashion start-up Stitch Fix.\n\nDavid Copeland\n                \n                \n
+    \                 David Copeland is a programmer and author.  He's the author
+    of â\x80\x9CRails, Angular, Postgres, and Bootstrapâ\x80\x9D, \"The Senior Software
+    Engineer\" and \"Build Awesome Command-Line Applications in Ruby\". He has over
+    18 years of professional development experience from  managing high-performance,
+    high-traffic systems at LivingSocial or building the engineering team at Opower
+    to working consulting gigs large and small.  Currently, he's Director of Engineering
+    at fashion start-up Stitch Fix."
 
 - :title: Love Your Database
   :track: Workshop
   :speaker: Guyren G Howe
   :room: '152'
   :start_time: 2017-04-27 13:50:00 -07:00
-  :end_time:   2017-04-27 16:10:00 -07:00
+  :end_time: 2017-04-27 16:10:00 -07:00
 
 - :title: Structuring your application flow with command chains
   :track: Workshop
   :speaker: Benjamin Roth
   :room: '150'
   :start_time: 2017-04-27 13:50:00 -07:00
-  :end_time:   2017-04-27 16:10:00 -07:00
+  :end_time: 2017-04-27 16:10:00 -07:00
 
 - :title: Breaking Bad - What Happens When You Defy Conventions?
   :track: General
   :speaker: Christoph Gockel
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-27 14:40:00 -07:00
-  :end_time:   2017-04-27 15:20:00 -07:00
+  :end_time: 2017-04-27 15:20:00 -07:00
+  :description: "With Rails being over ten years old now, we know that the Rails way
+    works well.\nIt's battle tested and successful.\nBut not all problems we try to
+    solve fit into its idea on how our application should be structured.\n\nCome along
+    to find out what happens when you don't want to have an app directory anymore.\nWe
+    will see what is needed in order to fight parts of the Rails convention and if
+    it's worth it.\n\n            \n                  Christoph is a Software Craftsman
+    at 8th Light with a passion for high quality software and helping people build
+    better products. Outside of programming Christoph likes to watch classic 80's
+    movies.\n\nChristoph Gockel\n                \n                \n                  Christoph
+    is a Software Craftsman at 8th Light with a passion for high quality software
+    and helping people build better products. Outside of programming Christoph likes
+    to watch classic 80's movies."
 
 - :title: High Performance Political Revolutions
   :track: High Volume
   :speaker: Braulio Carreno
   :room: '164'
   :start_time: 2017-04-27 14:40:00 -07:00
-  :end_time:   2017-04-27 15:20:00 -07:00
+  :end_time: 2017-04-27 15:20:00 -07:00
+  :description: "Bernie Sanders popularized crowdfunding in politics by raising $220
+    million in small donations.\n\nAn example of the challenges with handling a high
+    volume of donations is the 2016 New Hampshire primary night, when Sanders asked
+    a national TV audience to donate $27. Traffic peaked at 300K requests/min and
+    42 credit card transactions/sec.\n\nActBlue is the company behind the service
+    used not only by Sanders, but also 16,600 other political organizations and charities
+    for the past 12 years.\n\nThis presentation is about the lessons we learned building
+    a high performance fundraising platform in Rails.\n\n            \n                  Braulio
+    works as a senior software engineer in ActBlue. He and his team have been scaling
+    their fundraising service (a Rails app) for several years. Their current record
+    load from last February is 300 K requests/sec.\n\nHe came to the US in 1998 to
+    help an e-commerce startup grow 88-fold and become the largest online technical
+    bookstore during the dot com boom.\n\nHe has been working with Rails for 7 years
+    and as a developer for 20 years.\n\nBraulio Carreno\n                \n                \n
+    \                 Braulio works as a senior software engineer in ActBlue. He and
+    his team have been scaling their fundraising service (a Rails app) for several
+    years. Their current record load from last February is 300 K requests/sec.\n\nHe
+    came to the US in 1998 to help an e-commerce startup grow 88-fold and become the
+    largest online technical bookstore during the dot com boom.\n\nHe has been working
+    with Rails for 7 years and as a developer for 20 years."
 
-- :title: "Recurring Background Jobs with Sidekiq-scheduler"
+- :title: Recurring Background Jobs with Sidekiq-scheduler
   :track: Sponsored
   :speaker: Andreas Fast, Gianfranco Zas
   :room: '162'
   :start_time: 2017-04-27 14:40:00 -07:00
-  :end_time:   2017-04-27 15:20:00 -07:00
+  :end_time: 2017-04-27 15:20:00 -07:00
 
 - :title: Reporting on Rails - ActiveRecord and ROLAP Working Together
   :track: General
   :speaker: Tony Drake
   :room: '160'
   :start_time: 2017-04-27 14:40:00 -07:00
-  :end_time:   2017-04-27 15:20:00 -07:00
+  :end_time: 2017-04-27 15:20:00 -07:00
+  :description: "It'll happen eventually. Someone will come down with a feature request
+    for your app to \"create dashboards and reporting on our data\". So how do you
+    go about doing it? What parts of your database should you start thinking about
+    differently? What is \"reporting\" anyway? Is ActiveRecord enough to pull this
+    off?\n\nLet's go on a journey through the world of Relational Online Analytical
+    Processing (ROLAP) and see how this can apply to Rails. We'll also look at database
+    considerations and finish with looking at a light DSL that works with ActiveRecord
+    to help make your data dance.\n\n            \n                  Iâ\x80\x99m currently
+    senior developer on a team specializing in billing and reporting for an enterprise-level
+    Rails application where I co-architected a custom ROLAP framework using PostgreSQL
+    on the backend. I'd like to share my ten years (seven of those with Rails) of
+    professional web development experience with others. I can also kick anyone's
+    butt in Mario Kart with Rosalina.\n\nTony Drake\n                \n                \n
+    \                 Iâ\x80\x99m currently senior developer on a team specializing
+    in billing and reporting for an enterprise-level Rails application where I co-architected
+    a custom ROLAP framework using PostgreSQL on the backend. I'd like to share my
+    ten years (seven of those with Rails) of professional web development experience
+    with others. I can also kick anyone's butt in Mario Kart with Rosalina."
 
 - :title: 'Distributed Tracing: From Theory to Practice'
   :track: General
   :speaker: Stella Cotton
   :room: '156'
   :start_time: 2017-04-27 14:40:00 -07:00
-  :end_time:   2017-04-27 15:20:00 -07:00
+  :end_time: 2017-04-27 15:20:00 -07:00
+  :description: "Application performance monitoring is great for debugging inside
+    a single app. However, as a system expands into multiple services, how can you
+    understand the health of the system as a whole? Distributed tracing can help!
+    Youâ\x80\x99ll learn the theory behind how distributed tracing works. But weâ\x80\x99ll
+    also dive into other practical considerations you wonâ\x80\x99t get from a README,
+    like choosing libraries for Ruby apps and polyglot systems, infrastructure considerations,
+    and security.\n\n            \n                  Stella Cotton is a Tools engineer
+    at Heroku and co-founder of AndConf and Fog City Ruby. She loves good abstractions
+    and boring technology.\n\nStella Cotton\n                \n                \n
+    \                 Stella Cotton is a Tools engineer at Heroku and co-founder of
+    AndConf and Fog City Ruby. She loves good abstractions and boring technology."
 
 - :title: Managing Unmanageable Complexity
   :track: General
   :speaker: Patrick Joyce
-  :room: 'South Ballroom'
+  :room: South Ballroom
   :start_time: 2017-04-27 15:30:00 -07:00
-  :end_time:   2017-04-27 16:10:00 -07:00
+  :end_time: 2017-04-27 16:10:00 -07:00
+  :description: "As systems get more complex they inevitably fail. Many of those failures
+    are preventable.\n\nWeâ\x80\x99re not lazy, stupid, or careless. The complexity
+    of our systems simply exceeds our cognitive abilities. Thankfully, weâ\x80\x99re
+    not alone. People have successfully managed complex systems long before software
+    came along. \n\nIn this session, weâ\x80\x99ll see how surgeons, pilots, and builders
+    have developed techniques to safely manage increasingly complex systems in life
+    and death situations. We will learn how simple checklists improve communication,
+    reduce preventable errors, and drive faster recovery time.\n\n            \n                  Iâ\x80\x99ve
+    helped teams grow from a handful of people to dozens of people deploying multiple
+    applications dozens of times a day.\n\nCurrently, Iâ\x80\x99m a Director of Engineering
+    at Stitch Fix where weâ\x80\x99re reinventing retail and I lead customer facing
+    development. Previously, I was an early employee at LivingSocial and eventually
+    led 30 developers across seven teams to build the customer experience.\n\nI fell
+    in love with Ruby and Rails in 2005 and attended my first RailsConf in 2007.\n\nPatrick
+    Joyce\n                \n                \n                  Iâ\x80\x99ve helped
+    teams grow from a handful of people to dozens of people deploying multiple applications
+    dozens of times a day.\n\nCurrently, Iâ\x80\x99m a Director of Engineering at
+    Stitch Fix where weâ\x80\x99re reinventing retail and I lead customer facing development.
+    Previously, I was an early employee at LivingSocial and eventually led 30 developers
+    across seven teams to build the customer experience.\n\nI fell in love with Ruby
+    and Rails in 2005 and attended my first RailsConf in 2007."
 
 - :title: 'Panel: Performance... performance'
   :track: High Volume
@@ -730,52 +1919,89 @@ I am a software developer at Atomic Object. For more than decade I've crafted co
     M. Uchitelle
   :room: '164'
   :start_time: 2017-04-27 15:30:00 -07:00
-  :end_time:   2017-04-27 16:10:00 -07:00
+  :end_time: 2017-04-27 16:10:00 -07:00
+  :description: "Is your application running too slow? How can you make it run leaner
+    and faster? Is Ruby 2.4 going to make anything faster or better? Should you be
+    upgrading to the latest version of Rails? Is your Rails application being weighed
+    down by a large swarm of dependencies? \n\nIn this panel, the panelists will discuss
+    their favorite performance related tools and guidelines. Expect to learn about
+    changes in Ruby 2.4 and beyond that may help make your applications snappy and
+    lean. \n\n            \n                  Sam Saffron is a co founder of Discourse.
+    Creator of the mini_profiler, memory_profiler, mini_mime and mini_racer gems.
+    He has written extensively about various performance topics on samsaffron.com.
+    Sam loves making sure Discourse keeps running fast.\n\n                \n                  Performance
+    Consultant, Self-employed\n\n                \n                  Production Engineer,
+    Shopify\n\n                \n                  Engineer, Heroku\n\n                \n
+    \                 Senior Systems Engineer, GitHub\n\nSam Saffron\n                \n
+    \               \n                  Sam Saffron is a co founder of Discourse.
+    Creator of the mini_profiler, memory_profiler, mini_mime and mini_racer gems.
+    He has written extensively about various performance topics on samsaffron.com.
+    Sam loves making sure Discourse keeps running fast.\n\n                \n              \n
+    \               \n                  Nate Berkopec\n                \n                \n
+    \                 Performance Consultant, Self-employed\n\n                \n
+    \             \n                \n                  Rafael FranÃ§a\n                \n
+    \               \n                  Production Engineer, Shopify\n\n                \n
+    \             \n                \n                  Richard Schneeman\n                \n
+    \               \n                  Engineer, Heroku\n\n                \n              \n
+    \               \n                  Eileen M. Uchitelle\n                \n                \n
+    \                 Senior Systems Engineer, GitHub"
 
-- :title: "Keeping Code Style Sanity in a 10-year-old Codebase"
+- :title: Keeping Code Style Sanity in a 10-year-old Codebase
   :track: Sponsored
   :speaker: Gabi Stefanini
   :room: '162'
   :start_time: 2017-04-27 15:30:00 -07:00
-  :end_time:   2017-04-27 16:10:00 -07:00
+  :end_time: 2017-04-27 16:10:00 -07:00
 
 - :title: Do Your Views Know Too Much?
   :track: General
   :speaker: Jason Charnes
   :room: '160'
   :start_time: 2017-04-27 15:30:00 -07:00
-  :end_time:   2017-04-27 16:10:00 -07:00
+  :end_time: 2017-04-27 16:10:00 -07:00
+  :description: "The logical place to put view-related logic is... inside your view,
+    right? \"A little logic here... a little logic there...\" but all of a sudden
+    we hardly recognize our views. A quick glance through our code and we can't tell
+    our Ruby apart from our HTML. Don't worry; this is a fun opportunity for some
+    refactoring! Come see several approaches you can start using today to clean up
+    your views.\n\n            \n                  Jason is from Memphis, TN where
+    he works for Lensrentals. He still can't seem to shake his Ruby addiction and
+    is very passionate about the Ruby community. Outside of development, Jason enjoys
+    rewards programs, gin with soda, and being a husband.\n\nJason Charnes\n                \n
+    \               \n                  Jason is from Memphis, TN where he works for
+    Lensrentals. He still can't seem to shake his Ruby addiction and is very passionate
+    about the Ruby community. Outside of development, Jason enjoys rewards programs,
+    gin with soda, and being a husband."
 
-- :title: "What's my app *really* doing in production?"
+- :title: What's my app *really* doing in production?
   :track: General
   :speaker: Daniel Azuma
   :room: '156'
   :start_time: 2017-04-27 15:30:00 -07:00
-  :end_time:   2017-04-27 16:10:00 -07:00
+  :end_time: 2017-04-27 16:10:00 -07:00
 
 - :title: PM BREAK
-  :track: 'Main Events'
+  :track: Main Events
   :speaker: ''
-  :room: 'Exhibit Hall F&G'
+  :room: Exhibit Hall F&G
   :start_time: 2017-04-27 16:10:00 -07:00
-  :end_time:   2017-04-27 17:00:00 -07:00
+  :end_time: 2017-04-27 17:00:00 -07:00
 
 - :title: 'Keynote: Aaron Patterson'
-  :track: 'Main Events'
-  :speaker: 'Aaron Patterson'
-  :room: 'South Ballroom'
+  :track: Main Events
+  :speaker: Aaron Patterson
+  :room: South Ballroom
   :start_time: 2017-04-27 17:00:00 -07:00
-  :end_time:   2017-04-27 18:00:00 -07:00
+  :end_time: 2017-04-27 18:00:00 -07:00
 
-
-- :title: 'Dinner at Green New American Vegetarian. RSVP to @albinosquirrel'
-  :track: 'Extra Cirricular'
-  :room: 'Green New American Vegetarian. 2022 N 7th St, Phoenix, AZ 85006'
+- :title: Dinner at Green New American Vegetarian. RSVP to @albinosquirrel
+  :track: Extra Cirricular
+  :room: Green New American Vegetarian. 2022 N 7th St, Phoenix, AZ 85006
   :start_time: 2017-04-26 18:45:00 -07:00
-  :end_time:   2017-04-26 21:45:00 -07:00
+  :end_time: 2017-04-26 21:45:00 -07:00
 
 - :title: 'Karaoke on Rails #rubykaraoke at August Karaoke Box'
-  :track: 'Extra Cirricular'
-  :room: 'August Karaoke Box'
+  :track: Extra Cirricular
+  :room: August Karaoke Box
   :start_time: 2017-04-26 20:00:00 -07:00
-  :end_time:   2017-04-26 23:59:59 -07:00
+  :end_time: 2017-04-26 23:59:59 -07:00
