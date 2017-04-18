@@ -1,0 +1,852 @@
+---
+- :title: 'Welcome & Opening Keynote: David Heinemeier Hansson'
+  :track: 'Main Events'
+  :speaker: 'David Heinemeier Hansson'
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-25 09:30:00 -07:00
+  :end_time:   2017-04-25 10:30:00 -07:00
+  :description: ""
+
+- :title: AM BREAK
+  :track: 'Main Events'
+  :speaker: ''
+  :room: 'Room: South Ballroom Lobby'
+  :start_time: 2017-04-25 10:30:00 -07:00
+  :end_time:   2017-04-25 10:50:00 -07:00
+
+- :title: 'The Art & Craft of Secrets: Using the Cryptographic Toolbox'
+  :track: Security
+  :speaker: Michael Swieton
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-25 10:50:00 -07:00
+  :end_time:   2017-04-25 11:30:00 -07:00
+  :description: "Picking an encryption algorithm is like choosing a lock for your door. Some are better than others - but there's more to keeping burglars out of your house (or web site) than just the door lock. This talk will review what the crypto tools are and how they fit together with our frameworks to provide trust and privacy for our applications. We'll look under the hood of websites like Facebook, at game-changing exploits like Firesheep, and at how tools from our application layer (Rails,) our protocol layer (HTTP,) and our transport layer (TLS) combine build user-visible features like single sign-on.
+MICHAEL SWIETON
+I am a software developer at Atomic Object. For more than decade I've crafted code into software of all sorts. I enjoy peeking under the hood of everything, be it math, or software, or board games, or cake."
+
+- :title: 'The Good Bad Bug: Learning to Embrace Mistakes'
+  :track: Developer Happiness
+  :speaker: Jess Rudder
+  :room: 'Room: 164'
+  :start_time: 2017-04-25 10:50:00 -07:00
+  :end_time:   2017-04-25 11:30:00 -07:00
+
+- :title: Portable Sessions with JSON Web Tokens
+  :track: General
+  :speaker: Lance Ivy
+  :room: 'Room: 162'
+  :start_time: 2017-04-25 10:50:00 -07:00
+  :end_time:   2017-04-25 11:30:00 -07:00
+
+- :title: In Relentless Pursuit of REST
+  :track: General
+  :speaker: Derek Prior
+  :room: 'Room: 160'
+  :start_time: 2017-04-25 10:50:00 -07:00
+  :end_time:   2017-04-25 11:30:00 -07:00
+
+- :title: Accessibility (when you don't have time to read the manual)
+  :track: General
+  :speaker: Katie Walsh
+  :room: 'Room: 156'
+  :start_time: 2017-04-25 10:50:00 -07:00
+  :end_time:   2017-04-25 11:30:00 -07:00
+
+- :title: Building better teams through communication
+  :track: Workshop
+  :speaker: Justin Herrick
+  :room: 'Room: 152'
+  :start_time: 2017-04-25 10:50:00 -07:00
+  :end_time:   2017-04-25 12:20:00 -07:00
+
+- :title: 'DIY: Home monitoring with Rails & RaspberryPi'
+  :track: Workshop
+  :speaker: Helio Cola
+  :room: 'Room: 150'
+  :start_time: 2017-04-25 10:50:00 -07:00
+  :end_time:   2017-04-25 12:20:00 -07:00
+
+- :title: 'Uncertain Times: Securing Rails Apps and User Data'
+  :track: Security
+  :speaker: Krista Nelson
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-25 11:40:00 -07:00
+  :end_time:   2017-04-25 12:20:00 -07:00
+
+- :title: 'Panel: Developer Happiness through Getting Involved'
+  :track: Developer Happiness
+  :speaker: Polly Schandorf, Terian Koscik, Sean Marcia, Sarah Mei
+  :room: 'Room: 164'
+  :start_time: 2017-04-25 11:40:00 -07:00
+  :end_time:   2017-04-25 12:20:00 -07:00
+
+- :title: 'Observing Change: A Gold Master Test in Practice'
+  :track: General
+  :speaker: Jake Worth
+  :room: 'Room: 162'
+  :start_time: 2017-04-25 11:40:00 -07:00
+  :end_time:   2017-04-25 12:20:00 -07:00
+
+- :title: A Deep Dive Into Sessions
+  :track: General
+  :speaker: Justin Weiss
+  :room: 'Room: 160'
+  :start_time: 2017-04-25 11:40:00 -07:00
+  :end_time:   2017-04-25 12:20:00 -07:00
+
+- :title: Goldilocks And The Three Code Reviews
+  :track: General
+  :speaker: Vaidehi Joshi
+  :room: 'Room: 156'
+  :start_time: 2017-04-25 11:40:00 -07:00
+  :end_time:   2017-04-25 12:20:00 -07:00
+
+- :title: Lunch
+  :track: 'Main Events'
+  :speaker: ''
+  :room: 'Room: Exhibit Hall F&G'
+  :start_time: 2017-04-25 12:20:00 -07:00
+  :end_time:   2017-04-25 13:40:00 -07:00
+
+- :title: Why Software Engineers Disagree About Everything
+  :track: General
+  :speaker: Haseeb Qureshi
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-25 13:40:00 -07:00
+  :end_time:   2017-04-25 14:20:00 -07:00
+
+- :title: "Understanding \"Spoon Theory\" and Preventing Burnout"
+  :track: Developer Happiness
+  :speaker: Jameson Hampton
+  :room: 'Room: 164'
+  :start_time: 2017-04-25 13:40:00 -07:00
+  :end_time:   2017-04-25 14:20:00 -07:00
+
+- :title: Exploring the History of a 12-year-old Rails Application
+  :track: General
+  :speaker: Nathan L. Walls
+  :room: 'Room: 162'
+  :start_time: 2017-04-25 13:40:00 -07:00
+  :end_time:   2017-04-25 14:20:00 -07:00
+
+- :title: Sorting Rubyists
+  :track: General
+  :speaker: Caleb Thompson
+  :room: 'Room: 160'
+  :start_time: 2017-04-25 13:40:00 -07:00
+  :end_time:   2017-04-25 14:20:00 -07:00
+
+- :title: Whose turn is it anyway? Augmented reality board games.
+  :track: Unconventional Rails
+  :speaker: Dave Tapley
+  :room: 'Room: 156'
+  :start_time: 2017-04-25 13:40:00 -07:00
+  :end_time:   2017-04-25 14:20:00 -07:00
+
+- :title: RubyMotion for Rails Developers
+  :track: Workshop
+  :speaker: Lori M Olson
+  :room: 'Room: 152'
+  :start_time: 2017-04-25 13:40:00 -07:00
+  :end_time:   2017-04-25 15:10:00 -07:00
+
+- :title: 'Cool Stuff on Kubernetes: a How To for Rails Developers'
+  :track: Workshop
+  :speaker: Jacob Burkhart, Christopher Rigor
+  :room: 'Room: 150'
+  :start_time: 2017-04-25 13:40:00 -07:00
+  :end_time:   2017-04-25 15:10:00 -07:00
+
+- :title: 'Building Rails ActionDispatch:: SystemTestCase Framework'
+  :track: Open Source Deep Dive
+  :speaker: Eileen M. Uchitelle
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-25 14:30:00 -07:00
+  :end_time:   2017-04-25 15:10:00 -07:00
+
+- :title: To Code Is Human
+  :track: Developer Happiness
+  :speaker: Don Werve
+  :room: 'Room: 164'
+  :start_time: 2017-04-25 14:30:00 -07:00
+  :end_time:   2017-04-25 15:10:00 -07:00
+
+- :title: What Comes After SOLID? Seeking Holistic Software Quality
+  :track: General
+  :speaker: Ariel Caplan
+  :room: 'Room: 162'
+  :start_time: 2017-04-25 14:30:00 -07:00
+  :end_time:   2017-04-25 15:10:00 -07:00
+
+- :title: Tricks and treats for new developers
+  :track: General
+  :speaker: David Padilla
+  :room: 'Room: 160'
+  :start_time: 2017-04-25 14:30:00 -07:00
+  :end_time:   2017-04-25 15:10:00 -07:00
+
+- :title: 'Inventing Friends: ActionCable + AVS = <3'
+  :track: Unconventional Rails
+  :speaker: Julian Cheal, Jonan Scheffler
+  :room: 'Room: 156'
+  :start_time: 2017-04-25 14:30:00 -07:00
+  :end_time:   2017-04-25 15:10:00 -07:00
+
+- :title: PM BREAK
+  :track: 'Main Events'
+  :speaker: ''
+  :room: 'Room: South Lobby'
+  :start_time: 2017-04-25 15:10:00 -07:00
+  :end_time: 2017-04-25 15:40:00 -07:00
+
+- :title: Perusing the Rails Source Code - A Beginners Guide
+  :track: Open Source Deep Dive
+  :speaker: Alex Kitchens
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-25 15:40:00 -07:00
+  :end_time:   2017-04-25 16:20:00 -07:00
+
+- :title: 'Panel: Better Hiring Practices for Fun and Profit'
+  :track: General
+  :speaker: Cecy Correa, Heather Corallo, Justin Herrick, Pamela Vickers
+  :room: 'Room: 164'
+  :start_time: 2017-04-25 15:40:00 -07:00
+  :end_time:   2017-04-25 16:20:00 -07:00
+
+- :title: Decouple your models with form objects
+  :track: General
+  :speaker: Andrew Markle
+  :room: 'Room: 162'
+  :start_time: 2017-04-25 15:40:00 -07:00
+  :end_time:   2017-04-25 16:20:00 -07:00
+
+- :title: "Rack 'em, Stack 'em Web Apps"
+  :track: General
+  :speaker: Jason R. Clark
+  :room: 'Room: 160'
+  :start_time: 2017-04-25 15:40:00 -07:00
+  :end_time:   2017-04-25 16:20:00 -07:00
+
+- :title: 'Outside the (Web) Box: Using Ruby for Other Protocols'
+  :track: Unconventional Rails
+  :speaker: Danielle Adams
+  :room: 'Room: 156'
+  :start_time: 2017-04-25 15:40:00 -07:00
+  :end_time:   2017-04-25 16:20:00 -07:00
+
+- :title: Your First API Integration
+  :track: Workshop
+  :speaker: Terian Koscik
+  :room: 'Room: 152'
+  :start_time: 2017-04-25 15:40:00 -07:00
+  :end_time:   2017-04-25 17:10:00 -07:00
+
+- :title: Front-End Performance for Full-Stack Developers
+  :track: Workshop
+  :speaker: Nate Berkopec
+  :room: 'Room: 150'
+  :start_time: 2017-04-25 15:40:00 -07:00
+  :end_time:   2017-04-25 17:10:00 -07:00
+
+- :title: Teaching RSpec to Play nice with Rails
+  :track: Open Source Deep Dive
+  :speaker: Sam Phippen
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-25 16:30:00 -07:00
+  :end_time:   2017-04-25 17:10:00 -07:00
+
+- :title: 'We''ve always been here: Women changemakers in tech'
+  :track: General
+  :speaker: Hilary Stohs-Krause
+  :room: 'Room: 164'
+  :start_time: 2017-04-25 16:30:00 -07:00
+  :end_time:   2017-04-25 17:10:00 -07:00
+
+- :title: Deep Dive Into Docker Containers for Rails Developers
+  :track: Sponsored
+  :speaker: Christopher Rigor
+  :room: 'Room: 162'
+  :start_time: 2017-04-25 16:30:00 -07:00
+  :end_time:   2017-04-25 17:10:00 -07:00
+
+- :title: Practical Debugging
+  :track: General
+  :speaker: Kevin Deisz
+  :room: 'Room: 160'
+  :start_time: 2017-04-25 16:30:00 -07:00
+  :end_time:   2017-04-25 17:10:00 -07:00
+
+- :title: Implementing the Web Speech API for Voice Data Entry
+  :track: Unconventional Rails
+  :speaker: Cameron Jacoby
+  :room: 'Room: 156'
+  :start_time: 2017-04-25 16:30:00 -07:00
+  :end_time:   2017-04-25 17:10:00 -07:00
+
+- :title: 'Keynote: Pamela Pavliscak'
+  :track: 'Main Events'
+  :speaker: ''
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-25 17:20:00 -07:00
+  :end_time: 2017-04-25 18:10:00 -07:00
+
+- :title: 'Keynote: Justin Searls'
+  :track: ''
+  :speaker: ''
+  :room: 'Room: South Ballroom'
+  :start_time: &3 2017-04-26 00:00:00.000000000 -07:00
+  :end_time: &4 2017-04-26 00:00:00.000000000 -07:00
+
+- :title: AM BREAK
+  :track: ''
+  :speaker: ''
+  :room: 'Room: Exhibit Hall F&G'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: 'Rough to Fine: Programming Lessons from Woodworking'
+  :track: Productivity
+  :speaker: Mark Simoneau
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Leading When You're Not in Charge
+  :track: Leading at all Levels
+  :speaker: Scott Lesser
+  :room: 'Room: 164'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Google Cloud <3 Ruby
+  :track: Sponsored
+  :speaker: Remi Taylor
+  :room: 'Room: 162'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Developer Happiness on the Front End with Elm
+  :track: General
+  :speaker: Kevin Yank
+  :room: 'Room: 160'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Is it Food? An Introduction to Machine Learning
+  :track: Machine Learning
+  :speaker: Matthew Mongeau
+  :room: 'Room: 156'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Making Moves With React
+  :track: Workshop
+  :speaker: Rushaine McBean
+  :room: 'Room: 152'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Refactoring for Machine Dignity
+  :track: Workshop
+  :speaker: Evan Burchard
+  :room: 'Room: 150'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: 'Warning: May Be Habit Forming'
+  :track: Productivity
+  :speaker: Nickolas Means
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Bebop to the Top - The Jazz Band As A Guide To Leadership
+  :track: Leading at all Levels
+  :speaker: Michael Cain
+  :room: 'Room: 164'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: "Tailoring Mentorship: Achieving the Best Fitâ\x80¨"
+  :track: Sponsored
+  :speaker: Jonathan Wallace
+  :room: 'Room: 162'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: 'Rails to Phoenix: How Elixir can level-you-up in Rails'
+  :track: General
+  :speaker: Christian Koch
+  :room: 'Room: 160'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Predicting Titanic Survivors with Machine Learning
+  :track: Machine Learning
+  :speaker: Ju Liu
+  :room: 'Room: 156'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 152'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 150'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: LUNCH
+  :track: ''
+  :speaker: ''
+  :room: 'Room: Exhibit Hall F&G'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: 'Rails 5.1: awesome features and breaking changes'
+  :track: General
+  :speaker: Claudio B.
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Supporting Mental Health as an Effective Leader
+  :track: Leading at all Levels
+  :speaker: Jesse James
+  :room: 'Room: 164'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: "â\x80\x8BPostgres at Any Scaleâ\x80\x8B"
+  :track: Sponsored
+  :speaker: Will Leinweber
+  :room: 'Room: 162'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: React on Rails
+  :track: General
+  :speaker: Jo Cranford
+  :room: 'Room: 160'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Bayes is BAE
+  :track: Machine Learning
+  :speaker: Richard Schneeman
+  :room: 'Room: 156'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Elm For Rails Developers
+  :track: Workshop
+  :speaker: Brad Grzesiak
+  :room: 'Room: 152'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: 'TDD: From feature to tests to implementation'
+  :track: Workshop
+  :speaker: Jay Hayes
+  :room: 'Room: 150'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Upgrading a big application to Rails 5
+  :track: General
+  :speaker: Rafael FranÃ§a
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: 'It''s dangerous to go alone: Building teams like an organizer'
+  :track: Leading at all Levels
+  :speaker: Colin Fleming
+  :room: 'Room: 164'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: "â\x80\x8BIntroducing Helix: High-Performance Ruby Made Easy"
+  :track: Sponsored
+  :speaker: Godfrey Chan, Yehuda Katz
+  :room: 'Room: 162'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: React Native & Rails, a single codebase for Web & Mobile
+  :track: General
+  :speaker: Ben Dixon
+  :room: 'Room: 160'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: 'Syntax Isn''t Everything: NLP for Rubyists'
+  :track: Machine Learning
+  :speaker: Aja Hammerly
+  :room: 'Room: 156'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 152'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 150'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: The Arcane Art of Error Handling
+  :track: General
+  :speaker: Brad Urani
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: 'Panel: Becoming an engineering leader'
+  :track: Leading at all Levels
+  :speaker: Rebecca Miller-Webster, Neha Batra, Shay Howe, Abel Martin
+  :room: 'Room: 164'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: "Your App Server Config is Wrongâ\x80¨"
+  :track: Sponsored
+  :speaker: Nate Berkopec
+  :room: 'Room: 162'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: A Survey of Surprisingly Difficult Things
+  :track: General
+  :speaker: Alex Boster
+  :room: 'Room: 160'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: How to write better code using mutation testing
+  :track: General
+  :speaker: John Backus
+  :room: 'Room: 156'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 152'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 150'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: PM BREAK
+  :track: ''
+  :speaker: ''
+  :room: 'Room: Exhibit Hall F&G'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: LIGHTNING TALKS
+  :track: ''
+  :speaker: ''
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-26 00:00:00 -07:00
+  :end_time: 2017-04-26 00:00:00 -07:00
+
+- :title: 'Keynote: Marco Rogers'
+  :track: ''
+  :speaker: ''
+  :room: 'Room: South Ballroom'
+  :start_time: &5 2017-04-27 00:00:00.000000000 -07:00
+  :end_time: &6 2017-04-27 00:00:00.000000000 -07:00
+
+- :title: AM BREAK
+  :track: ''
+  :speaker: ''
+  :room: 'Room: Exhibit Hall F&G'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: An Optimistic Proposal for Making Horrible Code... Bearable.
+  :track: Code Organization
+  :speaker: Joseph Mastey
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'Panel: Ruby''s Killer Feature: The Community'
+  :track: General
+  :speaker: Sean Marcia, Christopher Sexton, LaToya Allen, Zuri Hunter
+  :room: 'Room: 164'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Cultivating a Culture of Continuous Learning
+  :track: Sponsored
+  :speaker: Dave Ott, Dennis Eusebio
+  :room: 'Room: 162'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Data Integrity in Living Systems
+  :track: General
+  :speaker: Betsy Haibel
+  :room: 'Room: 160'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: A clear-eyed look at distributed teams
+  :track: Distributed Teams
+  :speaker: Maria Gutierrez, Glenn Vanderburg
+  :room: 'Room: 156'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Make your life easier with shell scripting and UNIX tools
+  :track: Workshop
+  :speaker: Devon Estes
+  :room: 'Room: 152'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Demystifying interface design
+  :track: Workshop
+  :speaker: Wes Oudshoorn
+  :room: 'Room: 150'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'Built to last: A domain-driven approach to beautiful systems'
+  :track: Code Organization
+  :speaker: Andrew Hao
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 5 Years of Rails Scaling to Support Massive Sales
+  :track: High Volume
+  :speaker: Simon Eskildsen
+  :room: 'Room: 164'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'Open Sourcing: Real Talk'
+  :track: Sponsored
+  :speaker: Andrew Evans
+  :room: 'Room: 162'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'Beyond validates_presence_of: ensuring eventual consistency'
+  :track: General
+  :speaker: Amy Unger
+  :room: 'Room: 160'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'Distributed & Local: Getting the Best of Both Worlds'
+  :track: Distributed Teams
+  :speaker: Ben Klang
+  :room: 'Room: 156'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 152'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 150'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: LUNCH
+  :track: ''
+  :speaker: ''
+  :room: 'Room: Exhibit Hall F&G'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'Architecture: The Next Generation'
+  :track: Code Organization
+  :speaker: Taylor Jones
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Processing streaming data at a large scale with Kafka
+  :track: High Volume
+  :speaker: Thijs Cadier
+  :room: 'Room: 164'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: "â\x80\x8BRails APIs: The Next Generation"
+  :track: Sponsored
+  :speaker: Derek Carter
+  :room: 'Room: 162'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'The Secret Life of SQL: How to optimize database performance'
+  :track: General
+  :speaker: Bryana Knight
+  :room: 'Room: 160'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: The Effective Remote Developer
+  :track: Distributed Teams
+  :speaker: David Copeland
+  :room: 'Room: 156'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Love Your Database
+  :track: Workshop
+  :speaker: Guyren G Howe
+  :room: 'Room: 152'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Structuring your application flow with command chains
+  :track: Workshop
+  :speaker: Benjamin Roth
+  :room: 'Room: 150'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Breaking Bad - What Happens When You Defy Conventions?
+  :track: General
+  :speaker: Christoph Gockel
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: High Performance Political Revolutions
+  :track: High Volume
+  :speaker: Braulio Carreno
+  :room: 'Room: 164'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: "â\x80\x8BRecurring Background Jobs with Sidekiq-scheduler"
+  :track: Sponsored
+  :speaker: Andreas Fast, Gianfranco Zas
+  :room: 'Room: 162'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Reporting on Rails - ActiveRecord and ROLAP Working Together
+  :track: General
+  :speaker: Tony Drake
+  :room: 'Room: 160'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'Distributed Tracing: From Theory to Practice'
+  :track: General
+  :speaker: Stella Cotton
+  :room: 'Room: 156'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 152'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 150'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Managing Unmanageable Complexity
+  :track: General
+  :speaker: Patrick Joyce
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'Panel: Performance... performance'
+  :track: High Volume
+  :speaker: Sam Saffron, Nate Berkopec, Rafael FranÃ§a, Richard Schneeman, Eileen
+    M. Uchitelle
+  :room: 'Room: 164'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: "â\x80\x8BKeeping Code Style Sanity in a 10-year-old Codebase"
+  :track: Sponsored
+  :speaker: Gabi Stefanini
+  :room: 'Room: 162'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Do Your Views Know Too Much?
+  :track: General
+  :speaker: Jason Charnes
+  :room: 'Room: 160'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: "Whatâ\x80\x99s my app *really* doing in production?"
+  :track: General
+  :speaker: Daniel Azuma
+  :room: 'Room: 156'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 152'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: Continue Workshop
+  :track: ''
+  :speaker: ''
+  :room: 'Room: 150'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: PM BREAK
+  :track: ''
+  :speaker: ''
+  :room: 'Room: Exhibit Hall F&G'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
+
+- :title: 'Keynote: Aaron Patterson'
+  :track: ''
+  :speaker: ''
+  :room: 'Room: South Ballroom'
+  :start_time: 2017-04-27 00:00:00 -07:00
+  :end_time: 2017-04-27 00:00:00 -07:00
