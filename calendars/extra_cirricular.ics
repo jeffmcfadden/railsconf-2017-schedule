@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20170418T155952Z
+UID:e90c0505-955f-4ff3-a2a5-1df03cac640d
+DTSTART;TZID=America/Phoenix:20170426T184500
+DTEND;TZID=America/Phoenix:20170426T214500
+LOCATION:Green New American Vegetarian. 2022 N 7th St\, Phoenix\, AZ 85006
+SUMMARY:Dinner at Green New American Vegetarian. RSVP to @albinosquirrel (E
+ xtra Cirricular)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170418T155952Z
+UID:49865029-0036-4f90-a8f8-d708842e7ad5
+DTSTART;TZID=America/Phoenix:20170426T200000
+DTEND;TZID=America/Phoenix:20170426T235959
+LOCATION:August Karaoke Box
+SUMMARY:Karaoke on Rails #rubykaraoke at August Karaoke Box (Extra Cirricul
+ ar)
+END:VEVENT
+END:VCALENDAR

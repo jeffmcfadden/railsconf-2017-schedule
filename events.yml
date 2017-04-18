@@ -766,3 +766,16 @@ I am a software developer at Atomic Object. For more than decade I've crafted co
   :room: 'Room: South Ballroom'
   :start_time: 2017-04-27 17:00:00 -07:00
   :end_time:   2017-04-27 18:00:00 -07:00
+
+
+- :title: 'Dinner at Green New American Vegetarian. RSVP to @albinosquirrel'
+  :track: 'Extra Cirricular'
+  :room: 'Green New American Vegetarian. 2022 N 7th St, Phoenix, AZ 85006'
+  :start_time: 2017-04-26 18:45:00 -07:00
+  :end_time:   2017-04-26 21:45:00 -07:00
+
+- :title: 'Karaoke on Rails #rubykaraoke at August Karaoke Box'
+  :track: 'Extra Cirricular'
+  :room: 'August Karaoke Box'
+  :start_time: 2017-04-26 20:00:00 -07:00
+  :end_time:   2017-04-26 23:59:59 -07:00
