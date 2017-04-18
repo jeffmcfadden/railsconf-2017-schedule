@@ -3,26 +3,70 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:3e7b8aac-9c22-42bf-983b-9bf06e7525c9
+DTSTAMP:20170418T163721Z
+UID:eac67e76-a45c-4a9d-a62f-6d3c2e0fa73a
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T113000
+DESCRIPTION:The history of programming is filled with examples of bugs that
+  actually turned out to be features and limitations that pushed developers
+  to make an even more interesting product. Weâll journey through code
+  that was so âbadâ it was actually good. Then weâll learn t
+ o tame our inner perfectionists so our code will be even better than it is
+  today.\n\n            \n                  Jessica Rudder is a recovering 
+ perfectionist that learns to code through a combination of reading\, askin
+ g colleagues and banging her head against a wall. When she's not helping t
+ o build Flatiron School's Learn platform\, she can be found training for u
+ ltra marathons on the streets of NYC or creating code-related videos on Yo
+ uTube for CompChomp. She is an avid squirrel photographer and loves the co
+ lor green.\n\nJess Rudder\n                \n                \n           
+        Jessica Rudder is a recovering perfectionist that learns to code th
+ rough a combination of reading\, asking colleagues and banging her head ag
+ ainst a wall. When she's not helping to build Flatiron School's Learn plat
+ form\, she can be found training for ultra marathons on the streets of NYC
+  or creating code-related videos on YouTube for CompChomp. She is an avid 
+ squirrel photographer and loves the color green.
 LOCATION:164
 SUMMARY:The Good Bad Bug: Learning to Embrace Mistakes (Developer Happiness
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:f9c5258f-6723-4419-b6d3-ecabf156058c
+DTSTAMP:20170418T163721Z
+UID:5953d533-6448-49cf-b65d-18d7cde051ac
 DTSTART;TZID=America/Phoenix:20170425T114000
 DTEND;TZID=America/Phoenix:20170425T122000
+DESCRIPTION:We have amazing skills and abilities\, but for a lot of us the 
+ missing piece is finding a way to give back. We have an amazing panel of p
+ eople who have used their skills and talents from both previous careers an
+ d current to make the world a better place. Learn how they got involved\, 
+ and in turn what you can do to get involved in areas youâre passionat
+ e about to fill this missing piece that will keep you happy throughout you
+ r career.\n\n            \n                  In her previous life\, Polly 
+ was a teacher of elementary through high school students.  After being int
+ roduced to coding using a Raspberry Pi in a teacher workshop - she was hoo
+ ked\, and never looked back.  During the day she is a software developer a
+ t STAQ and by night she's working to make the world better.\n\n           
+      \n                  Software Engineer\, GitHub\n\n                \n 
+                  Happiness Maker\, Ruby for Good\n\n                \n    
+               Chief Consultant\, DevMynd\n\nPolly Schandorf\n             
+    \n                \n                  In her previous life\, Polly was 
+ a teacher of elementary through high school students.  After being introdu
+ ced to coding using a Raspberry Pi in a teacher workshop - she was hooked\
+ , and never looked back.  During the day she is a software developer at ST
+ AQ and by night she's working to make the world better.\n\n               
+  \n              \n                \n                  Terian Koscik\n    
+             \n                \n                  Software Engineer\, GitH
+ ub\n\n                \n              \n                \n                
+   Sean Marcia\n                \n                \n                  Happi
+ ness Maker\, Ruby for Good\n\n                \n              \n          
+       \n                  Sarah Mei\n                \n                \n 
+                  Chief Consultant\, DevMynd
 LOCATION:164
 SUMMARY:Panel: Developer Happiness through Getting Involved (Developer Happ
  iness)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:951ad7ae-66fe-4d11-a27f-aaa23683847b
+DTSTAMP:20170418T163721Z
+UID:7ccc922c-d10b-452b-bf1a-8c8745f20585
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T142000
 LOCATION:164
@@ -30,10 +74,33 @@ SUMMARY:Understanding "Spoon Theory" and Preventing Burnout (Developer Happ
  iness)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:bbfd67c2-ad18-4774-8eaf-6e192cc3c67d
+DTSTAMP:20170418T163721Z
+UID:e6faee46-2963-4948-9eae-4ddc3529ac0d
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
+DESCRIPTION:Programming is a deeply mental art. As programmers\, we invest 
+ large amounts of time in mastering new languages\, new techniques\, and ne
+ w tools. But all too often\, we neglect our understanding of the most impo
+ rtant tool in the developer's toolbox: the programmer's brain itself.\n\nI
+ n this talk\, we will combine the art of programming with the science of c
+ ognitive psychology\, and emerge with a deeper understanding of how to lev
+ erage the limits of the human mind to sustainably craft software that is l
+ ess buggy\, easier to understand\, and more adaptive in the face of change
+ .\n\n            \n                  Originally designed by Apple in Calif
+ ornia as a laptop-durability testing device\, Don has spent the past seven
+  years working around the world as a software engineer and back-pocket CTO
+ \, helping companies solve tough team management and scaling issues.\n\nDo
+ n lives in Tokyo\, and spends his spare time shoehorning Western cooking i
+ nto a kitchen the size of a postage stamp\, hiking through the stunning be
+ auty of the Japanese mountains\, and training to survive the impending zom
+ bie apocalypse.\n\nDon Werve\n                \n                \n        
+           Originally designed by Apple in California as a laptop-durabilit
+ y testing device\, Don has spent the past seven years working around the w
+ orld as a software engineer and back-pocket CTO\, helping companies solve 
+ tough team management and scaling issues.\n\nDon lives in Tokyo\, and spen
+ ds his spare time shoehorning Western cooking into a kitchen the size of a
+  postage stamp\, hiking through the stunning beauty of the Japanese mounta
+ ins\, and training to survive the impending zombie apocalypse.
 LOCATION:164
 SUMMARY:To Code Is Human (Developer Happiness)
 END:VEVENT

@@ -3,34 +3,119 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:677938ae-26f2-4d32-8fd9-e8ce101a375c
+DTSTAMP:20170418T163721Z
+UID:a7b0e2dc-f395-4b86-8e78-2c7e48743515
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
+DESCRIPTION:Shopify has taken Rails through some of the world's largest sal
+ es: Superbowl\, Celebrity Launches\, and Black Friday. In this talk\, we w
+ ill go through the evolution of the Shopify infrastructure: from re-archit
+ ecting and caching in 2012\, sharding in 2013\, and reducing the blast rad
+ ius of every point of failure in 2014. To 2016\, where we accomplished run
+ ning our 325\,000+ stores out of multiple datacenters. It'll be whirlwind 
+ tour of the lessons learned scaling one of the world's largest Rails deplo
+ yments for half a decade.\n\n            \n                  When Simon's 
+ not researching walruses or playing chaos monkey for the company's infrast
+ ructure\, he's hard at work taming the wildlife of production\, protecting
+  Shopify from flash sales\, scale\, misbehaving resources and itself. Othe
+ r than that\, as a new resident of Canada\, fulfilling his obligation to c
+ all everyone out when they think they've experienced "cold weather".\n\nSi
+ mon Eskildsen\n                \n                \n                  When 
+ Simon's not researching walruses or playing chaos monkey for the company's
+  infrastructure\, he's hard at work taming the wildlife of production\, pr
+ otecting Shopify from flash sales\, scale\, misbehaving resources and itse
+ lf. Other than that\, as a new resident of Canada\, fulfilling his obligat
+ ion to call everyone out when they think they've experienced "cold weather
+ ".
 LOCATION:164
 SUMMARY:5 Years of Rails Scaling to Support Massive Sales (High Volume)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:c73af1c4-4889-4b90-9281-fd0ce72d5079
+DTSTAMP:20170418T163721Z
+UID:8bc45ed8-8a63-4593-a0d2-3f2f26333387
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
+DESCRIPTION:Using a standard Rails stack is great\, but when you want to pr
+ ocess streams of data at a large scale you'll hit the stack's limitations.
+  What if you want to build an analytics system on a global scale and want 
+ to stay within the Ruby world you know and love?\n\nIn this talk we'll see
+  how we can leverage Kafka to build and painlessly scale an analytics pipe
+ line. We'll talk about Kafka's unique properties that make this possible\,
+  and we'll go through a full demo application step by step. At the end of 
+ the talk you'll have a good idea of when and how to get started with Kafka
+  yourself.\n\n            \n                  Co-founder of AppSignal from
+  Amsterdam\, the Netherlands. Been programming in Ruby since discovering R
+ ails when it was still in beta in 2005.\n\nThijs Cadier\n                \
+ n                \n                  Co-founder of AppSignal from Amsterda
+ m\, the Netherlands. Been programming in Ruby since discovering Rails when
+  it was still in beta in 2005.
 LOCATION:164
 SUMMARY:Processing streaming data at a large scale with Kafka (High Volume)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:6bd687b0-175e-4f56-97ea-3e5617b28a81
+DTSTAMP:20170418T163721Z
+UID:226e44d1-dfb3-4833-9419-bddf38dcd075
 DTSTART;TZID=America/Phoenix:20170427T144000
 DTEND;TZID=America/Phoenix:20170427T152000
+DESCRIPTION:Bernie Sanders popularized crowdfunding in politics by raising 
+ $220 million in small donations.\n\nAn example of the challenges with hand
+ ling a high volume of donations is the 2016 New Hampshire primary night\, 
+ when Sanders asked a national TV audience to donate $27. Traffic peaked at
+  300K requests/min and 42 credit card transactions/sec.\n\nActBlue is the 
+ company behind the service used not only by Sanders\, but also 16\,600 oth
+ er political organizations and charities for the past 12 years.\n\nThis pr
+ esentation is about the lessons we learned building a high performance fun
+ draising platform in Rails.\n\n            \n                  Braulio wor
+ ks as a senior software engineer in ActBlue. He and his team have been sca
+ ling their fundraising service (a Rails app) for several years. Their curr
+ ent record load from last February is 300 K requests/sec.\n\nHe came to th
+ e US in 1998 to help an e-commerce startup grow 88-fold and become the lar
+ gest online technical bookstore during the dot com boom.\n\nHe has been wo
+ rking with Rails for 7 years and as a developer for 20 years.\n\nBraulio C
+ arreno\n                \n                \n                  Braulio work
+ s as a senior software engineer in ActBlue. He and his team have been scal
+ ing their fundraising service (a Rails app) for several years. Their curre
+ nt record load from last February is 300 K requests/sec.\n\nHe came to the
+  US in 1998 to help an e-commerce startup grow 88-fold and become the larg
+ est online technical bookstore during the dot com boom.\n\nHe has been wor
+ king with Rails for 7 years and as a developer for 20 years.
 LOCATION:164
 SUMMARY:High Performance Political Revolutions (High Volume)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:1c2c5f70-6a15-4b12-a8ff-5dd768079a91
+DTSTAMP:20170418T163721Z
+UID:50059dfe-3ac3-4a52-bc32-f445202b2167
 DTSTART;TZID=America/Phoenix:20170427T153000
 DTEND;TZID=America/Phoenix:20170427T161000
+DESCRIPTION:Is your application running too slow? How can you make it run l
+ eaner and faster? Is Ruby 2.4 going to make anything faster or better? Sho
+ uld you be upgrading to the latest version of Rails? Is your Rails applica
+ tion being weighed down by a large swarm of dependencies? \n\nIn this pane
+ l\, the panelists will discuss their favorite performance related tools an
+ d guidelines. Expect to learn about changes in Ruby 2.4 and beyond that ma
+ y help make your applications snappy and lean. \n\n            \n         
+          Sam Saffron is a co founder of Discourse. Creator of the mini_pro
+ filer\, memory_profiler\, mini_mime and mini_racer gems. He has written ex
+ tensively about various performance topics on samsaffron.com. Sam loves ma
+ king sure Discourse keeps running fast.\n\n                \n             
+      Performance Consultant\, Self-employed\n\n                \n         
+          Production Engineer\, Shopify\n\n                \n              
+     Engineer\, Heroku\n\n                \n                  Senior System
+ s Engineer\, GitHub\n\nSam Saffron\n                \n                \n  
+                 Sam Saffron is a co founder of Discourse. Creator of the m
+ ini_profiler\, memory_profiler\, mini_mime and mini_racer gems. He has wri
+ tten extensively about various performance topics on samsaffron.com. Sam l
+ oves making sure Discourse keeps running fast.\n\n                \n      
+         \n                \n                  Nate Berkopec\n             
+    \n                \n                  Performance Consultant\, Self-emp
+ loyed\n\n                \n              \n                \n             
+      Rafael FranÃ§a\n                \n                \n               
+    Production Engineer\, Shopify\n\n                \n              \n    
+             \n                  Richard Schneeman\n                \n     
+            \n                  Engineer\, Heroku\n\n                \n    
+           \n                \n                  Eileen M. Uchitelle\n     
+            \n                \n                  Senior Systems Engineer\,
+  GitHub
 LOCATION:164
 SUMMARY:Panel: Performance... performance (High Volume)
 END:VEVENT

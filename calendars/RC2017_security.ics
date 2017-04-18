@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:ff93db59-0dc8-4cc6-a0b8-445e6eaf45a5
+DTSTAMP:20170418T163721Z
+UID:7bb78cec-ed3e-4eac-b95e-f4a1182f0c9a
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T113000
 DESCRIPTION:Picking an encryption algorithm is like choosing a lock for you
@@ -15,19 +15,42 @@ DESCRIPTION:Picking an encryption algorithm is like choosing a lock for you
  e hood of websites like Facebook\, at game-changing exploits like Fireshee
  p\, and at how tools from our application layer (Rails\,) our protocol lay
  er (HTTP\,) and our transport layer (TLS) combine build user-visible featu
- res like single sign-on. MICHAEL SWIETON I am a software developer at Atom
- ic Object. For more than decade I've crafted code into software of all sor
- ts. I enjoy peeking under the hood of everything\, be it math\, or softwar
- e\, or board games\, or cake.
+ res like single sign-on.\n\n            \n                  I am a softwar
+ e developer at Atomic Object. For more than decade I've crafted code into 
+ software of all sorts. I enjoy peeking under the hood of everything\, be i
+ t math\, or software\, or board games\, or cake.\n\nMichael Swieton\n     
+            \n                \n                  I am a software developer
+  at Atomic Object. For more than decade I've crafted code into software of
+  all sorts. I enjoy peeking under the hood of everything\, be it math\, or
+  software\, or board games\, or cake.
 LOCATION:South Ballroom
 SUMMARY:The Art & Craft of Secrets: Using the Cryptographic Toolbox (Securi
  ty)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:8f355026-2ce8-466e-a5f9-9c3e347829d7
+DTSTAMP:20170418T163721Z
+UID:40446b37-9742-431a-84e1-8cbcd038b1a5
 DTSTART;TZID=America/Phoenix:20170425T114000
 DTEND;TZID=America/Phoenix:20170425T122000
+DESCRIPTION:Itâs what everyone is talking about: cyber security\, hack
+ ing and the safety of our data. Many of us are anxiously asking what can d
+ o we do? We can implement security best practices to protect our userâ
+ s personal identifiable information from harm.  We each have the power a
+ nd duty to be a force for good.\n\nSecurity is a moving target and a full 
+ team effort\, so whether you are a beginner or senior level Rails develope
+ r\, this talk will cover important measures and resources to make sure you
+ r Rails app is best secured.\n\n            \n                  Krista Nel
+ son is a Software Engineer at Glassbreakers\, an Enterprise SaaS product c
+ ompany focused on diversity and inclusion.  After her eight year tenure at
+  Oracle\, Krista changed careers through attending the Turing School of So
+ ftware and Design.  In her spare time\, Krista enjoys snowboarding\, urban
+  hiking\, and rocking on the ukulele.\n\nKrista Nelson\n                \n
+                 \n                  Krista Nelson is a Software Engineer a
+ t Glassbreakers\, an Enterprise SaaS product company focused on diversity 
+ and inclusion.  After her eight year tenure at Oracle\, Krista changed car
+ eers through attending the Turing School of Software and Design.  In her s
+ pare time\, Krista enjoys snowboarding\, urban hiking\, and rocking on the
+  ukulele.
 LOCATION:South Ballroom
 SUMMARY:Uncertain Times: Securing Rails Apps and User Data (Security)
 END:VEVENT

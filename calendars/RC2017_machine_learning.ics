@@ -3,35 +3,106 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:bb63f3de-c79e-41fa-9a5b-7ff3b80f1a42
+DTSTAMP:20170418T163721Z
+UID:b0b164eb-7a10-4c41-a0bc-5584ce521388
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
+DESCRIPTION:Machine Learning is no longer just an academic study. Tools lik
+ e Tensorflow have opened new doorways in the world of application developm
+ ent. Learn about the current tools available and how easy it is to integra
+ te them into your rails application. We'll start by looking at a real-worl
+ d example currently being used in the wild and then delve into creating a 
+ sample application that utilizes machine learning. \n\n            \n     
+              A passion for cooking\, programming\, and Japanese brought Ma
+ tt to work at Cookpad\, an international recipe sharing website. As a memb
+ er of the web team he works to bring together all the technologies they us
+ e into the international rails application. Recent adventures has brought 
+ about an interest in Machine Learning and figuring out how to use it in or
+ der to change the ways we create and share recipes.\n\nMatthew Mongeau\n  
+               \n                \n                  A passion for cooking\
+ , programming\, and Japanese brought Matt to work at Cookpad\, an internat
+ ional recipe sharing website. As a member of the web team he works to brin
+ g together all the technologies they use into the international rails appl
+ ication. Recent adventures has brought about an interest in Machine Learni
+ ng and figuring out how to use it in order to change the ways we create an
+ d share recipes.
 LOCATION:156
 SUMMARY:Is it Food? An Introduction to Machine Learning (Machine Learning)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:9407d4fe-1f4f-4364-851a-918ad6f8c3d0
+DTSTAMP:20170418T163721Z
+UID:80f52101-7b24-4fcb-8152-84a46d77e078
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
+DESCRIPTION:What's a better way to understand machine learning than a pract
+ ical example? And who hasn't watched the 1997 classic with Jack and Rose? 
+ In this talk we will first take a look at some real historical data of the
+  event. Then we will use amazing Python libraries to live code several of 
+ the most well known algorithms. This will help us understand some fundamen
+ tal concepts of how machine learning works. When we're done\, you should h
+ ave a good mental framework to make sense of it in the modern world.\n\n  
+           \n                  Ju was born in China\, then as a kid moved t
+ o Italy. He grew up and cofounded a consulting company in Turin. After som
+ e time\, he decided to start a new adventure and moved to London\, where h
+ e works at Erlang Solutions as an Elixir Engineer. He loves to solve hard 
+ problems and build amazing products. When heâs not doing that\, heâ
+ s probably rock climbing.\n\nJu Liu\n                \n               
+  \n                  Ju was born in China\, then as a kid moved to Italy. 
+ He grew up and cofounded a consulting company in Turin. After some time\, 
+ he decided to start a new adventure and moved to London\, where he works a
+ t Erlang Solutions as an Elixir Engineer. He loves to solve hard problems 
+ and build amazing products. When heâs not doing that\, heâs prob
+ ably rock climbing.
 LOCATION:156
 SUMMARY:Predicting Titanic Survivors with Machine Learning (Machine Learnin
  g)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:767cac6d-afb4-43ef-8c24-2c9e8a59376c
+DTSTAMP:20170418T163721Z
+UID:de67d134-61e8-4e5c-b72e-89361400f300
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
+DESCRIPTION:Before programming\, before formal probability there was Bayes.
+  He introduced the notion that multiple uncertain estimates which are rela
+ ted could be combined to form a more certain estimate. It turns out that t
+ his extremely simple idea has a profound impact on how we write programs a
+ nd how we can think about life. The applications range from machine learni
+ ng and robotics to determining cancer treatments. In this talk we'll take 
+ an in depth look at Bayses rule and how it can be applied to solve problem
+ s in programming and beyond.\n\n            \n                  Schneems w
+ rites Ruby at Heroku\, maintains CodeTriage.com\, and co-organizes Keep Ru
+ by Weird. He is in the top 50 Rails contributors and is an accidental main
+ tainer of Sprockets. He writes such gems as Wicked\, and derailed_benchmar
+ ks.\n\nRichard Schneeman\n                \n                \n            
+       Schneems writes Ruby at Heroku\, maintains CodeTriage.com\, and co-o
+ rganizes Keep Ruby Weird. He is in the top 50 Rails contributors and is an
+  accidental maintainer of Sprockets. He writes such gems as Wicked\, and d
+ erailed_benchmarks.
 LOCATION:156
 SUMMARY:Bayes is BAE (Machine Learning)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:71e24877-059e-41af-a32c-834ed4436940
+DTSTAMP:20170418T163721Z
+UID:4f8b9560-15d3-4114-889a-d64c080410b8
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
+DESCRIPTION:Natural Language Processing is an interesting field of computin
+ g. The way humans use language is nuanced and deeply context sensitive. Fo
+ r example\, the word work can be both a noun and a verb. This talk will gi
+ ve an introduction to the field of NLP using Ruby.  There will be demonstr
+ ations of how computers fail and succeed at human language. You'll leave t
+ he presentation with an understanding of both the challenges and the possi
+ bilities of NLP and some tools for getting started with it. \n\n          
+   \n                  Aja lives in Seattle where she is a Developer Advoca
+ te at Google and a member of the Seattle Ruby Brigade. Her favorite langua
+ ges are Ruby and Prolog. She also loves working with large piles of data. 
+ In her free time she enjoys skiing\, cooking\, knitting\, and long coding 
+ sessions on the beach.\n\nAja Hammerly\n                \n                
+ \n                  Aja lives in Seattle where she is a Developer Advocate
+  at Google and a member of the Seattle Ruby Brigade. Her favorite language
+ s are Ruby and Prolog. She also loves working with large piles of data. In
+  her free time she enjoys skiing\, cooking\, knitting\, and long coding se
+ ssions on the beach.
 LOCATION:156
 SUMMARY:Syntax Isn't Everything: NLP for Rubyists (Machine Learning)
 END:VEVENT

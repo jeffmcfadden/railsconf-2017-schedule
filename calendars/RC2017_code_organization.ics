@@ -3,28 +3,81 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:8a45b8a7-11d0-4f9f-8157-b8d3ab005b9c
+DTSTAMP:20170418T163721Z
+UID:89e0f315-370d-4caa-8971-8edeaff733f1
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
+DESCRIPTION:The attempted rewrite is over\, the dust has settled\, and the 
+ monolith isnât going away. After all\, itâs still the app that m
+ akes all the money. On the other hand\, nobody wants to work on it\, every
+  new feature takes forever\, and your entire team is afraid of making any 
+ change for fear of the whole thing collapsing in on itself.\n\nIn this ses
+ sion\, weâll walk through some of the technical and social problems t
+ hat arise from difficult codebases. Weâll learn to stop making things
+  worse\, to measure what we need to change\, and start making progress.\n\
+ nIn the thousand mile journey\, here are the first steps.\n\n            \
+ n                  Joe Mastey is a software engineer of over twelve years\
+ , and has worked on Rails codebases from 1.2 to 5.0. He's been spending hi
+ s time lately teaching organizations to build fantastic internal education
+  programs. He also digs rock climbing and kayaking\, despite being based i
+ n Chicago.\n\nJoseph Mastey\n                \n                \n         
+          Joe Mastey is a software engineer of over twelve years\, and has 
+ worked on Rails codebases from 1.2 to 5.0. He's been spending his time lat
+ ely teaching organizations to build fantastic internal education programs.
+  He also digs rock climbing and kayaking\, despite being based in Chicago.
 LOCATION:South Ballroom
 SUMMARY:An Optimistic Proposal for Making Horrible Code... Bearable. (Code 
  Organization)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:569e3042-7119-4e88-bec8-6ad37dba8e87
+DTSTAMP:20170418T163721Z
+UID:d478e8f1-7d4f-47e1-98c3-61af7ed6b72b
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
+DESCRIPTION:Help! Despite following refactoring patterns by the book\, your
+  aging codebase is messier than ever. If only you had a key architectural 
+ insight to cut through the noise.\n\nToday\, we'll move beyond prescriptiv
+ e recipes and learn how to run a Context Mapping exercise. This strategic 
+ design tool helps you discover domain-specific system boundaries\, leading
+  to highly-cohesive and loosely-coupled outcomes. With code samples from r
+ eal production code\, we'll look at a domain-oriented approach to organizi
+ ng code in a Rails codebase\, applying incremental refactoring steps to bu
+ ild stable\, lasting systems!\n\n            \n                  Andrew is
+  a principal software engineer with Carbon Five\, an agile product develop
+ ment agency. Prior to that\, he was at Blurb\, where he thought a lot abou
+ t large Rails codebases and how to decompose them. He lives in Oakland and
+  loves trail running and any adventures he can have in the mountains.\n\nA
+ ndrew Hao\n                \n                \n                  Andrew is
+  a principal software engineer with Carbon Five\, an agile product develop
+ ment agency. Prior to that\, he was at Blurb\, where he thought a lot abou
+ t large Rails codebases and how to decompose them. He lives in Oakland and
+  loves trail running and any adventures he can have in the mountains.
 LOCATION:South Ballroom
 SUMMARY:Built to last: A domain-driven approach to beautiful systems (Code 
  Organization)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:4eb5b800-abf4-48cd-afb0-dd3e2b1ac71c
+DTSTAMP:20170418T163721Z
+UID:ef8e9d8a-b970-4646-90ac-54626e4c1b00
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
+DESCRIPTION:As our applications grow\, we start thinking of better ways to 
+ organize and scale our growing codebases. We've recently seen Microservice
+ s start to emerge as a prominent response to Monoliths\, but is it all rea
+ lly worth it? What about our other options? We often romanticize leaving o
+ ur current architecture situation because we believe it will cure what ail
+ s us. However\, architecture certainly has no silver bullet . Beam up with
+  me as we explore the past\, present\, and future of reconsidering archite
+ cture. \n\n            \n                  I'm a Florida-based developer w
+ ith a lovely wife and a bunch of animals. I program Ruby-based things for 
+ IZEA\, but I tend to write a lot in my spare time. I'm constantly looking 
+ for the weirder\, more abstract parts of programming that we often don't l
+ ook at (process\, empathy\, design).\n\nTaylor Jones\n                \n  
+               \n                  I'm a Florida-based developer with a lov
+ ely wife and a bunch of animals. I program Ruby-based things for IZEA\, bu
+ t I tend to write a lot in my spare time. I'm constantly looking for the w
+ eirder\, more abstract parts of programming that we often don't look at (p
+ rocess\, empathy\, design).
 LOCATION:South Ballroom
 SUMMARY:Architecture: The Next Generation (Code Organization)
 END:VEVENT

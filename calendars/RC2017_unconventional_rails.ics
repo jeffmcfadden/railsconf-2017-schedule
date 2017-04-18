@@ -3,36 +3,120 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:68cfe1f5-9a8b-4c76-8f72-4f6e9dce2a96
+DTSTAMP:20170418T163721Z
+UID:adf7f948-e9e4-486c-883a-2e7d3322e367
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T142000
+DESCRIPTION:Board games are great\, but who has time to keep track of what'
+ s going on when you just want to have fun?\nIn the spirit of over-engineer
+ ing we'll look at PitchCar -- probably one of the simplest games in the wo
+ rld -- and see how far we can go with web tech\, image processing\, and a 
+ bunch of math.\nExpect to see plenty of code\, some surprising problems an
+ d solutions\, and of course: A live demo.\n\n            \n               
+    Dave loves to play games\, he also loves engineering solutions to probl
+ ems which may or may not actually exist.\nHe's a graduate of computer scie
+ nce and robotics who has been programming professionally for a decade.\n\n
+ Dave Tapley\n                \n                \n                  Dave lo
+ ves to play games\, he also loves engineering solutions to problems which 
+ may or may not actually exist.\nHe's a graduate of computer science and ro
+ botics who has been programming professionally for a decade.
 LOCATION:156
 SUMMARY:Whose turn is it anyway? Augmented reality board games. (Unconventi
  onal Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:f86d254c-550f-4c8c-a7ad-ef03d966fc08
+DTSTAMP:20170418T163721Z
+UID:4f92c929-aea7-46eb-a6df-bfb2d4bc3dc9
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
+DESCRIPTION:Chatbots\, ActionCable\, A.I. and you. And many more buzzwords 
+ will enthral you in this talk.\n\nWe'll learn how to create a simple chatr
+ oom in Rails using ActionCable\, then how to talk to your colleagues in th
+ e office or remote locations using text to speech and Amazon Voice Service
+ .\n\nUsing the power of ActionCable we will explore how its possible to cr
+ eate an MMMOC: massively multiplayer online chatroom\, that you can use TO
+ DAY to see your\; Travis Build status\, or deploy code to your favourite P
+ AAS\, let you know when the latest release of Rails is out. Using nothing 
+ but your voice and ActionCable.\n\n            \n                  Julian 
+ is a British Ruby/Rails developer at Red Hat\, with a penchant for tweed\,
+  fine coffee\, and homebrewing.\n\n                \n                  Jon
+ an is a developer at Heroku and an aspiring astronaut. He believes in you 
+ and your potential and wants to help you build beautiful things. He loves 
+ robots\, games\, LEGOs and Magic: The Gathering. If you like any of those 
+ things or are willing to pretend you should go and introduce yourself. Oth
+ er good conversation starters: anything youâre passionate about\, you
+ r life story\, what you want to be when you grow up and how you became so 
+ fabulous.\n\nJulian Cheal\n                \n                \n           
+        Julian is a British Ruby/Rails developer at Red Hat\, with a pencha
+ nt for tweed\, fine coffee\, and homebrewing.\n\n                \n       
+        \n                \n                  Jonan Scheffler\n            
+     \n                \n                  Jonan is a developer at Heroku a
+ nd an aspiring astronaut. He believes in you and your potential and wants 
+ to help you build beautiful things. He loves robots\, games\, LEGOs and Ma
+ gic: The Gathering. If you like any of those things or are willing to pret
+ end you should go and introduce yourself. Other good conversation starters
+ : anything youâre passionate about\, your life story\, what you want 
+ to be when you grow up and how you became so fabulous.
 LOCATION:156
 SUMMARY:Inventing Friends: ActionCable + AVS = <3 (Unconventional Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:7eab2bb7-5508-4388-9e6e-40d23dcc4f9f
+DTSTAMP:20170418T163721Z
+UID:3dc4a650-82aa-4bc2-a01b-e6561e5ebd6c
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T162000
+DESCRIPTION:Ruby on Rails is a widely used web framework\, using HTTP to se
+ rve users web pages and store data to databases. But what about serving di
+ fferent types of clients? Is it possible to integrate Rails with other pro
+ tocol types to talk to other machines? Is it efficient? How would it work?
+  I'm going to share my team's approach integrating a Ruby on Rails applica
+ tion with automation and warehouse hardware\, such as barcode scanners and
+  Zebra printers.\n\n            \n                  Danielle is a full-sta
+ ck software engineer working at Blue Apron in New York City on their wareh
+ ouse software. Her expertise stretches between front-end heavy web applica
+ tions\, mostly with Ember.js\, and a variety of back-ends\, built in Ruby.
+  She has been coding since age 12. In her free time\, she enjoys live musi
+ c\, food\, teaching others to code\, and hanging out with her cat.\n\nDani
+ elle Adams\n                \n                \n                  Danielle
+  is a full-stack software engineer working at Blue Apron in New York City 
+ on their warehouse software. Her expertise stretches between front-end hea
+ vy web applications\, mostly with Ember.js\, and a variety of back-ends\, 
+ built in Ruby. She has been coding since age 12. In her free time\, she en
+ joys live music\, food\, teaching others to code\, and hanging out with he
+ r cat.
 LOCATION:156
 SUMMARY:Outside the (Web) Box: Using Ruby for Other Protocols (Unconvention
  al Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:ee592ef8-cc22-49cc-b712-09eb008d6ce8
+DTSTAMP:20170418T163721Z
+UID:210e765f-eca6-4866-b4b9-721af3a0da4a
 DTSTART;TZID=America/Phoenix:20170425T163000
 DTEND;TZID=America/Phoenix:20170425T171000
+DESCRIPTION:We live in a world where you can schedule a meeting by talking 
+ to your watch or turn off your lights by asking Alexa as if she were your 
+ roommate. But would voice dictation work for something more intensive\, li
+ ke a web app used for hours of data entry?\n\nIn this talk\, Iâll sho
+ w you how to implement the Web Speech API in a few simple steps. Iâll
+  also walk through a case study of using the API in a production Rails app
+ . Youâll leave with an understanding of how to implement voice dictat
+ ion on the web as well as criteria to evaluate if voice is a viable soluti
+ on to a given problem.\n\n            \n                  Cameron is a Sof
+ tware Engineer at Stitch Fix\, where she builds internal tools in Ruby on 
+ Rails. She found coding by way of Merchandising\, while working at Stitch 
+ Fix on the Jewelry & Accessories team in 2014. After attending General Ass
+ emblyâs web development immersive program\, Cameron is now working on
+  the tools that once made her job on the Merchandising team easier. In her
+  free time\, she loves traveling\, teaching others to code\, and daydreami
+ ng about becoming a dog owner.\n\nCameron Jacoby\n                \n      
+           \n                  Cameron is a Software Engineer at Stitch Fix
+ \, where she builds internal tools in Ruby on Rails. She found coding by w
+ ay of Merchandising\, while working at Stitch Fix on the Jewelry & Accesso
+ ries team in 2014. After attending General Assemblyâs web development
+  immersive program\, Cameron is now working on the tools that once made he
+ r job on the Merchandising team easier. In her free time\, she loves trave
+ ling\, teaching others to code\, and daydreaming about becoming a dog owne
+ r.
 LOCATION:156
 SUMMARY:Implementing the Web Speech API for Voice Data Entry (Unconventiona
  l Rails)

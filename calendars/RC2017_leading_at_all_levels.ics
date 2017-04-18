@@ -3,45 +3,153 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:306a30a0-7162-48c5-8715-59f0a4384aed
+DTSTAMP:20170418T163721Z
+UID:7d496c20-c6af-4312-a41d-e3c8f57ef683
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
+DESCRIPTION:Just because you don't have lead / senior / manager / owner in 
+ your title\, doesn't mean there isn't plenty of opportunity to lead. No ma
+ tter where you are in your career\, come discover how to communicate more 
+ effectively\, embrace self-awareness\, and influence those leading you. Do
+ n't wait for a title to tell you to lead. Take responsibility where you ar
+ e\, and let the titles come to you.\n\n            \n                  Sco
+ tt has been developing professionally for 10+ years. Currently he is the s
+ enior developer on the Open Network team at Life.Church. When he's not bui
+ lding software for churches\, he's begging for laughs as an amateur stand-
+ up comedian and dadding so hard he sees Legos in his sleep.\n\nScott Lesse
+ r\n                \n                \n                  Scott has been de
+ veloping professionally for 10+ years. Currently he is the senior develope
+ r on the Open Network team at Life.Church. When he's not building software
+  for churches\, he's begging for laughs as an amateur stand-up comedian an
+ d dadding so hard he sees Legos in his sleep.
 LOCATION:164
 SUMMARY:Leading When You're Not in Charge (Leading at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:36ba6347-2e22-481d-af84-635b71e5f05a
+DTSTAMP:20170418T163721Z
+UID:2d87ea68-131d-4014-b50d-68724aa09e5e
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
+DESCRIPTION:The ideal workplace\, with motivated employees\, supportive man
+ agers and a clear vision in the "C-suite"\, is where we'd all like to work
+ \, isn't it? The question then\, is\, how do we create it? How do managers
+  walk the fine line of "micromanaging" and "anarchy"? How can we\, as empl
+ oyees\, maximize our contribution to our company and love what we do at th
+ e same time?\n\nThe secret is in the big band.\n\nInspired by Max Dupree's
+  Leadership Jazz\, this talk will show you how to apply the principles of 
+ improvisation to your company/team and make your workplace more efficient\
+ , effective and fun!\n\n            \n                  Minnesota-raised\,
+  Philadephia-made.\n\nMichael is a creative guy who likes to make things\,
+  especially music and apps. He's spent the last 15 years performing as a p
+ rofessional musician\, from the Minnesota Opera to clubs of all kinds up a
+ nd down the East coast. Prior to joining the Ruby community in 2014\, Mich
+ ael taught an assortment of music courses for Camden County College and th
+ e University of Phoenix at Center City.\n\nMichael Cain\n                \
+ n                \n                  Minnesota-raised\, Philadephia-made.\
+ n\nMichael is a creative guy who likes to make things\, especially music a
+ nd apps. He's spent the last 15 years performing as a professional musicia
+ n\, from the Minnesota Opera to clubs of all kinds up and down the East co
+ ast. Prior to joining the Ruby community in 2014\, Michael taught an assor
+ tment of music courses for Camden County College and the University of Pho
+ enix at Center City.
 LOCATION:164
 SUMMARY:Bebop to the Top - The Jazz Band As A Guide To Leadership (Leading 
  at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:0889f430-0d6a-4e8d-b770-413690ad4a82
+DTSTAMP:20170418T163721Z
+UID:88cc2da8-5d42-405f-aa6e-b2f91342fa90
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
+DESCRIPTION:As the stigma of speaking out about mental health conditions de
+ clines\, leaders in the programming community are are being given many new
+  opportunities to support their teams.  In this session you will learn abo
+ ut the issues some of your team may face both in dealing with their own po
+ tential mental health difficulties and that of other team members.  We wil
+ l go over ways to support both the individual and team\, how to advocate f
+ or team members with mental health conditions\, and resources for further 
+ information and outreach for you and your team.\n\n            \n         
+          A Ruby on Rails lover\, Elixir dabbler\, and all around beginner 
+ at much of life.  Born and raised in rural Missouri but now firmly entrenc
+ hed on the West Coast.  Lover of corgis and cats alike.  Currently working
+  as a Developer Advocate for SparkPost\, formerly at Raygun\, TripGrid\, a
+ nd Marketo.  I also lift things up and put them back down. Email:  jrjames
+ .pdx@gmail.com Twitter:  @jjamespdx\n\nJesse James\n                \n    
+             \n                  A Ruby on Rails lover\, Elixir dabbler\, a
+ nd all around beginner at much of life.  Born and raised in rural Missouri
+  but now firmly entrenched on the West Coast.  Lover of corgis and cats al
+ ike.  Currently working as a Developer Advocate for SparkPost\, formerly a
+ t Raygun\, TripGrid\, and Marketo.  I also lift things up and put them bac
+ k down. Email:  jrjames.pdx@gmail.com Twitter:  @jjamespdx
 LOCATION:164
 SUMMARY:Supporting Mental Health as an Effective Leader (Leading at all Lev
  els)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:d79fe729-35d1-428d-a1cd-97cd8d085402
+DTSTAMP:20170418T163721Z
+UID:fd0fa659-0847-43a0-bfde-84a2b4b1096b
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
+DESCRIPTION:Leading an open source or community project means dealing with 
+ people challenges in addition to technical challenges -- how do we take a 
+ scattering of interested people and build a team with them? Turns out\, we
+  can adapt a bunch of practices we already use! Using a collaboration betw
+ een a nonprofit and a civic group as a case study\, we'll talk about ways 
+ to apply best practices from community organizers to our work. In particul
+ ar\, we'll talk about similarities between contemporary organizing and agi
+ le models\, ways to build relationships with other team members\, and maki
+ ng our work more sustainable.\n\n            \n                  Colin is 
+ a community organizer (and now\, a Rails and SQL developer) from southwest
+  Michigan currently living in DC. For the past year\, he's led an open sou
+ rce overhaul of the DC Abortion Fund's intake system. During the days he w
+ orks for BlueLabs\, an analytics company working on health care and progre
+ ssive causes. He serves on the board of the DC Abortion Fund\, hangs out a
+ t his local Code for America brigade\, and loves cats.\n\nColin Fleming\n 
+                \n                \n                  Colin is a community 
+ organizer (and now\, a Rails and SQL developer) from southwest Michigan cu
+ rrently living in DC. For the past year\, he's led an open source overhaul
+  of the DC Abortion Fund's intake system. During the days he works for Blu
+ eLabs\, an analytics company working on health care and progressive causes
+ . He serves on the board of the DC Abortion Fund\, hangs out at his local 
+ Code for America brigade\, and loves cats.
 LOCATION:164
 SUMMARY:It's dangerous to go alone: Building teams like an organizer (Leadi
  ng at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:15a60ba0-be34-49b1-af97-29890c90f125
+DTSTAMP:20170418T163721Z
+UID:e2d6d98f-475c-4544-a578-dfd8aa708dfe
 DTSTART;TZID=America/Phoenix:20170426T153000
 DTEND;TZID=America/Phoenix:20170426T161000
+DESCRIPTION:Are you a new manager? Have you been asked to lead a project? D
+ o you want to see change in your company but don't feel you have the posit
+ ion to enact it? Are you terrified or nervous or unsure where to start? Ha
+ s a recent situation left you questioning what you did wrong and how to be
+  a better leader? \n\nSoftware development doesn't prepare us for taking o
+ n everyday or official leadership and yet\, leadership is what every team 
+ and company desperately need.\n\nLet talk with a group of folks at various
+  stages of the leadership hierarchy about what they have and want to learn
+ .\n\n            \n                  Rebecca Miller-Webster is a software 
+ engineer\, conference organizer\, and educator. She is the founder of Writ
+ e/Speak/Code and Practice Lead at\nDevMynd. Rebecca has been developing so
+ ftware professionally for over a dozen years &  previously organized GORUC
+ O. Rebecca's hobbies include drinking Diet Coke\, wearing trousers\, telli
+ ng computers what to do\, pugs\, & swearing.\n\n                \n        
+           Pivotal\n\n                \n                  VP of Product\, Y
+ ello\n\n                \n                  Lead Software Engineer\, Optor
+ o\n\nRebecca Miller-Webster\n                \n                \n         
+          Rebecca Miller-Webster is a software engineer\, conference organi
+ zer\, and educator. She is the founder of Write/Speak/Code and Practice Le
+ ad at\nDevMynd. Rebecca has been developing software professionally for ov
+ er a dozen years &  previously organized GORUCO. Rebecca's hobbies include
+  drinking Diet Coke\, wearing trousers\, telling computers what to do\, pu
+ gs\, & swearing.\n\n                \n              \n                \n  
+                 Neha Batra\n                \n                \n          
+         Pivotal\n\n                \n              \n                \n   
+                Shay Howe\n                \n                \n            
+       VP of Product\, Yello\n\n                \n              \n         
+        \n                  Abel Martin\n                \n                
+ \n                  Lead Software Engineer\, Optoro
 LOCATION:164
 SUMMARY:Panel: Becoming an engineering leader (Leading at all Levels)
 END:VEVENT

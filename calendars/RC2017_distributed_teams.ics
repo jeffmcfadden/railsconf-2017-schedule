@@ -3,27 +3,100 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:8a997867-7149-4132-8f64-dfd7604a7934
+DTSTAMP:20170418T163721Z
+UID:4c77a56f-0b0a-45a7-a344-b5928b84568e
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
+DESCRIPTION:Distributed teams can have big benefits for both employers and 
+ employees. But there are many challenges. Being successful requires change
+ s to work practices\, communication\, and style â and not just from t
+ he remote people.  Everyone will experience changes. It helps to be prepar
+ ed â¦ and most of what we see being written and discussed is focused o
+ n remote workers\, not the organization that supports them.\n\nIn this tal
+ k\, we will look at the challenges and rewards of working in a distributed
+  team setting based on several years of experience growing large distribut
+ ed engineering teams.\n\n            \n                  Maria Gutierrez i
+ s VP of Engineering at FreeAgent\, one of the UK's most popular online acc
+ ounting software providers.\n\nGlenn and Maria recently worked together at
+  LivingSocial where they led large\, globally distributed teams from Dalla
+ s and Edinburgh\, respectively.\n\n                \n                  Gle
+ nn Vanderburg is VP of Engineering at First.io\, a startup building softwa
+ re to amplify the effectiveness of residential real estate agents.  He has
+  worked on distributed teams at Relevance\, InfoEther\, LivingSocial\, and
+  now First.\n\nMaria Gutierrez\n                \n                \n      
+             Maria Gutierrez is VP of Engineering at FreeAgent\, one of the
+  UK's most popular online accounting software providers.\n\nGlenn and Mari
+ a recently worked together at LivingSocial where they led large\, globally
+  distributed teams from Dallas and Edinburgh\, respectively.\n\n          
+       \n              \n                \n                  Glenn Vanderbu
+ rg\n                \n                \n                  Glenn Vanderburg
+  is VP of Engineering at First.io\, a startup building software to amplify
+  the effectiveness of residential real estate agents.  He has worked on di
+ stributed teams at Relevance\, InfoEther\, LivingSocial\, and now First.
 LOCATION:156
 SUMMARY:A clear-eyed look at distributed teams (Distributed Teams)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:26b464a8-3043-4527-b750-1b48b28e0481
+DTSTAMP:20170418T163721Z
+UID:ce4e7a01-35a5-4970-b884-a5ae8da5d4cd
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
+DESCRIPTION:Our company is traditional in many ways\, one of which being th
+ e need to come into the office each day. Our team of software developers b
+ ucks that trend\, spreading across 6 states and 4 countries. Dev teams con
+ sider themselves "Remote First"\, while DevOps and Application Support are
+  "Local First." Each has adopted tools\, habits\, and practices to maximiz
+ e their configuration. Each style has learned valuable lessons from the ot
+ her. This presentation is about how our teams have evolved: the tools\, th
+ e compromises\, the wins and losses\, and how we successfully blend Distri
+ buted and Concentrated teams.\n\n            \n                  Ben Klang
+  has always been fascinated with technology. Disassembling clock radios\, 
+ breaking and fixing the family computer\, eventually embarking on a career
+  in software development. More recently\, he has taken leadership roles on
+  technology teams\, and as a result had to start over\, learning all new s
+ kills. Today he is proud to work for a company named Fortune #1 Workplace 
+ for Camaraderie\, but mostly is happy thanks to the incredible team of hum
+ ans he's privileged to work with each day.\n\nBen Klang\n                \
+ n                \n                  Ben Klang has always been fascinated 
+ with technology. Disassembling clock radios\, breaking and fixing the fami
+ ly computer\, eventually embarking on a career in software development. Mo
+ re recently\, he has taken leadership roles on technology teams\, and as a
+  result had to start over\, learning all new skills. Today he is proud to 
+ work for a company named Fortune #1 Workplace for Camaraderie\, but mostly
+  is happy thanks to the incredible team of humans he's privileged to work 
+ with each day.
 LOCATION:156
 SUMMARY:Distributed & Local: Getting the Best of Both Worlds (Distributed T
  eams)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:b9a8fe63-cc2b-4d5f-98e2-98ed19295e7c
+DTSTAMP:20170418T163721Z
+UID:7b5bca52-0c1e-47e9-886f-8fb98dbbea4f
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
+DESCRIPTION:Being on a distributed team\, working from your home or coffee 
+ shop isn't easy\, but it can be incredibly rewarding.  Making it work requ
+ ires constant attention\, as well as support from your team and organizati
+ on.  It's more than just setting up Slack and buying a webcam.\n\nWe'll le
+ arn what you can do to be your best self as a remote team member\, as well
+  as what you need from your environment\, team\, and company.  It's not ab
+ out technical stuffâit's the human stuff. We'll learn how can you be 
+ present and effective when you aren't physically there.\n\n            \n 
+                  David Copeland is a programmer and author.  He's the auth
+ or of âRails\, Angular\, Postgres\, and Bootstrapâ\, "The Senior
+  Software Engineer" and "Build Awesome Command-Line Applications in Ruby".
+  He has over 18 years of professional development experience from  managin
+ g high-performance\, high-traffic systems at LivingSocial or building the 
+ engineering team at Opower to working consulting gigs large and small.  Cu
+ rrently\, he's Director of Engineering at fashion start-up Stitch Fix.\n\n
+ David Copeland\n                \n                \n                  Davi
+ d Copeland is a programmer and author.  He's the author of âRails\, A
+ ngular\, Postgres\, and Bootstrapâ\, "The Senior Software Engineer" a
+ nd "Build Awesome Command-Line Applications in Ruby". He has over 18 years
+  of professional development experience from  managing high-performance\, 
+ high-traffic systems at LivingSocial or building the engineering team at O
+ power to working consulting gigs large and small.  Currently\, he's Direct
+ or of Engineering at fashion start-up Stitch Fix.
 LOCATION:156
 SUMMARY:The Effective Remote Developer (Distributed Teams)
 END:VEVENT

@@ -3,18 +3,55 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:696cfc7d-1f80-4dbb-a37f-f2b103544154
+DTSTAMP:20170418T163721Z
+UID:3310595c-b9dc-47ec-98b2-46a142a841c3
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
+DESCRIPTION:Woodworking has experienced quite a renaissance as of late\, an
+ d a very popular style involves using power tools for rough work and hand 
+ tools for detail and precision work. Using both defines each woodworker's 
+ speed and ability to produce beautiful/functional pieces. The same can be 
+ true of developers. What can we as developers learn from this mix of moder
+ n and ancient craft? Come find out.\n\n            \n                  Bas
+ ed in Austin\, TX\, Mark has 15 years of full time development experience\
+ , 9 of which have been in Ruby and Rails.   He's been at Upworthy and Stit
+ ch Fix in recent years\, as a lead in both engineering organizations.  Mar
+ k has a passion for connecting with people\, BBQ\, board games\, woodworki
+ ng and simple solutions to problems.\n\nMark Simoneau\n                \n 
+                \n                  Based in Austin\, TX\, Mark has 15 year
+ s of full time development experience\, 9 of which have been in Ruby and R
+ ails.   He's been at Upworthy and Stitch Fix in recent years\, as a lead i
+ n both engineering organizations.  Mark has a passion for connecting with 
+ people\, BBQ\, board games\, woodworking and simple solutions to problems.
 LOCATION:South Ballroom
 SUMMARY:Rough to Fine: Programming Lessons from Woodworking (Productivity)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:ce0a98e9-ee1e-4194-ad15-fe6e69113897
+DTSTAMP:20170418T163721Z
+UID:52d28fd8-2405-4a17-8111-3237e268e65d
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
+DESCRIPTION:Over the past year\, Iâve spoken at several conferences\, 
+ lost 30 pounds\, and worked up to running my first 5K\, all while leading 
+ an engineering team and spending significant time with my family. I also h
+ ave less willpower than just about everyone I know. So howâd I accomp
+ lish those things?\n\nLetâs talk about how to build goals the right w
+ ay so that youâll be all but guaranteed to hit them. Weâll work 
+ through the process of creating systems and nurturing habits to turn your 
+ brain into your biggest ally\, no matter what you want to accomplish!\n\n 
+            \n                  In addition to being a breakfast taco conno
+ isseur\, Nickolas Means is also a connoisseur of disaster stories. He love
+ s seeing how sometimes the absolute worst thing that could possibly happen
+  sometimes brings out the absolute best in the people it happens to. When 
+ he's not studying the macabre\, Nick is VP of Engineering at Muve Health\,
+  working to change how healthcare gets paid for in the US.\n\nNickolas Mea
+ ns\n                \n                \n                  In addition to b
+ eing a breakfast taco connoisseur\, Nickolas Means is also a connoisseur o
+ f disaster stories. He loves seeing how sometimes the absolute worst thing
+  that could possibly happen sometimes brings out the absolute best in the 
+ people it happens to. When he's not studying the macabre\, Nick is VP of E
+ ngineering at Muve Health\, working to change how healthcare gets paid for
+  in the US.
 LOCATION:South Ballroom
 SUMMARY:Warning: May Be Habit Forming (Productivity)
 END:VEVENT

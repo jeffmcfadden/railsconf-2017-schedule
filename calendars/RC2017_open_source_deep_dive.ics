@@ -3,28 +3,86 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:702edebc-8e31-458f-ade5-889b6a6ce4e4
+DTSTAMP:20170418T163721Z
+UID:7b03f95f-e401-4e7f-a528-b6e462a43583
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
+DESCRIPTION:At the 2014 RailsConf DHH declared system testing would be adde
+ d to Rails. Three years later\, Rails 5.1 makes good on that promise by in
+ troducing a new testing framework: ActionDispatch::SystemTestCase. The fea
+ ture brings system testing to Rails with zero application configuration by
+  adding Capybara integration. After a demonstration of the new framework\,
+  we'll walk through what's uniquely involved with building OSS features & 
+ how the architecture follows the Rails Doctrine. We'll take a rare look at
+  what it takes to build a major feature for Rails\, including goals\, desi
+ gn decisions\, & roadblocks.\n\n            \n                  Eileen M. 
+ Uchitelle is an avid contributor to open source\, focusing most of her tim
+ e on the Rails framework. She works on performance and open source softwar
+ e on GitHub's Platform Systems team and is a member of the Rails Core team
+ . Eileen spent the last few months building the new ActionSystemTest gem f
+ or adding Capybara integration to Ruby on Rails.\n\nEileen M. Uchitelle\n 
+                \n                \n                  Eileen M. Uchitelle i
+ s an avid contributor to open source\, focusing most of her time on the Ra
+ ils framework. She works on performance and open source software on GitHub
+ 's Platform Systems team and is a member of the Rails Core team. Eileen sp
+ ent the last few months building the new ActionSystemTest gem for adding C
+ apybara integration to Ruby on Rails.
 LOCATION:South Ballroom
 SUMMARY:Building Rails ActionDispatch:: SystemTestCase Framework (Open Sour
  ce Deep Dive)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:eb475bf5-dcbf-4c13-91e0-da8c2ca3921c
+DTSTAMP:20170418T163721Z
+UID:66f5fb3d-2416-4548-b93a-6118e738585a
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T162000
+DESCRIPTION:Open source projects like Rails are intimidating\, especially a
+ s a beginner. Itâs hard to look at the code and know what it does. Bu
+ t Ruby on Rails is more than just code. Written into it are years of resea
+ rch\, discussions\, and motivations. Also written into it are bugs\, typos
+ \, and all of the pieces that make the code human. This talk outlines step
+ s you can take to explore the inner workings of Rails and gain context on 
+ its design. Understanding how Rails works will allow you to write better R
+ ails applications and better Ruby code. You will leave with many resources
+  and tips on perusing Rails.\n\n            \n                  I am a ful
+ l time Rails developer\, part time college student\, and a full time dad w
+ ith too much time on my hands. Professionally\, I maintain Rails applicati
+ ons used by colleges\, and I bug my coworkers about things I learn in Ruby
+ \, Linux\, and Vim. I'm also a big fan of coffee\, and Iâve happily u
+ sed it as inspiration for several(most(pretty much all))Â of my personal
+  programming projects.\n\nAlex Kitchens\n                \n               
+  \n                  I am a full time Rails developer\, part time college 
+ student\, and a full time dad with too much time on my hands. Professional
+ ly\, I maintain Rails applications used by colleges\, and I bug my coworke
+ rs about things I learn in Ruby\, Linux\, and Vim. I'm also a big fan of c
+ offee\, and Iâve happily used it as inspiration for several(most(pret
+ ty much all))Â of my personal programming projects.
 LOCATION:South Ballroom
 SUMMARY:Perusing the Rails Source Code - A Beginners Guide (Open Source Dee
  p Dive)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:b64b1a8a-28ba-4276-b4d2-a9d2d48aa968
+DTSTAMP:20170418T163721Z
+UID:0c1260d1-b529-4783-b779-31ae2a04b34f
 DTSTART;TZID=America/Phoenix:20170425T163000
 DTEND;TZID=America/Phoenix:20170425T171000
+DESCRIPTION:RSpec gives you many ways to test your Rails app. Controller\, 
+ view\, model\, and so on. Often\, it's not clear which to use. In this tal
+ k\, you'll get some practical advice to improve your testing by understand
+ ing how RSpec integrates with Rails. To do this we'll look through some re
+ al world RSpec bugs\, and with each one\, clarify our understanding of the
+  boundaries between RSpec and Rails.\n\nIf you're looking to level up your
+  testing\, understand RSpec's internals a little better\, or improve your 
+ Rails knowledge\, this talk will have something for you. Some knowledge of
+  RSpec's test types will be assumed.\n\n            \n                  Sa
+ m Phippen is an Engineer at DigitalOcean. He comes to the table with enthu
+ siasm\, and a great deal of love for the Ruby community. He fights for the
+  forces of justice as a member of the RSpec core team. He's sad that he ca
+ n't hug every cat.\n\nSam Phippen\n                \n                \n   
+                Sam Phippen is an Engineer at DigitalOcean. He comes to the
+  table with enthusiasm\, and a great deal of love for the Ruby community. 
+ He fights for the forces of justice as a member of the RSpec core team. He
+ 's sad that he can't hug every cat.
 LOCATION:South Ballroom
 SUMMARY:Teaching RSpec to Play nice with Rails (Open Source Deep Dive)
 END:VEVENT

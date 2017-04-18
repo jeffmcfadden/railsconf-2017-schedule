@@ -3,88 +3,165 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:2577ffbd-af3b-4625-b951-b05298df555f
+DTSTAMP:20170418T163721Z
+UID:4a8a694e-54bc-4361-9b9a-4eb951989cb0
 DTSTART;TZID=America/Phoenix:20170425T163000
 DTEND;TZID=America/Phoenix:20170425T171000
+DESCRIPTION:Containers have gained popularity the past few years but they h
+ ave been around much longer than that. In this talk\, we'll dive into the 
+ internals of a container. If you have used or heard about Docker container
+ s but are unsure how they work\, this talk is for you.\n\nâ¨Youâl
+ l also learn how to run Rails in production-ready container environments l
+ ike Kubernetes.\n\n            \n                  Christopher is the Supp
+ ort Manager for Asia Pacific at Engine Yard. He is one of the "far more ex
+ perienced and intelligent human beings who can actually support and monito
+ r your app in production" according to Jacob Burkhart. He is also the orga
+ nizer of RubyConf Philippines\, which has run annually since 2014.\n\nChri
+ stopher Rigor\n                \n                \n                  Chris
+ topher is the Support Manager for Asia Pacific at Engine Yard. He is one o
+ f the "far more experienced and intelligent human beings who can actually 
+ support and monitor your app in production" according to Jacob Burkhart. H
+ e is also the organizer of RubyConf Philippines\, which has run annually s
+ ince 2014.
 LOCATION:162
 SUMMARY:Deep Dive Into Docker Containers for Rails Developers (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:99345d27-d4fe-483b-9c5f-684d701a544d
+DTSTAMP:20170418T163721Z
+UID:6a5baae1-8db7-40bc-8d27-c95687bd61fd
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
+DESCRIPTION:This is a sponsored talk by Google Cloud Platform.\n\nRuby deve
+ lopers welcome! Our dedicated Google Cloud Platform Ruby team has built a 
+ great experience for Ruby developers using GCP. In this session\, we'll wa
+ lk through the steps to deploy\, debug and scale a Ruby on Rails applicati
+ on on Google App Engine. You'll also learn about some of the exciting Ruby
+  libraries available today for adding features to your app with GCP servic
+ es like BigQuery and Cloud Vision API.\n\n            \n                  
+ Remi works on the Ruby Cloud team\, crafting elegant code to help Ruby dev
+ elopers use Google Cloud Platform.Â  Now in Seattle\, she started her ca
+ reer in Phoenix where she was an active member of the local developer comm
+ unity.Â  Her passions include developer experience\, domain specific lan
+ guages\, and dogs.Â  If you canât find her after the conference\, s
+ he is undoubtedly at Oreganoâs.\n\nRemi Taylor\n                \n   
+              \n                  Remi works on the Ruby Cloud team\, craft
+ ing elegant code to help Ruby developers use Google Cloud Platform.Â  No
+ w in Seattle\, she started her career in Phoenix where she was an active m
+ ember of the local developer community.Â  Her passions include developer
+  experience\, domain specific languages\, and dogs.Â  If you canât 
+ find her after the conference\, she is undoubtedly at Oreganoâs.
 LOCATION:162
 SUMMARY:Google Cloud <3 Ruby (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:1b1ddddc-ebc6-43ef-8ed7-7a9f73de293d
+DTSTAMP:20170418T163721Z
+UID:c149187d-8855-463b-96ca-7778c3179b2b
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
 LOCATION:162
 SUMMARY:Tailoring Mentorship: Achieving the Best Fit (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:d84402e7-7ff3-4569-99b3-64a070e50f9d
+DTSTAMP:20170418T163721Z
+UID:5705d35c-cc6b-45f0-bb00-a5bd9b9e7d87
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
 LOCATION:162
 SUMMARY:Postgres at Any Scale (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:1b45d118-026a-4d29-b043-1e3e47f9d903
+DTSTAMP:20170418T163721Z
+UID:260dded3-f8e2-4546-b954-1cdbe4c105c6
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
 LOCATION:162
 SUMMARY:Introducing Helix: High-Performance Ruby Made Easy (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:c46da603-4353-49b4-bbe8-4b1b27a89790
+DTSTAMP:20170418T163721Z
+UID:7a606865-3de3-4ab3-b38a-5e06609d2dc9
 DTSTART;TZID=America/Phoenix:20170426T153000
 DTEND;TZID=America/Phoenix:20170426T161000
 LOCATION:162
 SUMMARY:Your App Server Config is Wrong (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:24a0830b-bde1-443c-b3b2-ccd94acaee32
+DTSTAMP:20170418T163721Z
+UID:f0b33422-e435-48d6-8b3c-83b76233e70e
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
+DESCRIPTION:This is a sponsored talk by Tuft & Needle.\n\nTuft & Needle is 
+ a bootstrapped\, Phoenix-based company that pioneered the disruption of a 
+ the mattress industry using a software startupâs mindset when it was 
+ founded in 2012 and has grown to over $100 million in annual revenue. A co
+ mmitment to skill acquisition has led to a happier and more productive tea
+ m\, and is a core to the companyâs success. In this session\, learn h
+ ow to cultivate a culture of continuous learning and skill acquisition thr
+ ough apprenticeships and group learning sessions.\n\n            \n       
+            Dave Ott and Dennis Eusebio work at Tuft & Needle\, a bootstrap
+ ped\, Phoenix-based company that pioneered the disruption of the mattress 
+ industry. Dave leads the software engineering team\, utilizing his 10 year
+ s of Rails experience on the custom build and continuous iteration of the 
+ T&Nâs software.\n\n                \n                  Dennis leads d
+ esign\, supporting creative direction while maintaining and developing bra
+ nding and UX. The two Jacksonville-based team members met while at Hashroc
+ ket with T&N co-founder JT Marino.\n\nDave Ott\n                \n        
+         \n                  Dave Ott and Dennis Eusebio work at Tuft & Nee
+ dle\, a bootstrapped\, Phoenix-based company that pioneered the disruption
+  of the mattress industry. Dave leads the software engineering team\, util
+ izing his 10 years of Rails experience on the custom build and continuous 
+ iteration of the T&Nâs software.\n\n                \n              \
+ n                \n                  Dennis Eusebio\n                \n   
+              \n                  Dennis leads design\, supporting creative
+  direction while maintaining and developing branding and UX. The two Jacks
+ onville-based team members met while at Hashrocket with T&N co-founder JT 
+ Marino.
 LOCATION:162
 SUMMARY:Cultivating a Culture of Continuous Learning (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:9e0f0930-3c36-4e06-8918-56343b50decc
+DTSTAMP:20170418T163721Z
+UID:cc2397f7-d304-4ed2-a2bd-a571eb074187
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
+DESCRIPTION:This is a sponsored talk by Hired.\n\nHired open-sources some u
+ seful abstractions from our Majestic MonolithÂ® and we've learned a lot.
+  Some tough lessons\, and some cool knowledge. We'll cover: When & where s
+ hould you pull something out of the code? Does it really help? What things
+  are important to think about? What if it never takes off? We'll also look
+  at some design patterns from our open-source work.\n\n            \n     
+              Andrew is a Software Engineer and Thing-Getter-Donerâ¢ at
+  Hired in San Francisco. Previously he's been product engineer\, cofounder
+  + CTO of a 500 Startups company\, and a nomadic consultant. Generalist & 
+ dabbler\, he's been in Ruby & Rails for ten years. Loves cats\, plays vide
+ o games.\n\nAndrew Evans\n                \n                \n            
+       Andrew is a Software Engineer and Thing-Getter-Donerâ¢ at Hired 
+ in San Francisco. Previously he's been product engineer\, cofounder + CTO 
+ of a 500 Startups company\, and a nomadic consultant. Generalist & dabbler
+ \, he's been in Ruby & Rails for ten years. Loves cats\, plays video games
+ .
 LOCATION:162
 SUMMARY:Open Sourcing: Real Talk (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:70f2f8d7-be5f-46a8-bf49-d8009b827cf6
+DTSTAMP:20170418T163721Z
+UID:14b90652-a037-4b90-b569-84d3952beb67
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
 LOCATION:162
 SUMMARY:Rails APIs: The Next Generation (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:2623e090-b20b-4e5f-b40d-6483843da2d3
+DTSTAMP:20170418T163721Z
+UID:32d5e350-a6dc-4ab6-9d79-a38c4ebddfbb
 DTSTART;TZID=America/Phoenix:20170427T144000
 DTEND;TZID=America/Phoenix:20170427T152000
 LOCATION:162
 SUMMARY:Recurring Background Jobs with Sidekiq-scheduler (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T162357Z
-UID:25668555-5324-43ae-ae9b-35ab6a531072
+DTSTAMP:20170418T163721Z
+UID:d76855ae-45dd-471f-984e-044430d45742
 DTSTART;TZID=America/Phoenix:20170427T153000
 DTEND;TZID=America/Phoenix:20170427T161000
 LOCATION:162
