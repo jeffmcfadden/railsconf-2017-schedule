@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e6e7156e-4bee-4526-93ec-bb0c71788acb
+DTSTAMP:20170418T171451Z
+UID:a3b09c80-584c-430f-be0c-9836e83fed9a
 DTSTART;TZID=America/Phoenix:20170425T093000
 DTEND;TZID=America/Phoenix:20170425T103000
 DESCRIPTION:
@@ -12,16 +12,16 @@ LOCATION:South Ballroom
 SUMMARY:Welcome & Opening Keynote: David Heinemeier Hansson (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:b89d199c-8c24-4162-8a87-7d811dfc39e7
+DTSTAMP:20170418T171451Z
+UID:3cb9d308-edfa-4ba8-bab8-1f13a6dac424
 DTSTART;TZID=America/Phoenix:20170425T103000
 DTEND;TZID=America/Phoenix:20170425T105000
 LOCATION:South Ballroom Lobby
 SUMMARY:AM BREAK (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:b5b37b6f-b599-49ed-9ace-50b2816baba6
+DTSTAMP:20170418T171451Z
+UID:03a4a3dc-cd92-40e9-a91c-74fce1405ce2
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T113000
 DESCRIPTION:Picking an encryption algorithm is like choosing a lock for you
@@ -45,8 +45,8 @@ SUMMARY:The Art & Craft of Secrets: Using the Cryptographic Toolbox (Securi
  ty)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e56d1bb1-0fed-493f-8286-db8367a8648a
+DTSTAMP:20170418T171451Z
+UID:517b87c7-16b0-41a2-b0c6-1cdbdf009156
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T113000
 DESCRIPTION:The history of programming is filled with examples of bugs that
@@ -72,8 +72,8 @@ SUMMARY:The Good Bad Bug: Learning to Embrace Mistakes (Developer Happiness
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:a6053133-60e8-4dc9-9ada-389991e5013a
+DTSTAMP:20170418T171451Z
+UID:314b9157-94bc-4dd6-8ba1-d06307fe1b52
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T113000
 DESCRIPTION:Ever wonder why applications use sessions and APIs use tokens? 
@@ -99,8 +99,8 @@ LOCATION:162
 SUMMARY:Portable Sessions with JSON Web Tokens (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:4db2ad7f-a891-4375-bb6d-89345b98461d
+DTSTAMP:20170418T171451Z
+UID:b79493ef-a174-4970-8e46-14a11d98bc89
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T113000
 DESCRIPTION:"That's not very RESTful." As a Rails developer you've probably
@@ -125,8 +125,8 @@ LOCATION:160
 SUMMARY:In Relentless Pursuit of REST (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:ec129191-ab69-4744-8103-dbe60a6c3406
+DTSTAMP:20170418T171451Z
+UID:211b3dad-0df7-4426-9500-55ee9f4932ce
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T113000
 DESCRIPTION:For some\, making web applications accessible is a must\; Gover
@@ -151,24 +151,62 @@ SUMMARY:Accessibility (when you don't have time to read the manual) (Genera
  l)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e92b5269-e3a9-4c97-b8e9-c6be4aa2b74f
+DTSTAMP:20170418T171451Z
+UID:1b51abe0-d4ca-4eda-88f2-56b5781c294b
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T122000
+DESCRIPTION:The effectiveness of your team is limited by your communication
+ . To be a great developer we need to be able to express ideas into code. T
+ o be a great developer on a team we need to be able to transfer those idea
+ s and that code between other humans.\n\nIn this workshop we will be focus
+ ed on improving our own teams by improving our own communication. We will 
+ learn how to give more effective and meaningful code feedback\, how to bre
+ ak complex ideas down into simple jargon free components\, and we will dis
+ cuss how we can build better teams and streamline our development processe
+ s.\n\n            \n                  Justin is a developer\, educator\, s
+ peaker\, friend to all\, and founder of Lunar Collective. He has spent the
+  majority of his career teaching and mentoring others along side solving p
+ roblems for companies and organizations of all sizes. He currently lives o
+ utside Austin\, TX\, on a ranch surrounded by horses\, cats\, a zebra\, an
+ d llama.\n\nJustin Herrick\n                \n                \n          
+         Justin is a developer\, educator\, speaker\, friend to all\, and f
+ ounder of Lunar Collective. He has spent the majority of his career teachi
+ ng and mentoring others along side solving problems for companies and orga
+ nizations of all sizes. He currently lives outside Austin\, TX\, on a ranc
+ h surrounded by horses\, cats\, a zebra\, and llama.
 LOCATION:152
 SUMMARY:Building better teams through communication (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:dbbe51ce-ab44-4db7-aef5-95504b127fcf
+DTSTAMP:20170418T171451Z
+UID:c7310141-3d82-4dd7-819c-1e01497d4ddb
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T122000
+DESCRIPTION:In a world we teach ourselves a lot of things\, why not do it R
+ uby-on-Rails-on-Pi way? Letâs get our hands on a piece of hardware\, 
+ understand what it takes to setup one up\, install a couple of libraries\,
+  Ruby\, RVM\, RBENV\, a GUI. Letâs get a couple of sensors: motion\, 
+ temperature\, humidity\, tsunami\, ectoplasm and see if we detect a cool t
+ hing or two.\nLet's discuss how we can use what we know about Rails to exp
+ lore things on a RaspberryPi. From a practical point of view\, we will go 
+ through installation\, setup\, and build a monitoring Motion Sensor applic
+ ation on a RaspberryPi.\n\n            \n                  Helio is a Lead
+  Architect at CommonLit and a passionate software engineer and has created
+  things primarily in C/C++ & Ruby\, over the past 15 years. He(lio) met Ru
+ by v1.8.7 and Rails 2.x in 2010. Recently founded a company to help small 
+ NPOs to increase awareness and community engagement and currently working 
+ for a #EdTech NPO!\n\nHelio Cola\n                \n                \n    
+               Helio is a Lead Architect at CommonLit and a passionate soft
+ ware engineer and has created things primarily in C/C++ & Ruby\, over the 
+ past 15 years. He(lio) met Ruby v1.8.7 and Rails 2.x in 2010. Recently fou
+ nded a company to help small NPOs to increase awareness and community enga
+ gement and currently working for a #EdTech NPO!
 LOCATION:150
 SUMMARY:DIY: Home monitoring with Rails & RaspberryPi (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:dd9dee98-3a24-45b3-a557-a36612363fc9
+DTSTAMP:20170418T171451Z
+UID:139991b7-1210-4ab6-8b82-56f98a36bfba
 DTSTART;TZID=America/Phoenix:20170425T114000
 DTEND;TZID=America/Phoenix:20170425T122000
 DESCRIPTION:Itâs what everyone is talking about: cyber security\, hack
@@ -194,8 +232,8 @@ LOCATION:South Ballroom
 SUMMARY:Uncertain Times: Securing Rails Apps and User Data (Security)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e4df253d-371e-457c-aef0-242e5bf464cd
+DTSTAMP:20170418T171451Z
+UID:cfcf9e6e-b5e1-4aa3-8f99-f9903743d9d6
 DTSTART;TZID=America/Phoenix:20170425T114000
 DTEND;TZID=America/Phoenix:20170425T122000
 DESCRIPTION:We have amazing skills and abilities\, but for a lot of us the 
@@ -229,8 +267,8 @@ SUMMARY:Panel: Developer Happiness through Getting Involved (Developer Happ
  iness)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:8252718d-dcd3-4746-b24a-5c125d5bd914
+DTSTAMP:20170418T171451Z
+UID:c26d8359-f335-4896-9fc4-aae883ee0d5c
 DTSTART;TZID=America/Phoenix:20170425T114000
 DTEND;TZID=America/Phoenix:20170425T122000
 DESCRIPTION:Tests try to observe change. But are some systems too big to ob
@@ -255,8 +293,8 @@ LOCATION:162
 SUMMARY:Observing Change: A Gold Master Test in Practice (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:7addb94a-481c-4e0b-885a-f3e953d5e7ca
+DTSTAMP:20170418T171451Z
+UID:3e6e8cdb-e8de-4437-844c-f7f984c2b94f
 DTSTART;TZID=America/Phoenix:20170425T114000
 DTEND;TZID=America/Phoenix:20170425T122000
 DESCRIPTION:What if your Rails app couldnât tell who was visiting it? 
@@ -280,8 +318,8 @@ LOCATION:160
 SUMMARY:A Deep Dive Into Sessions (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:35667c29-d546-4fdc-b35e-9ed36c7ae173
+DTSTAMP:20170418T171451Z
+UID:3e3f9476-d32c-40e8-aa59-78b6031f8317
 DTSTART;TZID=America/Phoenix:20170425T114000
 DTEND;TZID=America/Phoenix:20170425T122000
 DESCRIPTION:Once upon a time\, Goldilocks had a few minutes to spare before
@@ -306,16 +344,16 @@ LOCATION:156
 SUMMARY:Goldilocks And The Three Code Reviews (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:147d4639-28e5-4b05-988c-32c10e482a69
+DTSTAMP:20170418T171451Z
+UID:07643067-ec98-4ff2-ac4f-859fb0bc4a45
 DTSTART;TZID=America/Phoenix:20170425T122000
 DTEND;TZID=America/Phoenix:20170425T134000
 LOCATION:Exhibit Hall F&G
 SUMMARY:Lunch (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:c2ca97dc-add5-4e80-b58d-ef4d3014b059
+DTSTAMP:20170418T171451Z
+UID:9362801d-3a1d-4e77-a0ac-10b5734e1b30
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T142000
 DESCRIPTION:Why are there are so many disagreements in software? Why donâ
@@ -340,8 +378,8 @@ LOCATION:South Ballroom
 SUMMARY:Why Software Engineers Disagree About Everything (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:2e0583bb-f806-45ee-a751-8d6a6cb52185
+DTSTAMP:20170418T171451Z
+UID:debc6f66-cdbb-4ccf-b84c-0d8df36ffa98
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T142000
 LOCATION:164
@@ -349,8 +387,8 @@ SUMMARY:Understanding "Spoon Theory" and Preventing Burnout (Developer Happ
  iness)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:838d8779-1486-42d4-8bd7-4992cdf3eba3
+DTSTAMP:20170418T171451Z
+UID:f5644134-4b9e-43e5-9b6c-6ea3d4f1b952
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T142000
 DESCRIPTION:Come on a journey backward through time from the present all th
@@ -377,8 +415,8 @@ LOCATION:162
 SUMMARY:Exploring the History of a 12-year-old Rails Application (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:84e0c09a-feba-4bb5-8dad-1074daf09cb8
+DTSTAMP:20170418T171451Z
+UID:01f2821c-032c-4796-956c-26060f7cbdbd
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T142000
 DESCRIPTION:Let's take a peek under the hood of the magical "sort" method\,
@@ -406,8 +444,8 @@ LOCATION:160
 SUMMARY:Sorting Rubyists (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:2b23c831-3399-4e6f-b1c3-b58029299f43
+DTSTAMP:20170418T171451Z
+UID:fa9bee28-abd4-4133-98d1-b57f9917446b
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T142000
 DESCRIPTION:Board games are great\, but who has time to keep track of what'
@@ -428,24 +466,75 @@ SUMMARY:Whose turn is it anyway? Augmented reality board games. (Unconventi
  onal Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:7ccd8445-e75b-4b84-b69d-5ec83161fd29
+DTSTAMP:20170418T171451Z
+UID:f0dff949-ebfd-42d8-9142-6173dbc9ef40
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T151000
+DESCRIPTION:RubyMotion\, the Ruby runtime that lets you develop native apps
+  for iOS\, macOS\, watchOS\, tvOS\, and ANDROID\, using your favorite edit
+ or\, and the Ruby language and Ruby tools that you all know and love. \n\n
+ Come and get your feet wet developing native applications with RubyMotion 
+ Starter (Free!). \n\n            \n                  Lori is a Ruby\, Rail
+ s\, and RubyMotion developer of many years experience. She has written an 
+ iPhone app (WIMBY - http://wimby.ca) in RubyMotion\, a book based on her e
+ xperiences with Core Data while creating WIMBY (Core Data in Motion - http
+ ://coredatainmotion)\, and has spoken at RubyMotion #inspect. She has also
+  taught the well-received Rails4iOS Developers workshop at conferences aro
+ und the world.\n\nLori M Olson\n                \n                \n      
+             Lori is a Ruby\, Rails\, and RubyMotion developer of many year
+ s experience. She has written an iPhone app (WIMBY - http://wimby.ca) in R
+ ubyMotion\, a book based on her experiences with Core Data while creating 
+ WIMBY (Core Data in Motion - http://coredatainmotion)\, and has spoken at 
+ RubyMotion #inspect. She has also taught the well-received Rails4iOS Devel
+ opers workshop at conferences around the world.
 LOCATION:152
 SUMMARY:RubyMotion for Rails Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:8ff3be52-3b8a-4daa-8902-d77d49082816
+DTSTAMP:20170418T171451Z
+UID:f78be694-275c-45bf-a450-2c447c81734e
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T151000
+DESCRIPTION:Docker and Kubernetes are both experiencing massive growth in i
+ nterest and adoption\, but so what? Neither one is written in Ruby\, why s
+ hould your average Rails developer care? Let's get hands on with Kubernete
+ s and see exactly how powerful it is as a tool. Blue-Green deployments\, C
+ anary Releases\, Independently scaling API services. Kubernetes doesn't so
+ lve these problems directly\, instead it provides a powerful set of abstra
+ ctions to help you implement them yourself. Each attendee will be given fu
+ ll access to their very own ready-to-go Kubernetes cluster running in the 
+ cloud.\n\n            \n                  With approximately 10 years expe
+ rience working as a Ruby on Rails developer and approximately 10 days expe
+ rience working with Docker and Kubernetes\, Jacob is probably not the most
+  qualified person on the planet to help you deploy your production applica
+ tion on a 100-node cluster. Fortunately\, he works at Engine Yard with man
+ y far more experienced and intelligent human beings who can actually suppo
+ rt and monitor your app in production with a 24/7 worldwide support-team.\
+ n\n                \n                  Christopher is the Support Manager 
+ for Asia Pacific at Engine Yard. He is one of the "far more experienced an
+ d intelligent human beings who can actually support and monitor your app i
+ n production" according to Jacob Burkhart. He is also the organizer of Rub
+ yConf Philippines\, which has run annually since 2014.\n\nJacob Burkhart\n
+                 \n                \n                  With approximately 1
+ 0 years experience working as a Ruby on Rails developer and approximately 
+ 10 days experience working with Docker and Kubernetes\, Jacob is probably 
+ not the most qualified person on the planet to help you deploy your produc
+ tion application on a 100-node cluster. Fortunately\, he works at Engine Y
+ ard with many far more experienced and intelligent human beings who can ac
+ tually support and monitor your app in production with a 24/7 worldwide su
+ pport-team.\n\n                \n              \n                \n       
+            Christopher Rigor\n                \n                \n        
+           Christopher is the Support Manager for Asia Pacific at Engine Ya
+ rd. He is one of the "far more experienced and intelligent human beings wh
+ o can actually support and monitor your app in production" according to Ja
+ cob Burkhart. He is also the organizer of RubyConf Philippines\, which has
+  run annually since 2014.
 LOCATION:150
 SUMMARY:Cool Stuff on Kubernetes: a How To for Rails Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:1b69cacb-31c1-4f2e-a584-1834807bceca
+DTSTAMP:20170418T171451Z
+UID:5fe25422-787f-42aa-b62a-906b22f8bd9f
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
 DESCRIPTION:At the 2014 RailsConf DHH declared system testing would be adde
@@ -473,8 +562,8 @@ SUMMARY:Building Rails ActionDispatch:: SystemTestCase Framework (Open Sour
  ce Deep Dive)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:81ec5ee1-cb0e-4b65-84ea-d9b65822e399
+DTSTAMP:20170418T171451Z
+UID:6f0447f0-ef5f-4ee7-a959-1f96e998885d
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
 DESCRIPTION:Programming is a deeply mental art. As programmers\, we invest 
@@ -504,8 +593,8 @@ LOCATION:164
 SUMMARY:To Code Is Human (Developer Happiness)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:ca5d73c8-683d-433f-bd26-583a2ba15e26
+DTSTAMP:20170418T171451Z
+UID:3785e15d-58d1-4ad9-9426-cbaa14d4a196
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
 DESCRIPTION:You care deeply about code quality and constantly strive to lea
@@ -535,8 +624,8 @@ LOCATION:162
 SUMMARY:What Comes After SOLID? Seeking Holistic Software Quality (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:7ba7402d-a935-42da-8395-7ab9a5db6ce1
+DTSTAMP:20170418T171451Z
+UID:ca7e6e09-ab18-450a-9434-ada5e9103ba3
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
 DESCRIPTION:Are you ready to begin building applications with Ruby on Rails
@@ -564,8 +653,8 @@ LOCATION:160
 SUMMARY:Tricks and treats for new developers (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:388c0ba8-811c-4ac8-a514-b4b77da3ad5a
+DTSTAMP:20170418T171451Z
+UID:dafaa673-fdab-4a36-92df-7d354e19519e
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
 DESCRIPTION:Chatbots\, ActionCable\, A.I. and you. And many more buzzwords 
@@ -600,16 +689,16 @@ LOCATION:156
 SUMMARY:Inventing Friends: ActionCable + AVS = <3 (Unconventional Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:b1c3ed81-0ca0-49cd-b075-ed66459ce60c
+DTSTAMP:20170418T171451Z
+UID:402440ec-3e24-4244-9d88-279bebf26e40
 DTSTART;TZID=America/Phoenix:20170425T151000
 DTEND;TZID=America/Phoenix:20170425T154000
 LOCATION:South Lobby
 SUMMARY:PM BREAK (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:43f5b5dc-23c7-4916-b926-2de1e74a4c95
+DTSTAMP:20170418T171451Z
+UID:72ea4bc3-4c96-4d16-b39e-402588b4e7f8
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T162000
 DESCRIPTION:Open source projects like Rails are intimidating\, especially a
@@ -638,8 +727,8 @@ SUMMARY:Perusing the Rails Source Code - A Beginners Guide (Open Source Dee
  p Dive)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:c1339acc-a168-4227-99d4-a1b0a2e5df45
+DTSTAMP:20170418T171451Z
+UID:1e68eca0-85b5-4f78-b660-9a71d916b6a0
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T162000
 DESCRIPTION:The average American worker will have 10 jobs before the age of
@@ -672,8 +761,8 @@ LOCATION:164
 SUMMARY:Panel: Better Hiring Practices for Fun and Profit (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:18a2289b-3ff7-4e5b-baa5-8ec8ac6e2570
+DTSTAMP:20170418T171451Z
+UID:a50febbe-dfc6-4deb-8967-82eb886f67d5
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T162000
 DESCRIPTION:Forms are a crucial part of every app and Rails has good defaul
@@ -694,16 +783,16 @@ LOCATION:162
 SUMMARY:Decouple your models with form objects (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:ec1c9ff8-8e91-4e5c-a37b-b3fd01485974
+DTSTAMP:20170418T171451Z
+UID:694591a0-c563-4acc-93af-a5ed6f2bc50f
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T162000
 LOCATION:160
 SUMMARY:Rack 'em\, Stack 'em Web Apps (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:fc21e4c8-a096-499f-a052-dca8e3720c78
+DTSTAMP:20170418T171451Z
+UID:c57bece4-53b0-41b5-a0b7-db68d5b4b9f3
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T162000
 DESCRIPTION:Ruby on Rails is a widely used web framework\, using HTTP to se
@@ -730,24 +819,57 @@ SUMMARY:Outside the (Web) Box: Using Ruby for Other Protocols (Unconvention
  al Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:132e1af5-e826-4fb4-bdf7-0230baeb58da
+DTSTAMP:20170418T171451Z
+UID:837b03e2-eed3-4453-b828-8bf3af86e737
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T171000
+DESCRIPTION:You can create all sorts of interesting programming projects wi
+ th APIs\, but it can be difficult to learn how to use them\, or find APIs 
+ that are friendly enough to learn with. This workshop is intended for begi
+ nner and intermediate programmers who have never played with an API before
+ . Together\, we'll go through the process of setting up a small Sinatra ap
+ p integrated with a free\, well-documented API service\, from authenticati
+ on to sending and retrieving data.\n\n            \n                  Teri
+ an Koscik is a software engineer at GitHub and co-organizer of Django Girl
+ s PDX. She has used APIs to collect data for mobile game user analytics\, 
+ and to create Twitter bots about topics such as butts and tacos. She lives
+  in Portland\, OR with her boyfriend and their large cat.\n\nTerian Koscik
+ \n                \n                \n                  Terian Koscik is a
+  software engineer at GitHub and co-organizer of Django Girls PDX. She has
+  used APIs to collect data for mobile game user analytics\, and to create 
+ Twitter bots about topics such as butts and tacos. She lives in Portland\,
+  OR with her boyfriend and their large cat.
 LOCATION:152
 SUMMARY:Your First API Integration (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:1153af26-237c-4ca5-923c-af8eb6360e4a
+DTSTAMP:20170418T171451Z
+UID:8f935f99-aeac-41cb-81e1-c9fdf48ba07a
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T171000
+DESCRIPTION:Are you a full-stack developer and have a slow website? Let's f
+ ix that! This workshop is an introduction to improving page load times and
+  general front-end performance for Rails full-stack devs. Some literacy wi
+ th Javascript\, HTML and CSS is assumed\, but you don't have to be up-to-d
+ ate on the latest Javascript trends (let's face it\, no one is!). Bring a 
+ Rails application and your laptop and let's get working.\n\n            \n
+                   Nate is a freelancer and consultant that focuses on Ruby
+  web application performance. Author of The Complete Guide to Rails Perfor
+ mance and blogger at nateberkopec.com. He appeared on Shark Tank\, ABC's p
+ rimetime entrepreneurship show\, when he was nineteen years old. Nate rece
+ ntly moved to Taos\, New Mexico after eight years in New York City.\n\nNat
+ e Berkopec\n                \n                \n                  Nate is 
+ a freelancer and consultant that focuses on Ruby web application performan
+ ce. Author of The Complete Guide to Rails Performance and blogger at nateb
+ erkopec.com. He appeared on Shark Tank\, ABC's primetime entrepreneurship 
+ show\, when he was nineteen years old. Nate recently moved to Taos\, New M
+ exico after eight years in New York City.
 LOCATION:150
 SUMMARY:Front-End Performance for Full-Stack Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:3e6ccf5c-e03a-49fa-ad03-284cc28fed32
+DTSTAMP:20170418T171451Z
+UID:23b7afe1-74aa-4c1a-92f1-4f8a0f934988
 DTSTART;TZID=America/Phoenix:20170425T163000
 DTEND;TZID=America/Phoenix:20170425T171000
 DESCRIPTION:RSpec gives you many ways to test your Rails app. Controller\, 
@@ -771,8 +893,8 @@ LOCATION:South Ballroom
 SUMMARY:Teaching RSpec to Play nice with Rails (Open Source Deep Dive)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:8e2c39c4-11e2-424f-ae5a-cd76aec4a7fc
+DTSTAMP:20170418T171451Z
+UID:d1e1a530-4c05-4fbe-bbbc-1e6ef6c0353b
 DTSTART;TZID=America/Phoenix:20170425T163000
 DTEND;TZID=America/Phoenix:20170425T171000
 DESCRIPTION:Steve Jobs. Linus Torvalds. Alan Turing.\n\nBeen there\, done t
@@ -801,8 +923,8 @@ LOCATION:164
 SUMMARY:We've always been here: Women changemakers in tech (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:5493f32a-e118-41b0-a5bb-b4a4bd8464a6
+DTSTAMP:20170418T171451Z
+UID:44347bfd-a152-488b-b267-52cbaa17eecb
 DTSTART;TZID=America/Phoenix:20170425T163000
 DTEND;TZID=America/Phoenix:20170425T171000
 DESCRIPTION:Containers have gained popularity the past few years but they h
@@ -825,8 +947,8 @@ LOCATION:162
 SUMMARY:Deep Dive Into Docker Containers for Rails Developers (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:29ed864e-6505-4aef-a681-50faac2194d1
+DTSTAMP:20170418T171451Z
+UID:f57df08c-9201-4e1e-9dee-e3e643d35c13
 DTSTART;TZID=America/Phoenix:20170425T163000
 DTEND;TZID=America/Phoenix:20170425T171000
 DESCRIPTION:People give ruby a bad reputation for speed\, efficiency\, weak
@@ -851,8 +973,8 @@ LOCATION:160
 SUMMARY:Practical Debugging (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:95cc55a8-4c5c-4acc-a4fe-45c74e9af544
+DTSTAMP:20170418T171451Z
+UID:5930058b-97e6-42b8-9d26-c657c5d7136a
 DTSTART;TZID=America/Phoenix:20170425T163000
 DTEND;TZID=America/Phoenix:20170425T171000
 DESCRIPTION:We live in a world where you can schedule a meeting by talking 
@@ -884,32 +1006,32 @@ SUMMARY:Implementing the Web Speech API for Voice Data Entry (Unconventiona
  l Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e9458c8e-529b-4fbc-8347-2042e195d465
+DTSTAMP:20170418T171451Z
+UID:07168991-c71f-445a-b867-daab45865295
 DTSTART;TZID=America/Phoenix:20170425T172000
 DTEND;TZID=America/Phoenix:20170425T181000
 LOCATION:South Ballroom
 SUMMARY:Keynote: Pamela Pavliscak (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:f07e476f-06e4-4189-a740-b6f27afdc5df
+DTSTAMP:20170418T171451Z
+UID:43e051df-2e2a-4a5d-a497-430483dd3247
 DTSTART;TZID=America/Phoenix:20170426T090000
 DTEND;TZID=America/Phoenix:20170426T100000
 LOCATION:South Ballroom
 SUMMARY:Keynote: Justin Searls (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:177e1b36-4166-47b2-8ca1-6887ae0baeb4
+DTSTAMP:20170418T171451Z
+UID:b7d7af95-83ba-4388-af34-b79d5a8328c6
 DTSTART;TZID=America/Phoenix:20170426T100000
 DTEND;TZID=America/Phoenix:20170426T105000
 LOCATION:Exhibit Hall F&G
 SUMMARY:AM BREAK (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:f466ccfa-426f-4b89-912b-a70be17e94c6
+DTSTAMP:20170418T171451Z
+UID:c9a3186b-b06f-4cc5-a274-982d04a02c34
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
 DESCRIPTION:Woodworking has experienced quite a renaissance as of late\, an
@@ -932,8 +1054,8 @@ LOCATION:South Ballroom
 SUMMARY:Rough to Fine: Programming Lessons from Woodworking (Productivity)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:8ec53791-dff8-472c-a20d-b9e6778405ed
+DTSTAMP:20170418T171451Z
+UID:0481a633-f378-4bf5-a801-aed173688be6
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
 DESCRIPTION:Just because you don't have lead / senior / manager / owner in 
@@ -955,8 +1077,8 @@ LOCATION:164
 SUMMARY:Leading When You're Not in Charge (Leading at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:b47dc116-a729-4b81-8d8e-91a1bfc5b91d
+DTSTAMP:20170418T171451Z
+UID:132542c3-441c-48a9-8a2a-f63294ead235
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
 DESCRIPTION:This is a sponsored talk by Google Cloud Platform.\n\nRuby deve
@@ -982,8 +1104,8 @@ LOCATION:162
 SUMMARY:Google Cloud <3 Ruby (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e5508277-d722-456d-8234-dbc05ce36c9f
+DTSTAMP:20170418T171451Z
+UID:b7fa88d0-64c7-4978-9a74-d758bab22a3e
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
 DESCRIPTION:Ruby and Rails famously prioritised developer happiness\, and t
@@ -1011,8 +1133,8 @@ LOCATION:160
 SUMMARY:Developer Happiness on the Front End with Elm (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:cfa230bc-a640-4b8a-87c6-b6118cfd547c
+DTSTAMP:20170418T171451Z
+UID:357fb427-8d80-42a4-9b51-5492a5e27937
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
 DESCRIPTION:Machine Learning is no longer just an academic study. Tools lik
@@ -1038,24 +1160,60 @@ LOCATION:156
 SUMMARY:Is it Food? An Introduction to Machine Learning (Machine Learning)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:d4c3364c-46bd-4dc9-8200-836c4ef03189
+DTSTAMP:20170418T171451Z
+UID:3f9dd2fa-54a8-4b29-b7a8-eda80db884b7
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T122000
+DESCRIPTION:JavaScript is everywhere and so are its frameworks. Thereâ
+ s tons of pressure and excitement to choose the right or cool tool to be u
+ sed in your app but we donât talk enough about how to use it in a pro
+ duction app that may or may not have an existing JavaScript structure.  In
+  this talk\, I walk you through the some of tools from the React ecosystem
+  that can be brought into your existing app and how to work around tutoria
+ ls that mostly geared towards greenfield projects. \n\n            \n     
+              Rushaine McBean is a software engineer who specializes in bui
+ lding JavaScript and Ruby on Rails web applications. She picked up JavaScr
+ ipt as her first web technology then Ruby on Rails to serve as her API and
+  hasnât looked back. When sheâs not writing code for current emp
+ loyer Agrilyst\, sheâs working on side projects to stay update to wit
+ h JavaScript & Ruby on Rails technologies or helping run Manhattan.js a lo
+ cal JS meetup in NYC.\n\nRushaine McBean\n                \n              
+   \n                  Rushaine McBean is a software engineer who specializ
+ es in building JavaScript and Ruby on Rails web applications. She picked u
+ p JavaScript as her first web technology then Ruby on Rails to serve as he
+ r API and hasnât looked back. When sheâs not writing code for cu
+ rrent employer Agrilyst\, sheâs working on side projects to stay upda
+ te to with JavaScript & Ruby on Rails technologies or helping run Manhatta
+ n.js a local JS meetup in NYC.
 LOCATION:152
 SUMMARY:Making Moves With React (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:803c7cd2-31c3-400a-bf83-846fb71e3001
+DTSTAMP:20170418T171451Z
+UID:8672f394-5e30-4ee9-936a-10e4c5d8b923
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T122000
+DESCRIPTION:A major goal of refactoring is turning bad code into good code\
+ , but on what basis can we differentiate? There are countless opinions on 
+ the subject\, but in this workshop\, we'll assume a radical position: good
+  code is that which allows our machines dignity in their work. With that a
+ ssumption\, we'll take a fresh (and memorable) look at refactoring.\n\n   
+          \n                  Evan Burchard is a Web Development Consultant
+  and the author of "Refactoring JavaScript" and "The Web Game Developerâ
+ s Cookbook." Offline\, he has designed an award-winning kinetic game i
+ nvolving stacking real ice cubes\, and periodically picks up his project t
+ o walk across the U.S.\n\nEvan Burchard\n                \n               
+  \n                  Evan Burchard is a Web Development Consultant and the
+  author of "Refactoring JavaScript" and "The Web Game Developerâs Coo
+ kbook." Offline\, he has designed an award-winning kinetic game involving 
+ stacking real ice cubes\, and periodically picks up his project to walk ac
+ ross the U.S.
 LOCATION:150
 SUMMARY:Refactoring for Machine Dignity (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:c43ce0be-80f9-4acb-afce-82a3183ab228
+DTSTAMP:20170418T171451Z
+UID:519b6b82-3572-47a6-8e68-58320f70f528
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
 DESCRIPTION:Over the past year\, Iâve spoken at several conferences\, 
@@ -1083,8 +1241,8 @@ LOCATION:South Ballroom
 SUMMARY:Warning: May Be Habit Forming (Productivity)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:73a314c9-d8a7-4d63-9124-72d0e3e31571
+DTSTAMP:20170418T171451Z
+UID:1e7170b7-929b-4e9f-8900-c197f9515a32
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
 DESCRIPTION:The ideal workplace\, with motivated employees\, supportive man
@@ -1114,16 +1272,16 @@ SUMMARY:Bebop to the Top - The Jazz Band As A Guide To Leadership (Leading
  at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:a6076c8c-6831-4dc8-9ea7-1e3f124e1735
+DTSTAMP:20170418T171451Z
+UID:9cdef263-a11a-482e-9132-e24ce2f3b9c2
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
 LOCATION:162
 SUMMARY:Tailoring Mentorship: Achieving the Best Fit (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:381619d1-5d1c-4e19-95db-e87eb4fe5ae4
+DTSTAMP:20170418T171451Z
+UID:97278ea5-2970-4969-aab9-4fbda64b7672
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
 DESCRIPTION:Elixir has rapidly developed into a mature language with an eve
@@ -1154,8 +1312,8 @@ LOCATION:160
 SUMMARY:Rails to Phoenix: How Elixir can level-you-up in Rails (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:f9751210-aa13-4190-87a1-5f85fd52e7f2
+DTSTAMP:20170418T171451Z
+UID:199ba810-97ca-4230-b521-d913aab80e50
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
 DESCRIPTION:What's a better way to understand machine learning than a pract
@@ -1182,16 +1340,16 @@ SUMMARY:Predicting Titanic Survivors with Machine Learning (Machine Learnin
  g)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:fafd123a-a7a3-4213-96d5-1d20d1613ff9
+DTSTAMP:20170418T171451Z
+UID:8da74a49-6537-49a2-988b-7bb82fac5c2c
 DTSTART;TZID=America/Phoenix:20170426T122000
 DTEND;TZID=America/Phoenix:20170426T135000
 LOCATION:Exhibit Hall F&G
 SUMMARY:Lunch (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:aade2476-d3e4-4ab7-aa22-8cab2f054a59
+DTSTAMP:20170418T171451Z
+UID:76725a9d-6f20-4445-aad2-c831c70474dd
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
 DESCRIPTION:Each minor release of Rails brings shiny new features and mild 
@@ -1215,8 +1373,8 @@ LOCATION:South Ballroom
 SUMMARY:Rails 5.1: awesome features and breaking changes (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:fc0ca5e6-118c-46a2-afae-b38375fd4977
+DTSTAMP:20170418T171451Z
+UID:85955284-59f3-415f-8569-83b3a13c615b
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
 DESCRIPTION:As the stigma of speaking out about mental health conditions de
@@ -1244,16 +1402,16 @@ SUMMARY:Supporting Mental Health as an Effective Leader (Leading at all Lev
  els)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:6999089f-ba26-4396-a853-131ef32eb959
+DTSTAMP:20170418T171451Z
+UID:30f56baf-f9dd-48ac-a162-3df649fb5f75
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
 LOCATION:162
 SUMMARY:Postgres at Any Scale (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:d9fb9727-7481-4101-98f4-33c64f1344d4
+DTSTAMP:20170418T171451Z
+UID:61b33332-7cdc-4885-9501-f51a133cf478
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
 DESCRIPTION:Eighteen months ago\, our fairly typical Ruby on Rails app had 
@@ -1283,8 +1441,8 @@ LOCATION:160
 SUMMARY:React on Rails (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:40169512-0006-42f9-87c3-5ceed83762b2
+DTSTAMP:20170418T171451Z
+UID:f375e093-5b73-41b1-9faf-62d19497f56b
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
 DESCRIPTION:Before programming\, before formal probability there was Bayes.
@@ -1307,24 +1465,65 @@ LOCATION:156
 SUMMARY:Bayes is BAE (Machine Learning)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:6bf75feb-cd20-48f9-bbc9-16ba17da1f96
+DTSTAMP:20170418T171451Z
+UID:d615a591-cadf-463e-8a45-6d4166fec7ae
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T161000
+DESCRIPTION:Learn to write in Elm\, an exciting new front-end language that
+  lets you to write predictable and productive functionality in the browser
+ . Elm is a functional programming language that compiles to JavaScript and
+  prohibits runtime crashes. After a brief introduction to syntax and seman
+ tics\, we'll pair off and begin building our first Elm application: a coop
+ erative starship shooter game... with Rails backend\, of course! Topics to
+  be covered include: the amazingly helpful compiler\, how to construct you
+ r own types\, WebSockets\, JSON parsing\, and functional programming conce
+ pts.\n\n            \n                  Brad Grzesiak is CEO and co-founde
+ r of Bendyworks\, an application development consultancy in Madison\, Wisc
+ onsin. He started his career as a mechanical aerospace engineer and has at
+  least one payload in space. He now seeks out better and better ways to wr
+ ite robust yet flexible software for Bendyworks' clients\, from Fortune 10
+ 0 enterprises to brand-new startups.\n\nBrad Grzesiak\n                \n 
+                \n                  Brad Grzesiak is CEO and co-founder of 
+ Bendyworks\, an application development consultancy in Madison\, Wisconsin
+ . He started his career as a mechanical aerospace engineer and has at leas
+ t one payload in space. He now seeks out better and better ways to write r
+ obust yet flexible software for Bendyworks' clients\, from Fortune 100 ent
+ erprises to brand-new startups.
 LOCATION:152
 SUMMARY:Elm For Rails Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:be7b152e-1dec-40f9-9ac6-b010765966c8
+DTSTAMP:20170418T171451Z
+UID:7733e0ad-698b-4aea-82bf-8881a30bf224
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T161000
+DESCRIPTION:You have likely heard of test-driven development. In many circl
+ es it's touted as the only way to write software. Indeed\, TDD is a powerf
+ ul tool in writing software that not only works\, but continues to work as
+  time and features pass. However\, when learning to test-drive software\, 
+ you're often left confused about where to start and which direction to go.
+ \n\nThis talk will provide some some gentle advice about TDD as we interac
+ tively iterate on an app starting with a proposed feature\, adding tests\,
+  building the implementation\, and refactoring to the final solution.\n\n 
+            \n                  Jay has been programming professionally for
+  over 10 years. Years ago he fell in love with the charming Ruby language 
+ and has found great joy in teaching it since.\n\nJay works as a consultant
+  and instructor at Big Nerd Ranch. He works fully remote from (sweet) home
+  in Alabama. Remote is a perfect working situation as it allows him to do 
+ what he loves while being close to the people he loves\, his beautiful wif
+ e and son.\n\nJay Hayes\n                \n                \n             
+      Jay has been programming professionally for over 10 years. Years ago 
+ he fell in love with the charming Ruby language and has found great joy in
+  teaching it since.\n\nJay works as a consultant and instructor at Big Ner
+ d Ranch. He works fully remote from (sweet) home in Alabama. Remote is a p
+ erfect working situation as it allows him to do what he loves while being 
+ close to the people he loves\, his beautiful wife and son.
 LOCATION:150
 SUMMARY:TDD: From feature to tests to implementation (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:3b16e897-e416-45bc-ae23-40b645038d9f
+DTSTAMP:20170418T171451Z
+UID:d4c20d8d-0dc5-4f4a-a1b2-84dc8bcb5954
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
 DESCRIPTION:In this talk we would take a look in different strategies to up
@@ -1339,8 +1538,8 @@ LOCATION:South Ballroom
 SUMMARY:Upgrading a big application to Rails 5 (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:5da2ddc8-02c5-41e7-9e60-16d90bd2f637
+DTSTAMP:20170418T171451Z
+UID:f75a63b7-d3a5-4ae4-9c04-d86a0adeb452
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
 DESCRIPTION:Leading an open source or community project means dealing with 
@@ -1370,16 +1569,16 @@ SUMMARY:It's dangerous to go alone: Building teams like an organizer (Leadi
  ng at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:7438435e-7a86-4da0-86ab-cd1fd73e86a7
+DTSTAMP:20170418T171451Z
+UID:6bb90543-5b93-45e5-8aad-2633a66e2549
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
 LOCATION:162
 SUMMARY:Introducing Helix: High-Performance Ruby Made Easy (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:388d5c65-293d-4c31-9fb3-271c8f7e7748
+DTSTAMP:20170418T171451Z
+UID:68184285-3228-41b6-96a1-f7666f7bcf0a
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
 DESCRIPTION:Rails made building CRUD apps efficient and fun. React Native\,
@@ -1401,8 +1600,8 @@ LOCATION:160
 SUMMARY:React Native & Rails\, a single codebase for Web & Mobile (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:c37cf8cf-fd91-4020-8156-78f071a04e86
+DTSTAMP:20170418T171451Z
+UID:0c309125-8e6e-4727-8587-02afcb6870bf
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
 DESCRIPTION:Natural Language Processing is an interesting field of computin
@@ -1426,8 +1625,8 @@ LOCATION:156
 SUMMARY:Syntax Isn't Everything: NLP for Rubyists (Machine Learning)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:4589cc09-e369-4db1-9792-4e4a173ce970
+DTSTAMP:20170418T171451Z
+UID:535b7dca-528d-438b-9aa4-c4a28a091bb7
 DTSTART;TZID=America/Phoenix:20170426T153000
 DTEND;TZID=America/Phoenix:20170426T161000
 DESCRIPTION:With complexity comes errors\, and unexpected errors lead to un
@@ -1453,8 +1652,8 @@ LOCATION:South Ballroom
 SUMMARY:The Arcane Art of Error Handling (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:8dbff8b3-4f52-4c00-b54f-2fd55b32f048
+DTSTAMP:20170418T171451Z
+UID:c30d8a91-d841-4096-8119-9f6d37e2234e
 DTSTART;TZID=America/Phoenix:20170426T153000
 DTEND;TZID=America/Phoenix:20170426T161000
 DESCRIPTION:Are you a new manager? Have you been asked to lead a project? D
@@ -1490,16 +1689,16 @@ LOCATION:164
 SUMMARY:Panel: Becoming an engineering leader (Leading at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:5769da44-8eed-4eda-9d29-25db8deac641
+DTSTAMP:20170418T171451Z
+UID:541192b1-34f5-4e60-8c03-1a8f1fc507c7
 DTSTART;TZID=America/Phoenix:20170426T153000
 DTEND;TZID=America/Phoenix:20170426T161000
 LOCATION:162
 SUMMARY:Your App Server Config is Wrong (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:763a5c82-61a9-41b8-aa99-a7a2efea488a
+DTSTAMP:20170418T171451Z
+UID:bc177ce5-e222-4dcb-bee7-e66d384235a8
 DTSTART;TZID=America/Phoenix:20170426T153000
 DTEND;TZID=America/Phoenix:20170426T161000
 DESCRIPTION:Many seemingly simple "real-world" things end up being much mor
@@ -1527,8 +1726,8 @@ LOCATION:160
 SUMMARY:A Survey of Surprisingly Difficult Things (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:9c1df073-fee4-46af-ad2c-48c3673db022
+DTSTAMP:20170418T171451Z
+UID:e9f2ea6a-4022-48bc-a3d5-611e4459554c
 DTSTART;TZID=America/Phoenix:20170426T153000
 DTEND;TZID=America/Phoenix:20170426T161000
 DESCRIPTION:Mutation testing is a silver bullet for assessing test quality.
@@ -1552,40 +1751,40 @@ LOCATION:156
 SUMMARY:How to write better code using mutation testing (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:c775c7e9-a140-4bb7-9513-567c02db5cc9
+DTSTAMP:20170418T171451Z
+UID:2d7ced55-62d9-4c3e-a1ec-606778906091
 DTSTART;TZID=America/Phoenix:20170426T161000
 DTEND;TZID=America/Phoenix:20170426T173000
 LOCATION:Exhibit Hall F&G
 SUMMARY:PM Break (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:b7e110dc-c416-4198-a114-0a7f0ec5233c
+DTSTAMP:20170418T171451Z
+UID:1c206e63-4059-4604-a8c0-88d2788a0040
 DTSTART;TZID=America/Phoenix:20170426T173000
 DTEND;TZID=America/Phoenix:20170426T190000
 LOCATION:South Ballroom
 SUMMARY:Lightning Talks (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:4c86d6d5-563c-4402-b33f-5f5dd1feb99c
+DTSTAMP:20170418T171451Z
+UID:06194ede-5e47-4d3c-b306-e10c11c36677
 DTSTART;TZID=America/Phoenix:20170427T090000
 DTEND;TZID=America/Phoenix:20170427T100000
 LOCATION:South Ballroom
 SUMMARY:Keynote: Marco Rogers (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:6e3addc9-b8dc-4a37-b124-722387a43b7b
+DTSTAMP:20170418T171451Z
+UID:9b63c789-d9f0-4040-9984-97eb7e921070
 DTSTART;TZID=America/Phoenix:20170427T100000
 DTEND;TZID=America/Phoenix:20170427T105000
 LOCATION:Exhibit Hall F&G
 SUMMARY:AM BREAK (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:9993d143-4820-41ca-86bb-d08c59e4d18e
+DTSTAMP:20170418T171451Z
+UID:f4a6ba86-486f-4f41-b911-11ef4f79bca1
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
 DESCRIPTION:The attempted rewrite is over\, the dust has settled\, and the 
@@ -1611,8 +1810,8 @@ SUMMARY:An Optimistic Proposal for Making Horrible Code... Bearable. (Code
  Organization)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:1ce77ed4-b78d-4cd4-8de8-c04a58633f9f
+DTSTAMP:20170418T171451Z
+UID:e779ebd2-65c0-447b-a58b-3588ac916a0d
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
 DESCRIPTION:What makes Ruby so wonderful? The Community.\n\nThe community a
@@ -1654,8 +1853,8 @@ LOCATION:164
 SUMMARY:Panel: Ruby's Killer Feature: The Community (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:fad3bcf8-51e8-4d41-b154-5ce97ec1ee34
+DTSTAMP:20170418T171451Z
+UID:a2754c0c-2e1e-408d-ad69-0ae0a3526370
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
 DESCRIPTION:This is a sponsored talk by Tuft & Needle.\n\nTuft & Needle is 
@@ -1688,8 +1887,8 @@ LOCATION:162
 SUMMARY:Cultivating a Culture of Continuous Learning (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:2487eae5-358f-4dc5-91a3-b07d0900d506
+DTSTAMP:20170418T171451Z
+UID:6dbe0ccd-5443-4bf6-b89b-53200bf12b21
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
 DESCRIPTION:Ever had a production bug that you fixed by changing production
@@ -1710,8 +1909,8 @@ LOCATION:160
 SUMMARY:Data Integrity in Living Systems (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e803a65d-b72a-4f30-a07b-11a7df996849
+DTSTAMP:20170418T171451Z
+UID:461d1b8d-ad1e-49f9-8c4e-e05991eb11f8
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
 DESCRIPTION:Distributed teams can have big benefits for both employers and 
@@ -1744,25 +1943,58 @@ LOCATION:156
 SUMMARY:A clear-eyed look at distributed teams (Distributed Teams)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:dd9ad7d0-f0a5-46d2-80b2-8b3d2e0a43e2
+DTSTAMP:20170418T171451Z
+UID:f52cb57a-e856-4f9f-bc8a-1d80accbad86
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T122000
+DESCRIPTION:A smart man named Larry Wall once said the three virtues of a p
+ rogrammer are laziness\, impatience and hubris. Well\, if you're not using
+  shell scripts to automate your work\, then you're probably not being lazy
+  to your full potential!\n\nIn this workshop you'll need no prior knowledg
+ e of shell programming other than a basic familiarity of how to use a term
+ inal\, and you'll come away with the knowledge needed to write some simple
+  but effective functions and scripts. We'll also go over how to use some o
+ f the helpful UNIX tools like cat\, head/tail\, grep\, sed\, awk\, xargs a
+ nd more!\n\n            \n                  Devon is a Software Engineer a
+ t EducationSuperHighway. When he's not writing Ruby at work\, he can be fo
+ und contributing to open source projects in Elixir. Away from the computer
+  he's a husband\, father and chess player.\n\nDevon Estes\n               
+  \n                \n                  Devon is a Software Engineer at Edu
+ cationSuperHighway. When he's not writing Ruby at work\, he can be found c
+ ontributing to open source projects in Elixir. Away from the computer he's
+  a husband\, father and chess player.
 LOCATION:152
 SUMMARY:Make your life easier with shell scripting and UNIX tools (Workshop
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:701a4d23-d381-4356-8aae-1c38c78383ce
+DTSTAMP:20170418T171451Z
+UID:7ffd3eb9-9f4c-4466-b462-3d0ceee1a9e8
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T122000
+DESCRIPTION:In this workshop\, developers will learn practical models that 
+ take the magic out of design. Because even though design is creative work 
+ and sometimes needs a spark of inspiration\, there's not much wizardry inv
+ olved. We will run throughâpractice withâa few much used design 
+ models. After this workshop you will be able to hire better designers\, gi
+ ve better feedback to designers\, and know how to improve an interface wit
+ hout a designer there to help you.\n\n            \n                  Desi
+ gner & front-end developer. I worked in agencies\, as a freelancer\, in st
+ artups\, and as a founder of AppSignal. Love working with developers\, foc
+ ussed on mutual understanding and design systems. Probably the most pragma
+ tic designer you'll meet. Oh\, and I believe that developers are pretty go
+ od designers as well.\n\nWes Oudshoorn\n                \n                
+ \n                  Designer & front-end developer. I worked in agencies\,
+  as a freelancer\, in startups\, and as a founder of AppSignal. Love worki
+ ng with developers\, focussed on mutual understanding and design systems. 
+ Probably the most pragmatic designer you'll meet. Oh\, and I believe that 
+ developers are pretty good designers as well.
 LOCATION:150
 SUMMARY:Demystifying interface design (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:c71029ec-e451-4262-bec4-ee5073349114
+DTSTAMP:20170418T171451Z
+UID:fa2f0625-f29d-45a0-b4d5-3ccb57d8f32a
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
 DESCRIPTION:Help! Despite following refactoring patterns by the book\, your
@@ -1788,8 +2020,8 @@ SUMMARY:Built to last: A domain-driven approach to beautiful systems (Code
  Organization)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:315503a3-7281-4a94-be63-31695acc3470
+DTSTAMP:20170418T171451Z
+UID:1a9d42e3-70e2-4992-891c-117596d1f90e
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
 DESCRIPTION:Shopify has taken Rails through some of the world's largest sal
@@ -1816,8 +2048,8 @@ LOCATION:164
 SUMMARY:5 Years of Rails Scaling to Support Massive Sales (High Volume)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:b3808887-752a-4f12-9805-e2adf43ef5b5
+DTSTAMP:20170418T171451Z
+UID:68c83ead-6102-4a3c-975f-71da532227a2
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
 DESCRIPTION:This is a sponsored talk by Hired.\n\nHired open-sources some u
@@ -1840,8 +2072,8 @@ LOCATION:162
 SUMMARY:Open Sourcing: Real Talk (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:14919585-b843-4d47-9e3c-7767fc05141c
+DTSTAMP:20170418T171451Z
+UID:177de64d-3cdf-4872-96e6-0780549ad494
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
 DESCRIPTION:You've added background jobs. You have calls to external servic
@@ -1870,8 +2102,8 @@ SUMMARY:Beyond validates_presence_of: ensuring eventual consistency (Genera
  l)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:32c200f8-2fc9-4577-8222-d8fbaa34a700
+DTSTAMP:20170418T171451Z
+UID:fc498c30-4118-47a6-964e-be88c4fe7b12
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
 DESCRIPTION:Our company is traditional in many ways\, one of which being th
@@ -1903,16 +2135,16 @@ SUMMARY:Distributed & Local: Getting the Best of Both Worlds (Distributed T
  eams)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:f6b79436-71c3-454f-8b9d-f866bf4314c6
+DTSTAMP:20170418T171451Z
+UID:7e510665-3114-4898-a56e-69e0400e51d0
 DTSTART;TZID=America/Phoenix:20170427T122000
 DTEND;TZID=America/Phoenix:20170427T135000
 LOCATION:Exhibit Hall F&G
 SUMMARY:Lunch (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:fec62d70-79c1-496b-a6f9-46f0f6ebdf88
+DTSTAMP:20170418T171451Z
+UID:d47e8a7a-f4db-41ad-b882-992e5adbdb47
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
 DESCRIPTION:As our applications grow\, we start thinking of better ways to 
@@ -1936,8 +2168,8 @@ LOCATION:South Ballroom
 SUMMARY:Architecture: The Next Generation (Code Organization)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:a933c658-31f4-470b-b05b-1b540b7ee224
+DTSTAMP:20170418T171451Z
+UID:ee11c7d9-088b-4e29-9a89-6f81703854ba
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
 DESCRIPTION:Using a standard Rails stack is great\, but when you want to pr
@@ -1958,16 +2190,16 @@ LOCATION:164
 SUMMARY:Processing streaming data at a large scale with Kafka (High Volume)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:892571d0-bca3-4cbe-a206-f6590db6b70f
+DTSTAMP:20170418T171451Z
+UID:90b804ac-bffd-4097-b314-7d01fa2df148
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
 LOCATION:162
 SUMMARY:Rails APIs: The Next Generation (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:14b7cb58-5824-42ba-8dc9-d0abc3f194fa
+DTSTAMP:20170418T171451Z
+UID:cb57c3da-65ee-4ba6-9e01-76dff26c01ac
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
 DESCRIPTION:There are a lot of database index and query best practices that
@@ -1993,8 +2225,8 @@ SUMMARY:The Secret Life of SQL: How to optimize database performance (Gener
  al)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:fbff8f66-b3d9-43d5-ad05-59ea692db997
+DTSTAMP:20170418T171451Z
+UID:52b7c719-3712-4878-b37b-f5373963e592
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
 DESCRIPTION:Being on a distributed team\, working from your home or coffee 
@@ -2024,24 +2256,58 @@ LOCATION:156
 SUMMARY:The Effective Remote Developer (Distributed Teams)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:34a331de-9761-429d-aa4d-d5607e633fc8
+DTSTAMP:20170418T171451Z
+UID:6256e338-b9ef-4db0-8c68-c6784124a728
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T161000
+DESCRIPTION:Rails started with MySQL\, which is awful\, so we used it as a 
+ dumb data bucket.\n\nNow we all use Postgres\, which is amazing\, so we sh
+ ould take full advantage of it.\n\nThis hands-on session will teach advanc
+ ed SQL querying with Common Table Expressions and Window Functions\, as we
+ ll as doing validations in the database\, and finishing up with executing 
+ Ruby code on the database server itself\, where it runs much faster and ca
+ n be shared between applications easily.\n\n            \n                
+   Rails Developer since about 2006. Taught two classes at San Diego's LEAR
+ N Rails bootcamp. Frequent presenter at local Ruby groups. Gave KWArgs pre
+ sentation at RubyConf.\n\nDegrees in Computer Science\, Math\, Economics a
+ nd Philosophy.\n\nGuyren G Howe\n                \n                \n     
+              Rails Developer since about 2006. Taught two classes at San D
+ iego's LEARN Rails bootcamp. Frequent presenter at local Ruby groups. Gave
+  KWArgs presentation at RubyConf.\n\nDegrees in Computer Science\, Math\, 
+ Economics and Philosophy.
 LOCATION:152
 SUMMARY:Love Your Database (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:6c36d8c6-33d1-441b-926e-467655984ffb
+DTSTAMP:20170418T171451Z
+UID:7cc666c0-0812-482b-a3d9-96c0fafe5fc8
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T161000
+DESCRIPTION:We have all experienced moments when our app does not work as e
+ xpected: Failing validations\, libraries raising exceptions\, web services
+  becoming unavailable. When this happens\, our code ends up becoming defen
+ sive against potential failure and overall quality deteriorates.\nWhat if 
+ we could simplify the process and model our code as a succession of comman
+ ds\, with only success and error paths?\n\nWe'll work to refactor bloated 
+ logic. We'll extract and group code into meaningful objects called command
+ s.\nThese commands will then be chained to handle success/failure and pass
+  data.\n\n            \n                  Benjamin Roth is a Ruby and Java
+ script developer.\nMuch involved in stackoverflow (#2 all time on rails ta
+ g)\, he is also a maintainer of Ruby gems and an instructor on egghead.io.
+ \nApart from his passion for family & technology\, he is a huge fan of the
+  Calvin and Hobbes comics\, even though he does not speak to imaginary tig
+ ers... yet!\n\nBenjamin Roth\n                \n                \n        
+           Benjamin Roth is a Ruby and Javascript developer.\nMuch involved
+  in stackoverflow (#2 all time on rails tag)\, he is also a maintainer of 
+ Ruby gems and an instructor on egghead.io.\nApart from his passion for fam
+ ily & technology\, he is a huge fan of the Calvin and Hobbes comics\, even
+  though he does not speak to imaginary tigers... yet!
 LOCATION:150
 SUMMARY:Structuring your application flow with command chains (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e953b089-b208-4528-a891-cc12586813a4
+DTSTAMP:20170418T171451Z
+UID:45d8ce0d-b4c7-42d8-9833-b362a91c3d93
 DTSTART;TZID=America/Phoenix:20170427T144000
 DTEND;TZID=America/Phoenix:20170427T152000
 DESCRIPTION:With Rails being over ten years old now\, we know that the Rail
@@ -2061,8 +2327,8 @@ LOCATION:South Ballroom
 SUMMARY:Breaking Bad - What Happens When You Defy Conventions? (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:47ace5ed-7fb9-4216-9521-c9b52e9c6b74
+DTSTAMP:20170418T171451Z
+UID:35c5a49c-f3c7-4b1d-bc33-1b9b848fca92
 DTSTART;TZID=America/Phoenix:20170427T144000
 DTEND;TZID=America/Phoenix:20170427T152000
 DESCRIPTION:Bernie Sanders popularized crowdfunding in politics by raising 
@@ -2091,16 +2357,16 @@ LOCATION:164
 SUMMARY:High Performance Political Revolutions (High Volume)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:f2b0116d-b748-4fed-bfde-6d0686ba5a4c
+DTSTAMP:20170418T171451Z
+UID:1e822d9d-6e4f-4dd7-94fc-027704c0fded
 DTSTART;TZID=America/Phoenix:20170427T144000
 DTEND;TZID=America/Phoenix:20170427T152000
 LOCATION:162
 SUMMARY:Recurring Background Jobs with Sidekiq-scheduler (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:8f2fbf57-1c34-4e8f-8648-8ce9110ec2c6
+DTSTAMP:20170418T171451Z
+UID:694a0744-cda4-468a-85e5-047d7e89a01d
 DTSTART;TZID=America/Phoenix:20170427T144000
 DTEND;TZID=America/Phoenix:20170427T152000
 DESCRIPTION:It'll happen eventually. Someone will come down with a feature 
@@ -2128,8 +2394,8 @@ SUMMARY:Reporting on Rails - ActiveRecord and ROLAP Working Together (Gener
  al)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:dcbc25c3-2fac-4cc4-8ecc-8069fa1a733b
+DTSTAMP:20170418T171451Z
+UID:f757f0fa-334f-468a-a00f-9653c8c9e80a
 DTSTART;TZID=America/Phoenix:20170427T144000
 DTEND;TZID=America/Phoenix:20170427T152000
 DESCRIPTION:Application performance monitoring is great for debugging insid
@@ -2149,8 +2415,8 @@ LOCATION:156
 SUMMARY:Distributed Tracing: From Theory to Practice (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:fbb4b615-9c92-4f87-a118-61bdb0cd1b25
+DTSTAMP:20170418T171451Z
+UID:c709ef5b-809a-4847-8140-0d18a70b215f
 DTSTART;TZID=America/Phoenix:20170427T153000
 DTEND;TZID=America/Phoenix:20170427T161000
 DESCRIPTION:As systems get more complex they inevitably fail. Many of those
@@ -2181,8 +2447,8 @@ LOCATION:South Ballroom
 SUMMARY:Managing Unmanageable Complexity (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:33581cba-1903-4c87-9eaa-a93362c2e27a
+DTSTAMP:20170418T171451Z
+UID:50564722-dece-4331-a9af-0424ace7bf95
 DTSTART;TZID=America/Phoenix:20170427T153000
 DTEND;TZID=America/Phoenix:20170427T161000
 DESCRIPTION:Is your application running too slow? How can you make it run l
@@ -2218,16 +2484,16 @@ LOCATION:164
 SUMMARY:Panel: Performance... performance (High Volume)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:bc1a28e5-c3c5-441b-930e-1d5aa69459e6
+DTSTAMP:20170418T171451Z
+UID:40e9f199-b19d-4dfa-9c57-0aa515d09fe9
 DTSTART;TZID=America/Phoenix:20170427T153000
 DTEND;TZID=America/Phoenix:20170427T161000
 LOCATION:162
 SUMMARY:Keeping Code Style Sanity in a 10-year-old Codebase (Sponsored)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:258c8dc8-01e8-405e-a252-35efe51f6e39
+DTSTAMP:20170418T171451Z
+UID:0f222f9e-86c8-40a0-8f0c-80571e67c212
 DTSTART;TZID=America/Phoenix:20170427T153000
 DTEND;TZID=America/Phoenix:20170427T161000
 DESCRIPTION:The logical place to put view-related logic is... inside your v
@@ -2248,32 +2514,32 @@ LOCATION:160
 SUMMARY:Do Your Views Know Too Much? (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:9fa0ef4f-4b24-49d2-9d68-cc7465eb3954
+DTSTAMP:20170418T171451Z
+UID:5cf14fef-5d2d-453c-8112-fab2a7acfc10
 DTSTART;TZID=America/Phoenix:20170427T153000
 DTEND;TZID=America/Phoenix:20170427T161000
 LOCATION:156
 SUMMARY:What's my app *really* doing in production? (General)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:188db9b5-8c8c-4445-8645-cc516465e46b
+DTSTAMP:20170418T171451Z
+UID:cb9e5bd6-5b33-41b0-8628-d0091c9917ba
 DTSTART;TZID=America/Phoenix:20170427T161000
 DTEND;TZID=America/Phoenix:20170427T170000
 LOCATION:Exhibit Hall F&G
 SUMMARY:PM BREAK (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:d8348494-0589-4439-a8b5-438cf8879c2d
+DTSTAMP:20170418T171451Z
+UID:4f1d0926-2be7-433a-964c-9446da9b2d81
 DTSTART;TZID=America/Phoenix:20170427T170000
 DTEND;TZID=America/Phoenix:20170427T180000
 LOCATION:South Ballroom
 SUMMARY:Keynote: Aaron Patterson (Main Events)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:a702352d-0cf0-4675-9c6f-8b9fd731f9e9
+DTSTAMP:20170418T171451Z
+UID:55077603-e690-44ed-8ff0-ddde94d8201f
 DTSTART;TZID=America/Phoenix:20170426T184500
 DTEND;TZID=America/Phoenix:20170426T214500
 LOCATION:Green New American Vegetarian. 2022 N 7th St\, Phoenix\, AZ 85006
@@ -2281,8 +2547,8 @@ SUMMARY:Dinner at Green New American Vegetarian. RSVP to @albinosquirrel (E
  xtra Cirricular)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:2ccce47e-8516-451e-9362-eb7cca17dd14
+DTSTAMP:20170418T171451Z
+UID:9d6aa8e5-9daf-4ac7-9252-cf6e6822a9c8
 DTSTART;TZID=America/Phoenix:20170426T200000
 DTEND;TZID=America/Phoenix:20170426T235959
 LOCATION:August Karaoke Box

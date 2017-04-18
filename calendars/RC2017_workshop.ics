@@ -3,115 +3,381 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:d2668336-31ef-4d68-97f0-9b2292f4cf78
+DTSTAMP:20170418T171452Z
+UID:5f211530-fa09-4b2a-a09e-3790087eba47
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T122000
+DESCRIPTION:The effectiveness of your team is limited by your communication
+ . To be a great developer we need to be able to express ideas into code. T
+ o be a great developer on a team we need to be able to transfer those idea
+ s and that code between other humans.\n\nIn this workshop we will be focus
+ ed on improving our own teams by improving our own communication. We will 
+ learn how to give more effective and meaningful code feedback\, how to bre
+ ak complex ideas down into simple jargon free components\, and we will dis
+ cuss how we can build better teams and streamline our development processe
+ s.\n\n            \n                  Justin is a developer\, educator\, s
+ peaker\, friend to all\, and founder of Lunar Collective. He has spent the
+  majority of his career teaching and mentoring others along side solving p
+ roblems for companies and organizations of all sizes. He currently lives o
+ utside Austin\, TX\, on a ranch surrounded by horses\, cats\, a zebra\, an
+ d llama.\n\nJustin Herrick\n                \n                \n          
+         Justin is a developer\, educator\, speaker\, friend to all\, and f
+ ounder of Lunar Collective. He has spent the majority of his career teachi
+ ng and mentoring others along side solving problems for companies and orga
+ nizations of all sizes. He currently lives outside Austin\, TX\, on a ranc
+ h surrounded by horses\, cats\, a zebra\, and llama.
 LOCATION:152
 SUMMARY:Building better teams through communication (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:ba206464-116b-49a4-b34b-f4f9650db193
+DTSTAMP:20170418T171452Z
+UID:c63ae93f-daaa-4604-abf6-e1b579c3b0c7
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T122000
+DESCRIPTION:In a world we teach ourselves a lot of things\, why not do it R
+ uby-on-Rails-on-Pi way? Letâs get our hands on a piece of hardware\, 
+ understand what it takes to setup one up\, install a couple of libraries\,
+  Ruby\, RVM\, RBENV\, a GUI. Letâs get a couple of sensors: motion\, 
+ temperature\, humidity\, tsunami\, ectoplasm and see if we detect a cool t
+ hing or two.\nLet's discuss how we can use what we know about Rails to exp
+ lore things on a RaspberryPi. From a practical point of view\, we will go 
+ through installation\, setup\, and build a monitoring Motion Sensor applic
+ ation on a RaspberryPi.\n\n            \n                  Helio is a Lead
+  Architect at CommonLit and a passionate software engineer and has created
+  things primarily in C/C++ & Ruby\, over the past 15 years. He(lio) met Ru
+ by v1.8.7 and Rails 2.x in 2010. Recently founded a company to help small 
+ NPOs to increase awareness and community engagement and currently working 
+ for a #EdTech NPO!\n\nHelio Cola\n                \n                \n    
+               Helio is a Lead Architect at CommonLit and a passionate soft
+ ware engineer and has created things primarily in C/C++ & Ruby\, over the 
+ past 15 years. He(lio) met Ruby v1.8.7 and Rails 2.x in 2010. Recently fou
+ nded a company to help small NPOs to increase awareness and community enga
+ gement and currently working for a #EdTech NPO!
 LOCATION:150
 SUMMARY:DIY: Home monitoring with Rails & RaspberryPi (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e73e04e0-e674-4f3b-b50a-3f4cbdbbad91
+DTSTAMP:20170418T171452Z
+UID:02bb571c-7d9e-4bf1-91e9-0789ed742b4b
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T151000
+DESCRIPTION:RubyMotion\, the Ruby runtime that lets you develop native apps
+  for iOS\, macOS\, watchOS\, tvOS\, and ANDROID\, using your favorite edit
+ or\, and the Ruby language and Ruby tools that you all know and love. \n\n
+ Come and get your feet wet developing native applications with RubyMotion 
+ Starter (Free!). \n\n            \n                  Lori is a Ruby\, Rail
+ s\, and RubyMotion developer of many years experience. She has written an 
+ iPhone app (WIMBY - http://wimby.ca) in RubyMotion\, a book based on her e
+ xperiences with Core Data while creating WIMBY (Core Data in Motion - http
+ ://coredatainmotion)\, and has spoken at RubyMotion #inspect. She has also
+  taught the well-received Rails4iOS Developers workshop at conferences aro
+ und the world.\n\nLori M Olson\n                \n                \n      
+             Lori is a Ruby\, Rails\, and RubyMotion developer of many year
+ s experience. She has written an iPhone app (WIMBY - http://wimby.ca) in R
+ ubyMotion\, a book based on her experiences with Core Data while creating 
+ WIMBY (Core Data in Motion - http://coredatainmotion)\, and has spoken at 
+ RubyMotion #inspect. She has also taught the well-received Rails4iOS Devel
+ opers workshop at conferences around the world.
 LOCATION:152
 SUMMARY:RubyMotion for Rails Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e8720268-bb21-44fa-b954-ca193b3ac6f3
+DTSTAMP:20170418T171452Z
+UID:52e6f810-aafc-4a26-af81-c6f0bf16af63
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T151000
+DESCRIPTION:Docker and Kubernetes are both experiencing massive growth in i
+ nterest and adoption\, but so what? Neither one is written in Ruby\, why s
+ hould your average Rails developer care? Let's get hands on with Kubernete
+ s and see exactly how powerful it is as a tool. Blue-Green deployments\, C
+ anary Releases\, Independently scaling API services. Kubernetes doesn't so
+ lve these problems directly\, instead it provides a powerful set of abstra
+ ctions to help you implement them yourself. Each attendee will be given fu
+ ll access to their very own ready-to-go Kubernetes cluster running in the 
+ cloud.\n\n            \n                  With approximately 10 years expe
+ rience working as a Ruby on Rails developer and approximately 10 days expe
+ rience working with Docker and Kubernetes\, Jacob is probably not the most
+  qualified person on the planet to help you deploy your production applica
+ tion on a 100-node cluster. Fortunately\, he works at Engine Yard with man
+ y far more experienced and intelligent human beings who can actually suppo
+ rt and monitor your app in production with a 24/7 worldwide support-team.\
+ n\n                \n                  Christopher is the Support Manager 
+ for Asia Pacific at Engine Yard. He is one of the "far more experienced an
+ d intelligent human beings who can actually support and monitor your app i
+ n production" according to Jacob Burkhart. He is also the organizer of Rub
+ yConf Philippines\, which has run annually since 2014.\n\nJacob Burkhart\n
+                 \n                \n                  With approximately 1
+ 0 years experience working as a Ruby on Rails developer and approximately 
+ 10 days experience working with Docker and Kubernetes\, Jacob is probably 
+ not the most qualified person on the planet to help you deploy your produc
+ tion application on a 100-node cluster. Fortunately\, he works at Engine Y
+ ard with many far more experienced and intelligent human beings who can ac
+ tually support and monitor your app in production with a 24/7 worldwide su
+ pport-team.\n\n                \n              \n                \n       
+            Christopher Rigor\n                \n                \n        
+           Christopher is the Support Manager for Asia Pacific at Engine Ya
+ rd. He is one of the "far more experienced and intelligent human beings wh
+ o can actually support and monitor your app in production" according to Ja
+ cob Burkhart. He is also the organizer of RubyConf Philippines\, which has
+  run annually since 2014.
 LOCATION:150
 SUMMARY:Cool Stuff on Kubernetes: a How To for Rails Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:90daeb1d-33cc-4ac8-8f7b-4b373dee3a6b
+DTSTAMP:20170418T171452Z
+UID:44c272a7-a794-41b4-9132-8223e82fc2ec
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T171000
+DESCRIPTION:You can create all sorts of interesting programming projects wi
+ th APIs\, but it can be difficult to learn how to use them\, or find APIs 
+ that are friendly enough to learn with. This workshop is intended for begi
+ nner and intermediate programmers who have never played with an API before
+ . Together\, we'll go through the process of setting up a small Sinatra ap
+ p integrated with a free\, well-documented API service\, from authenticati
+ on to sending and retrieving data.\n\n            \n                  Teri
+ an Koscik is a software engineer at GitHub and co-organizer of Django Girl
+ s PDX. She has used APIs to collect data for mobile game user analytics\, 
+ and to create Twitter bots about topics such as butts and tacos. She lives
+  in Portland\, OR with her boyfriend and their large cat.\n\nTerian Koscik
+ \n                \n                \n                  Terian Koscik is a
+  software engineer at GitHub and co-organizer of Django Girls PDX. She has
+  used APIs to collect data for mobile game user analytics\, and to create 
+ Twitter bots about topics such as butts and tacos. She lives in Portland\,
+  OR with her boyfriend and their large cat.
 LOCATION:152
 SUMMARY:Your First API Integration (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:76d40723-f25b-4e24-b13d-0ef7af7aa165
+DTSTAMP:20170418T171452Z
+UID:c61f7de5-743f-4a55-a6d5-caae97b86267
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T171000
+DESCRIPTION:Are you a full-stack developer and have a slow website? Let's f
+ ix that! This workshop is an introduction to improving page load times and
+  general front-end performance for Rails full-stack devs. Some literacy wi
+ th Javascript\, HTML and CSS is assumed\, but you don't have to be up-to-d
+ ate on the latest Javascript trends (let's face it\, no one is!). Bring a 
+ Rails application and your laptop and let's get working.\n\n            \n
+                   Nate is a freelancer and consultant that focuses on Ruby
+  web application performance. Author of The Complete Guide to Rails Perfor
+ mance and blogger at nateberkopec.com. He appeared on Shark Tank\, ABC's p
+ rimetime entrepreneurship show\, when he was nineteen years old. Nate rece
+ ntly moved to Taos\, New Mexico after eight years in New York City.\n\nNat
+ e Berkopec\n                \n                \n                  Nate is 
+ a freelancer and consultant that focuses on Ruby web application performan
+ ce. Author of The Complete Guide to Rails Performance and blogger at nateb
+ erkopec.com. He appeared on Shark Tank\, ABC's primetime entrepreneurship 
+ show\, when he was nineteen years old. Nate recently moved to Taos\, New M
+ exico after eight years in New York City.
 LOCATION:150
 SUMMARY:Front-End Performance for Full-Stack Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:f5164355-f67b-41f8-b552-53f057975592
+DTSTAMP:20170418T171452Z
+UID:492eadab-ae1c-48cf-b1ec-6001528c2f66
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T122000
+DESCRIPTION:JavaScript is everywhere and so are its frameworks. Thereâ
+ s tons of pressure and excitement to choose the right or cool tool to be u
+ sed in your app but we donât talk enough about how to use it in a pro
+ duction app that may or may not have an existing JavaScript structure.  In
+  this talk\, I walk you through the some of tools from the React ecosystem
+  that can be brought into your existing app and how to work around tutoria
+ ls that mostly geared towards greenfield projects. \n\n            \n     
+              Rushaine McBean is a software engineer who specializes in bui
+ lding JavaScript and Ruby on Rails web applications. She picked up JavaScr
+ ipt as her first web technology then Ruby on Rails to serve as her API and
+  hasnât looked back. When sheâs not writing code for current emp
+ loyer Agrilyst\, sheâs working on side projects to stay update to wit
+ h JavaScript & Ruby on Rails technologies or helping run Manhattan.js a lo
+ cal JS meetup in NYC.\n\nRushaine McBean\n                \n              
+   \n                  Rushaine McBean is a software engineer who specializ
+ es in building JavaScript and Ruby on Rails web applications. She picked u
+ p JavaScript as her first web technology then Ruby on Rails to serve as he
+ r API and hasnât looked back. When sheâs not writing code for cu
+ rrent employer Agrilyst\, sheâs working on side projects to stay upda
+ te to with JavaScript & Ruby on Rails technologies or helping run Manhatta
+ n.js a local JS meetup in NYC.
 LOCATION:152
 SUMMARY:Making Moves With React (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:559afbcd-3bd1-4c83-ba09-7b51ffa37fac
+DTSTAMP:20170418T171452Z
+UID:066f375c-4ce2-47e3-b210-fd043a88f1b2
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T122000
+DESCRIPTION:A major goal of refactoring is turning bad code into good code\
+ , but on what basis can we differentiate? There are countless opinions on 
+ the subject\, but in this workshop\, we'll assume a radical position: good
+  code is that which allows our machines dignity in their work. With that a
+ ssumption\, we'll take a fresh (and memorable) look at refactoring.\n\n   
+          \n                  Evan Burchard is a Web Development Consultant
+  and the author of "Refactoring JavaScript" and "The Web Game Developerâ
+ s Cookbook." Offline\, he has designed an award-winning kinetic game i
+ nvolving stacking real ice cubes\, and periodically picks up his project t
+ o walk across the U.S.\n\nEvan Burchard\n                \n               
+  \n                  Evan Burchard is a Web Development Consultant and the
+  author of "Refactoring JavaScript" and "The Web Game Developerâs Coo
+ kbook." Offline\, he has designed an award-winning kinetic game involving 
+ stacking real ice cubes\, and periodically picks up his project to walk ac
+ ross the U.S.
 LOCATION:150
 SUMMARY:Refactoring for Machine Dignity (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:4afef382-ef10-4081-8031-447a4c5ba37d
+DTSTAMP:20170418T171452Z
+UID:d9b19dfc-1ab5-4f05-bccb-2c1ee39b66fa
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T161000
+DESCRIPTION:Learn to write in Elm\, an exciting new front-end language that
+  lets you to write predictable and productive functionality in the browser
+ . Elm is a functional programming language that compiles to JavaScript and
+  prohibits runtime crashes. After a brief introduction to syntax and seman
+ tics\, we'll pair off and begin building our first Elm application: a coop
+ erative starship shooter game... with Rails backend\, of course! Topics to
+  be covered include: the amazingly helpful compiler\, how to construct you
+ r own types\, WebSockets\, JSON parsing\, and functional programming conce
+ pts.\n\n            \n                  Brad Grzesiak is CEO and co-founde
+ r of Bendyworks\, an application development consultancy in Madison\, Wisc
+ onsin. He started his career as a mechanical aerospace engineer and has at
+  least one payload in space. He now seeks out better and better ways to wr
+ ite robust yet flexible software for Bendyworks' clients\, from Fortune 10
+ 0 enterprises to brand-new startups.\n\nBrad Grzesiak\n                \n 
+                \n                  Brad Grzesiak is CEO and co-founder of 
+ Bendyworks\, an application development consultancy in Madison\, Wisconsin
+ . He started his career as a mechanical aerospace engineer and has at leas
+ t one payload in space. He now seeks out better and better ways to write r
+ obust yet flexible software for Bendyworks' clients\, from Fortune 100 ent
+ erprises to brand-new startups.
 LOCATION:152
 SUMMARY:Elm For Rails Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:c4df3a02-82ac-4eb5-9546-87d9c1c67bea
+DTSTAMP:20170418T171452Z
+UID:c0ccd54b-be3a-4ac9-9d27-395b1595aefd
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T161000
+DESCRIPTION:You have likely heard of test-driven development. In many circl
+ es it's touted as the only way to write software. Indeed\, TDD is a powerf
+ ul tool in writing software that not only works\, but continues to work as
+  time and features pass. However\, when learning to test-drive software\, 
+ you're often left confused about where to start and which direction to go.
+ \n\nThis talk will provide some some gentle advice about TDD as we interac
+ tively iterate on an app starting with a proposed feature\, adding tests\,
+  building the implementation\, and refactoring to the final solution.\n\n 
+            \n                  Jay has been programming professionally for
+  over 10 years. Years ago he fell in love with the charming Ruby language 
+ and has found great joy in teaching it since.\n\nJay works as a consultant
+  and instructor at Big Nerd Ranch. He works fully remote from (sweet) home
+  in Alabama. Remote is a perfect working situation as it allows him to do 
+ what he loves while being close to the people he loves\, his beautiful wif
+ e and son.\n\nJay Hayes\n                \n                \n             
+      Jay has been programming professionally for over 10 years. Years ago 
+ he fell in love with the charming Ruby language and has found great joy in
+  teaching it since.\n\nJay works as a consultant and instructor at Big Ner
+ d Ranch. He works fully remote from (sweet) home in Alabama. Remote is a p
+ erfect working situation as it allows him to do what he loves while being 
+ close to the people he loves\, his beautiful wife and son.
 LOCATION:150
 SUMMARY:TDD: From feature to tests to implementation (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:0a833752-15cc-45b6-a3a4-ef15b8818a5c
+DTSTAMP:20170418T171452Z
+UID:289619cb-0561-4b90-9efb-e3e927eabd64
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T122000
+DESCRIPTION:A smart man named Larry Wall once said the three virtues of a p
+ rogrammer are laziness\, impatience and hubris. Well\, if you're not using
+  shell scripts to automate your work\, then you're probably not being lazy
+  to your full potential!\n\nIn this workshop you'll need no prior knowledg
+ e of shell programming other than a basic familiarity of how to use a term
+ inal\, and you'll come away with the knowledge needed to write some simple
+  but effective functions and scripts. We'll also go over how to use some o
+ f the helpful UNIX tools like cat\, head/tail\, grep\, sed\, awk\, xargs a
+ nd more!\n\n            \n                  Devon is a Software Engineer a
+ t EducationSuperHighway. When he's not writing Ruby at work\, he can be fo
+ und contributing to open source projects in Elixir. Away from the computer
+  he's a husband\, father and chess player.\n\nDevon Estes\n               
+  \n                \n                  Devon is a Software Engineer at Edu
+ cationSuperHighway. When he's not writing Ruby at work\, he can be found c
+ ontributing to open source projects in Elixir. Away from the computer he's
+  a husband\, father and chess player.
 LOCATION:152
 SUMMARY:Make your life easier with shell scripting and UNIX tools (Workshop
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:243d769a-cc12-4b21-957d-297cf816aa15
+DTSTAMP:20170418T171452Z
+UID:9a2ee719-fe53-4745-811a-d1818102a585
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T122000
+DESCRIPTION:In this workshop\, developers will learn practical models that 
+ take the magic out of design. Because even though design is creative work 
+ and sometimes needs a spark of inspiration\, there's not much wizardry inv
+ olved. We will run throughâpractice withâa few much used design 
+ models. After this workshop you will be able to hire better designers\, gi
+ ve better feedback to designers\, and know how to improve an interface wit
+ hout a designer there to help you.\n\n            \n                  Desi
+ gner & front-end developer. I worked in agencies\, as a freelancer\, in st
+ artups\, and as a founder of AppSignal. Love working with developers\, foc
+ ussed on mutual understanding and design systems. Probably the most pragma
+ tic designer you'll meet. Oh\, and I believe that developers are pretty go
+ od designers as well.\n\nWes Oudshoorn\n                \n                
+ \n                  Designer & front-end developer. I worked in agencies\,
+  as a freelancer\, in startups\, and as a founder of AppSignal. Love worki
+ ng with developers\, focussed on mutual understanding and design systems. 
+ Probably the most pragmatic designer you'll meet. Oh\, and I believe that 
+ developers are pretty good designers as well.
 LOCATION:150
 SUMMARY:Demystifying interface design (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:6f5e415f-ae19-49af-a53e-764c703a07d4
+DTSTAMP:20170418T171452Z
+UID:888233d4-8dcd-43d4-970a-0dc6272fbbe4
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T161000
+DESCRIPTION:Rails started with MySQL\, which is awful\, so we used it as a 
+ dumb data bucket.\n\nNow we all use Postgres\, which is amazing\, so we sh
+ ould take full advantage of it.\n\nThis hands-on session will teach advanc
+ ed SQL querying with Common Table Expressions and Window Functions\, as we
+ ll as doing validations in the database\, and finishing up with executing 
+ Ruby code on the database server itself\, where it runs much faster and ca
+ n be shared between applications easily.\n\n            \n                
+   Rails Developer since about 2006. Taught two classes at San Diego's LEAR
+ N Rails bootcamp. Frequent presenter at local Ruby groups. Gave KWArgs pre
+ sentation at RubyConf.\n\nDegrees in Computer Science\, Math\, Economics a
+ nd Philosophy.\n\nGuyren G Howe\n                \n                \n     
+              Rails Developer since about 2006. Taught two classes at San D
+ iego's LEARN Rails bootcamp. Frequent presenter at local Ruby groups. Gave
+  KWArgs presentation at RubyConf.\n\nDegrees in Computer Science\, Math\, 
+ Economics and Philosophy.
 LOCATION:152
 SUMMARY:Love Your Database (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:ddadf142-c168-4f32-b3c4-8c0d79b93745
+DTSTAMP:20170418T171452Z
+UID:bb9036cc-a024-4166-882b-b9a39de548fb
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T161000
+DESCRIPTION:We have all experienced moments when our app does not work as e
+ xpected: Failing validations\, libraries raising exceptions\, web services
+  becoming unavailable. When this happens\, our code ends up becoming defen
+ sive against potential failure and overall quality deteriorates.\nWhat if 
+ we could simplify the process and model our code as a succession of comman
+ ds\, with only success and error paths?\n\nWe'll work to refactor bloated 
+ logic. We'll extract and group code into meaningful objects called command
+ s.\nThese commands will then be chained to handle success/failure and pass
+  data.\n\n            \n                  Benjamin Roth is a Ruby and Java
+ script developer.\nMuch involved in stackoverflow (#2 all time on rails ta
+ g)\, he is also a maintainer of Ruby gems and an instructor on egghead.io.
+ \nApart from his passion for family & technology\, he is a huge fan of the
+  Calvin and Hobbes comics\, even though he does not speak to imaginary tig
+ ers... yet!\n\nBenjamin Roth\n                \n                \n        
+           Benjamin Roth is a Ruby and Javascript developer.\nMuch involved
+  in stackoverflow (#2 all time on rails tag)\, he is also a maintainer of 
+ Ruby gems and an instructor on egghead.io.\nApart from his passion for fam
+ ily & technology\, he is a huge fan of the Calvin and Hobbes comics\, even
+  though he does not speak to imaginary tigers... yet!
 LOCATION:150
 SUMMARY:Structuring your application flow with command chains (Workshop)
 END:VEVENT

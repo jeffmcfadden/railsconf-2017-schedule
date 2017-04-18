@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:7d496c20-c6af-4312-a41d-e3c8f57ef683
+DTSTAMP:20170418T171452Z
+UID:be5ff05d-de15-4cb5-b15e-36686b784b26
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
 DESCRIPTION:Just because you don't have lead / senior / manager / owner in 
@@ -26,8 +26,8 @@ LOCATION:164
 SUMMARY:Leading When You're Not in Charge (Leading at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:2d87ea68-131d-4014-b50d-68724aa09e5e
+DTSTAMP:20170418T171452Z
+UID:57997123-f37f-4b10-adb2-9f8653486352
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
 DESCRIPTION:The ideal workplace\, with motivated employees\, supportive man
@@ -57,8 +57,8 @@ SUMMARY:Bebop to the Top - The Jazz Band As A Guide To Leadership (Leading
  at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:88cc2da8-5d42-405f-aa6e-b2f91342fa90
+DTSTAMP:20170418T171452Z
+UID:293dc93f-fc01-4fe6-abd1-b565f3baa6c9
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
 DESCRIPTION:As the stigma of speaking out about mental health conditions de
@@ -86,8 +86,8 @@ SUMMARY:Supporting Mental Health as an Effective Leader (Leading at all Lev
  els)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:fd0fa659-0847-43a0-bfde-84a2b4b1096b
+DTSTAMP:20170418T171452Z
+UID:95cfa791-aa6d-4fce-a2fe-08fdb6b7208e
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
 DESCRIPTION:Leading an open source or community project means dealing with 
@@ -117,8 +117,8 @@ SUMMARY:It's dangerous to go alone: Building teams like an organizer (Leadi
  ng at all Levels)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e2d6d98f-475c-4544-a578-dfd8aa708dfe
+DTSTAMP:20170418T171452Z
+UID:890cf0da-4846-4f10-b9ca-6e287ae2cf11
 DTSTART;TZID=America/Phoenix:20170426T153000
 DTEND;TZID=America/Phoenix:20170426T161000
 DESCRIPTION:Are you a new manager? Have you been asked to lead a project? D

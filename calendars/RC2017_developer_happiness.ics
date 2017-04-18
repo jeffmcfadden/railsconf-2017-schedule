@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:eac67e76-a45c-4a9d-a62f-6d3c2e0fa73a
+DTSTAMP:20170418T171452Z
+UID:eaf24655-6188-4e0d-a71f-8a6f5c82fea6
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T113000
 DESCRIPTION:The history of programming is filled with examples of bugs that
@@ -30,8 +30,8 @@ SUMMARY:The Good Bad Bug: Learning to Embrace Mistakes (Developer Happiness
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:5953d533-6448-49cf-b65d-18d7cde051ac
+DTSTAMP:20170418T171452Z
+UID:dc74f03e-1e84-4006-b68b-a3892b568a27
 DTSTART;TZID=America/Phoenix:20170425T114000
 DTEND;TZID=America/Phoenix:20170425T122000
 DESCRIPTION:We have amazing skills and abilities\, but for a lot of us the 
@@ -65,8 +65,8 @@ SUMMARY:Panel: Developer Happiness through Getting Involved (Developer Happ
  iness)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:7ccc922c-d10b-452b-bf1a-8c8745f20585
+DTSTAMP:20170418T171452Z
+UID:cbbfa14d-0f43-4621-927f-b0ac14732bd4
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T142000
 LOCATION:164
@@ -74,8 +74,8 @@ SUMMARY:Understanding "Spoon Theory" and Preventing Burnout (Developer Happ
  iness)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T163721Z
-UID:e6faee46-2963-4948-9eae-4ddc3529ac0d
+DTSTAMP:20170418T171452Z
+UID:994572ea-6c2f-465d-9212-fac5b6c809ab
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
 DESCRIPTION:Programming is a deeply mental art. As programmers\, we invest 
