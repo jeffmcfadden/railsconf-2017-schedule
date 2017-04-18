@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:7c90bc1c-ca9e-4b3f-a17a-551cd3c1b913
+DTSTAMP:20170418T171710Z
+UID:68b220f0-ad7f-4cde-a161-b52863dcae7c
 DTSTART;TZID=America/Phoenix:20170426T184500
 DTEND;TZID=America/Phoenix:20170426T214500
 LOCATION:Green New American Vegetarian. 2022 N 7th St\, Phoenix\, AZ 85006
@@ -12,12 +12,32 @@ SUMMARY:Dinner at Green New American Vegetarian. RSVP to @albinosquirrel (E
  xtra Cirricular)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:0a7be466-f8a6-4582-ae4a-2f87431f2f43
+DTSTAMP:20170418T171710Z
+UID:1bded11a-701f-43cb-b750-9541ec1f7f9d
 DTSTART;TZID=America/Phoenix:20170426T200000
 DTEND;TZID=America/Phoenix:20170426T235959
 LOCATION:August Karaoke Box
 SUMMARY:Karaoke on Rails #rubykaraoke at August Karaoke Box (Extra Cirricul
  ar)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170418T171710Z
+UID:8cba0d08-5517-42b8-ae3b-2a6c3ba46010
+DTSTART;TZID=America/Phoenix:20170425T190000
+DTEND;TZID=America/Phoenix:20170425T220000
+DESCRIPTION:Registration Required. https://www.eventbrite.com/e/engine-yard
+ -10-year-anniversary-party-tickets-33600718654
+LOCATION:The Duce\, 525 South Central Ave Phoenix\, AZ 85004
+SUMMARY:Engine Yard 10 Year Anniversary Party (Registration Required) (Extr
+ a Cirricular)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170418T171710Z
+UID:c6e44a6f-0a7a-49a4-acb8-389e5867d027
+DTSTART;TZID=America/Phoenix:20170426T161000
+DTEND;TZID=America/Phoenix:20170426T173000
+DESCRIPTION:
+LOCATION:Phoenix Convention Center Exhibit Hall
+SUMMARY:Procore Happy Hour (Extra Cirricular)
 END:VEVENT
 END:VCALENDAR

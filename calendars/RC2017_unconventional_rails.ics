@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:8ee5d0e7-518e-4356-840a-74d9c5539840
+DTSTAMP:20170418T171710Z
+UID:fdaa4d97-6934-42fe-a756-8c115a16dd0f
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T142000
 DESCRIPTION:Board games are great\, but who has time to keep track of what'
@@ -25,8 +25,8 @@ SUMMARY:Whose turn is it anyway? Augmented reality board games. (Unconventi
  onal Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:7e38ef28-bc3f-44a2-a0ba-60d1d0234355
+DTSTAMP:20170418T171710Z
+UID:578d54ca-c9df-4935-a304-d546c7ea2598
 DTSTART;TZID=America/Phoenix:20170425T143000
 DTEND;TZID=America/Phoenix:20170425T151000
 DESCRIPTION:Chatbots\, ActionCable\, A.I. and you. And many more buzzwords 
@@ -61,8 +61,8 @@ LOCATION:156
 SUMMARY:Inventing Friends: ActionCable + AVS = <3 (Unconventional Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:678c9b93-591f-47ec-b2af-5d99092adbee
+DTSTAMP:20170418T171710Z
+UID:b48f0689-d428-427a-a5a4-f75c572873b8
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T162000
 DESCRIPTION:Ruby on Rails is a widely used web framework\, using HTTP to se
@@ -89,8 +89,8 @@ SUMMARY:Outside the (Web) Box: Using Ruby for Other Protocols (Unconvention
  al Rails)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:c986e40e-c9d7-4080-a714-3efa4818cb9c
+DTSTAMP:20170418T171710Z
+UID:6b75c22c-dd6a-4948-b294-5422d0b31fd5
 DTSTART;TZID=America/Phoenix:20170425T163000
 DTEND;TZID=America/Phoenix:20170425T171000
 DESCRIPTION:We live in a world where you can schedule a meeting by talking 

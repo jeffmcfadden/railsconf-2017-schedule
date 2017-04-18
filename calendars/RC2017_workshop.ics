@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:5f211530-fa09-4b2a-a09e-3790087eba47
+DTSTAMP:20170418T171710Z
+UID:6bfc2573-7710-44f3-8fd3-5c4f8ededa80
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T122000
 DESCRIPTION:The effectiveness of your team is limited by your communication
@@ -30,8 +30,8 @@ LOCATION:152
 SUMMARY:Building better teams through communication (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:c63ae93f-daaa-4604-abf6-e1b579c3b0c7
+DTSTAMP:20170418T171710Z
+UID:990eba08-8b4d-46a3-bb5e-d60df3d373af
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T122000
 DESCRIPTION:In a world we teach ourselves a lot of things\, why not do it R
@@ -57,8 +57,8 @@ LOCATION:150
 SUMMARY:DIY: Home monitoring with Rails & RaspberryPi (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:02bb571c-7d9e-4bf1-91e9-0789ed742b4b
+DTSTAMP:20170418T171710Z
+UID:523ff9ff-d887-4622-9d86-9569d7945d4f
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T151000
 DESCRIPTION:RubyMotion\, the Ruby runtime that lets you develop native apps
@@ -82,8 +82,8 @@ LOCATION:152
 SUMMARY:RubyMotion for Rails Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:52e6f810-aafc-4a26-af81-c6f0bf16af63
+DTSTAMP:20170418T171710Z
+UID:978b18bf-7a14-4ec6-829e-26bba8128e0f
 DTSTART;TZID=America/Phoenix:20170425T134000
 DTEND;TZID=America/Phoenix:20170425T151000
 DESCRIPTION:Docker and Kubernetes are both experiencing massive growth in i
@@ -124,8 +124,8 @@ LOCATION:150
 SUMMARY:Cool Stuff on Kubernetes: a How To for Rails Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:44c272a7-a794-41b4-9132-8223e82fc2ec
+DTSTAMP:20170418T171710Z
+UID:61096f80-390d-49aa-ae66-75bf5ebb3eb2
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T171000
 DESCRIPTION:You can create all sorts of interesting programming projects wi
@@ -148,8 +148,8 @@ LOCATION:152
 SUMMARY:Your First API Integration (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:c61f7de5-743f-4a55-a6d5-caae97b86267
+DTSTAMP:20170418T171710Z
+UID:bf0425b5-d89d-4c06-a793-71dfcfadbb0f
 DTSTART;TZID=America/Phoenix:20170425T154000
 DTEND;TZID=America/Phoenix:20170425T171000
 DESCRIPTION:Are you a full-stack developer and have a slow website? Let's f
@@ -173,8 +173,8 @@ LOCATION:150
 SUMMARY:Front-End Performance for Full-Stack Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:492eadab-ae1c-48cf-b1ec-6001528c2f66
+DTSTAMP:20170418T171710Z
+UID:d7853e02-375c-44a5-b7cb-b4dfcbbd0764
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T122000
 DESCRIPTION:JavaScript is everywhere and so are its frameworks. Thereâ
@@ -202,8 +202,8 @@ LOCATION:152
 SUMMARY:Making Moves With React (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:066f375c-4ce2-47e3-b210-fd043a88f1b2
+DTSTAMP:20170418T171710Z
+UID:e7e74f1d-383e-4b5c-9101-bef53989d8a9
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T122000
 DESCRIPTION:A major goal of refactoring is turning bad code into good code\
@@ -225,8 +225,8 @@ LOCATION:150
 SUMMARY:Refactoring for Machine Dignity (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:d9b19dfc-1ab5-4f05-bccb-2c1ee39b66fa
+DTSTAMP:20170418T171710Z
+UID:749a83fb-fe4d-4d12-87dc-89e454c91cbb
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T161000
 DESCRIPTION:Learn to write in Elm\, an exciting new front-end language that
@@ -253,8 +253,8 @@ LOCATION:152
 SUMMARY:Elm For Rails Developers (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:c0ccd54b-be3a-4ac9-9d27-395b1595aefd
+DTSTAMP:20170418T171710Z
+UID:3dc21527-86a5-4771-a305-f3b64646ffce
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T161000
 DESCRIPTION:You have likely heard of test-driven development. In many circl
@@ -282,8 +282,8 @@ LOCATION:150
 SUMMARY:TDD: From feature to tests to implementation (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:289619cb-0561-4b90-9efb-e3e927eabd64
+DTSTAMP:20170418T171710Z
+UID:07d96fe1-0758-42ed-85e6-4576d2c96f9d
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T122000
 DESCRIPTION:A smart man named Larry Wall once said the three virtues of a p
@@ -307,8 +307,8 @@ SUMMARY:Make your life easier with shell scripting and UNIX tools (Workshop
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:9a2ee719-fe53-4745-811a-d1818102a585
+DTSTAMP:20170418T171710Z
+UID:55d39811-017e-414a-ae12-b2c0026acb21
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T122000
 DESCRIPTION:In this workshop\, developers will learn practical models that 
@@ -332,8 +332,8 @@ LOCATION:150
 SUMMARY:Demystifying interface design (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:888233d4-8dcd-43d4-970a-0dc6272fbbe4
+DTSTAMP:20170418T171710Z
+UID:eec62921-4a01-4e2b-9bed-6d3fd2c7b454
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T161000
 DESCRIPTION:Rails started with MySQL\, which is awful\, so we used it as a 
@@ -355,8 +355,8 @@ LOCATION:152
 SUMMARY:Love Your Database (Workshop)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:bb9036cc-a024-4166-882b-b9a39de548fb
+DTSTAMP:20170418T171710Z
+UID:69fc8939-2f22-47e3-b957-e3d533d38d94
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T161000
 DESCRIPTION:We have all experienced moments when our app does not work as e

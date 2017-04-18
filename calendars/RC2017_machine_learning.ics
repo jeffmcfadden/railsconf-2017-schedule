@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:c8189bc2-036b-4093-a064-f5d6efc00da6
+DTSTAMP:20170418T171710Z
+UID:ed646bfb-90f2-432b-86c1-5564b3905bad
 DTSTART;TZID=America/Phoenix:20170426T105000
 DTEND;TZID=America/Phoenix:20170426T113000
 DESCRIPTION:Machine Learning is no longer just an academic study. Tools lik
@@ -30,8 +30,8 @@ LOCATION:156
 SUMMARY:Is it Food? An Introduction to Machine Learning (Machine Learning)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:2fa9e064-50ee-46e0-83ad-3f89df32550a
+DTSTAMP:20170418T171710Z
+UID:cdf6948e-d2e2-4220-9efa-7056992ccf92
 DTSTART;TZID=America/Phoenix:20170426T114000
 DTEND;TZID=America/Phoenix:20170426T122000
 DESCRIPTION:What's a better way to understand machine learning than a pract
@@ -58,8 +58,8 @@ SUMMARY:Predicting Titanic Survivors with Machine Learning (Machine Learnin
  g)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:8b639e8b-7780-4171-91ad-30ba2f85d44b
+DTSTAMP:20170418T171710Z
+UID:d2a13b50-c490-4372-839d-fde791fc945e
 DTSTART;TZID=America/Phoenix:20170426T135000
 DTEND;TZID=America/Phoenix:20170426T143000
 DESCRIPTION:Before programming\, before formal probability there was Bayes.
@@ -82,8 +82,8 @@ LOCATION:156
 SUMMARY:Bayes is BAE (Machine Learning)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:2ab2dedb-b000-4c77-8faa-f5b625b69245
+DTSTAMP:20170418T171710Z
+UID:3d4a9e0f-7f7a-4a3a-aa41-c2b8e3c5e0ee
 DTSTART;TZID=America/Phoenix:20170426T144000
 DTEND;TZID=America/Phoenix:20170426T152000
 DESCRIPTION:Natural Language Processing is an interesting field of computin

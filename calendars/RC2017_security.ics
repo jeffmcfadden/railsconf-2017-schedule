@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:37f200d2-9cc9-4d57-9a2e-d201d7bf025f
+DTSTAMP:20170418T171710Z
+UID:40d11f5a-3c7e-4537-8a55-0df9755f899b
 DTSTART;TZID=America/Phoenix:20170425T105000
 DTEND;TZID=America/Phoenix:20170425T113000
 DESCRIPTION:Picking an encryption algorithm is like choosing a lock for you
@@ -28,8 +28,8 @@ SUMMARY:The Art & Craft of Secrets: Using the Cryptographic Toolbox (Securi
  ty)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:cd7b6950-6101-45e2-82b7-c0f55b5ed5df
+DTSTAMP:20170418T171710Z
+UID:f4d7fc3a-7db4-4313-a830-d0e0936a0bdf
 DTSTART;TZID=America/Phoenix:20170425T114000
 DTEND;TZID=America/Phoenix:20170425T122000
 DESCRIPTION:Itâs what everyone is talking about: cyber security\, hack

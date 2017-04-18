@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:9070d0d3-f41e-427b-b999-b812d8e11635
+DTSTAMP:20170418T171710Z
+UID:53edb438-86df-447e-8a42-7871aebf265b
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
 DESCRIPTION:Distributed teams can have big benefits for both employers and 
@@ -37,8 +37,8 @@ LOCATION:156
 SUMMARY:A clear-eyed look at distributed teams (Distributed Teams)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:cd4eb754-aeac-4900-836f-fdff3a95d4c2
+DTSTAMP:20170418T171710Z
+UID:5c197033-2eb5-4d9d-9af2-9ce34289acdb
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
 DESCRIPTION:Our company is traditional in many ways\, one of which being th
@@ -70,8 +70,8 @@ SUMMARY:Distributed & Local: Getting the Best of Both Worlds (Distributed T
  eams)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:657c2758-dbde-4d0c-bfab-4d4789460d5f
+DTSTAMP:20170418T171710Z
+UID:9b4c5aa4-c8e1-479a-8029-d1bc19bff145
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
 DESCRIPTION:Being on a distributed team\, working from your home or coffee 

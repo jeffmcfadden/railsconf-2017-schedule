@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:f76ed262-689f-4ab0-beb1-9437a761025f
+DTSTAMP:20170418T171710Z
+UID:5f456d7f-59f3-4ea4-8855-33314d3fbf39
 DTSTART;TZID=America/Phoenix:20170427T105000
 DTEND;TZID=America/Phoenix:20170427T113000
 DESCRIPTION:The attempted rewrite is over\, the dust has settled\, and the 
@@ -30,8 +30,8 @@ SUMMARY:An Optimistic Proposal for Making Horrible Code... Bearable. (Code
  Organization)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:be274d88-78ca-4f2e-ba1b-10d071c397c3
+DTSTAMP:20170418T171710Z
+UID:cc951aa8-adc9-4ab5-8bf4-511f441a034a
 DTSTART;TZID=America/Phoenix:20170427T114000
 DTEND;TZID=America/Phoenix:20170427T122000
 DESCRIPTION:Help! Despite following refactoring patterns by the book\, your
@@ -57,8 +57,8 @@ SUMMARY:Built to last: A domain-driven approach to beautiful systems (Code
  Organization)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170418T171452Z
-UID:b56ecab5-50c2-40e0-abc9-39c3a4e1feb0
+DTSTAMP:20170418T171710Z
+UID:9d32079b-1c72-41b8-b96d-4dc259d80d2b
 DTSTART;TZID=America/Phoenix:20170427T135000
 DTEND;TZID=America/Phoenix:20170427T143000
 DESCRIPTION:As our applications grow\, we start thinking of better ways to 
