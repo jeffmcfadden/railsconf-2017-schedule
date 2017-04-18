@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20170418T154636Z
+UID:acc87831-72a9-4f6b-bb62-56f39599a9c7
+DTSTART;TZID=America/Phoenix:20170425T105000
+DTEND;TZID=America/Phoenix:20170425T113000
+DESCRIPTION:Picking an encryption algorithm is like choosing a lock for you
+ r door. Some are better than others - but there's more to keeping burglars
+  out of your house (or web site) than just the door lock. This talk will r
+ eview what the crypto tools are and how they fit together with our framewo
+ rks to provide trust and privacy for our applications. We'll look under th
+ e hood of websites like Facebook\, at game-changing exploits like Fireshee
+ p\, and at how tools from our application layer (Rails\,) our protocol lay
+ er (HTTP\,) and our transport layer (TLS) combine build user-visible featu
+ res like single sign-on. MICHAEL SWIETON I am a software developer at Atom
+ ic Object. For more than decade I've crafted code into software of all sor
+ ts. I enjoy peeking under the hood of everything\, be it math\, or softwar
+ e\, or board games\, or cake.
+LOCATION:Room: South Ballroom
+SUMMARY:The Art & Craft of Secrets: Using the Cryptographic Toolbox (Securi
+ ty)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170418T154636Z
+UID:9b16d001-6563-4036-bd92-d21d48ee37de
+DTSTART;TZID=America/Phoenix:20170425T114000
+DTEND;TZID=America/Phoenix:20170425T122000
+LOCATION:Room: South Ballroom
+SUMMARY:Uncertain Times: Securing Rails Apps and User Data (Security)
+END:VEVENT
+END:VCALENDAR
